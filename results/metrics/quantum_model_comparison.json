@@ -1,0 +1,87 @@
+{
+  "evaluation_samples": 100,
+  "results": {
+    "Variational Quantum Classifier (VQC)": {
+      "Accuracy (%)": 59.0,
+      "Precision (%)": 60.98,
+      "Recall (%)": 50.0,
+      "F1-Score": 0.5495,
+      "ROC-AUC": 0.6356,
+      "Latency (ms/sample)": 9.54,
+      "Features Used": "4 SVD Components (Angle Encoded)",
+      "Hardware Mode": "CPU Quantum Simulator (default.qubit)"
+    },
+    "Logistic Regression (4-Feature Classical Baseline)": {
+      "Accuracy (%)": 66.0,
+      "Precision (%)": 67.39,
+      "Recall (%)": 62.0,
+      "F1-Score": 0.6458,
+      "ROC-AUC": 0.7328,
+      "Latency (ms/sample)": 0.0,
+      "Features Used": "Same 4 SVD Components (Direct Classical Control)",
+      "Hardware Mode": "Standard CPU Linear Classifier"
+    },
+    "Logistic Regression (Full TF-IDF 5000 features)": {
+      "Accuracy (%)": 90.0,
+      "Precision (%)": 88.46,
+      "Recall (%)": 92.0,
+      "F1-Score": 0.902,
+      "ROC-AUC": 0.9716,
+      "Latency (ms/sample)": 0.0,
+      "Features Used": "Full TF-IDF Sparse Matrix (5,000 features)",
+      "Hardware Mode": "Standard CPU Linear Classifier"
+    },
+    "DistilBERT Transformer": {
+      "Accuracy (%)": 84.0,
+      "Precision (%)": 84.0,
+      "Recall (%)": 84.0,
+      "F1-Score": 0.84,
+      "ROC-AUC": 0.9504,
+      "Latency (ms/sample)": 88.01,
+      "Features Used": "Full Bidirectional Self-Attention Context",
+      "Hardware Mode": "6-Layer Distilled Transformer on CPU"
+    }
+  },
+  "confusion_matrices": {
+    "Variational Quantum Classifier (VQC)": [
+      [
+        34,
+        16
+      ],
+      [
+        25,
+        25
+      ]
+    ],
+    "Logistic Regression (4-Feature Classical Baseline)": [
+      [
+        35,
+        15
+      ],
+      [
+        19,
+        31
+      ]
+    ],
+    "Logistic Regression (Full TF-IDF 5000 features)": [
+      [
+        44,
+        6
+      ],
+      [
+        4,
+        46
+      ]
+    ],
+    "DistilBERT Transformer": [
+      [
+        42,
+        8
+      ],
+      [
+        8,
+        42
+      ]
+    ]
+  }
+}

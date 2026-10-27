@@ -1,0 +1,98 @@
+{
+  "imdb_test_metrics_7500": {
+    "Logistic Regression": {
+      "accuracy": 90.64,
+      "precision": 89.96,
+      "recall": 91.49,
+      "f1_score": 0.9072,
+      "roc_auc": 0.9685,
+      "latency_ms": 0.0
+    },
+    "Multinomial Naive Bayes": {
+      "accuracy": 87.91,
+      "precision": 86.87,
+      "recall": 89.31,
+      "f1_score": 0.8807,
+      "roc_auc": 0.9481,
+      "latency_ms": 0.0
+    },
+    "Bidirectional LSTM": {
+      "accuracy": 72.44,
+      "precision": 67.75,
+      "recall": 85.65,
+      "f1_score": 0.7566,
+      "roc_auc": 0.7947,
+      "latency_ms": 0.26
+    },
+    "TextCNN": {
+      "accuracy": 84.75,
+      "precision": 90.57,
+      "recall": 77.57,
+      "f1_score": 0.8357,
+      "roc_auc": 0.9394,
+      "latency_ms": 0.42
+    },
+    "DistilBERT": {
+      "accuracy": 81.75,
+      "precision": 87.1,
+      "recall": 74.53,
+      "f1_score": 0.8033,
+      "roc_auc": 0.9077,
+      "latency_ms": 39.88
+    }
+  },
+  "ablation_study_7500": {
+    "Full Ensemble (BERT + CNN + LSTM)": {
+      "accuracy": 82.91,
+      "precision": 88.16,
+      "recall": 76.03,
+      "f1_score": 0.8164,
+      "roc_auc": 0.9361
+    },
+    "Ablation A: Drop DistilBERT (CNN + LSTM only)": {
+      "accuracy": 85.67,
+      "precision": 89.42,
+      "recall": 80.91,
+      "f1_score": 0.8495,
+      "roc_auc": 0.9292
+    },
+    "Ablation B: Drop TextCNN (BERT + LSTM only)": {
+      "accuracy": 82.05,
+      "precision": 87.28,
+      "recall": 75.04,
+      "f1_score": 0.807,
+      "roc_auc": 0.9024
+    },
+    "Ablation C: Drop BiLSTM (BERT + CNN only)": {
+      "accuracy": 82.68,
+      "precision": 88.24,
+      "recall": 75.41,
+      "f1_score": 0.8132,
+      "roc_auc": 0.9403
+    }
+  },
+  "headline_benchmark_60": {
+    "total_headlines": 60,
+    "class_breakdown": {
+      "Positive": 20,
+      "Negative": 25,
+      "Neutral": 15
+    },
+    "accuracies": {
+      "Logistic Regression": 36.67,
+      "Multinomial Naive Bayes": 41.67,
+      "Bidirectional LSTM": 41.67,
+      "TextCNN": 40.0,
+      "DistilBERT": 70.0,
+      "Deep Learning Ensemble (PulsePress)": 80.0
+    },
+    "correct_counts": {
+      "Logistic Regression": 22,
+      "Multinomial Naive Bayes": 25,
+      "Bidirectional LSTM": 25,
+      "TextCNN": 24,
+      "DistilBERT": 42,
+      "Deep Learning Ensemble (PulsePress)": 48
+    }
+  }
+}

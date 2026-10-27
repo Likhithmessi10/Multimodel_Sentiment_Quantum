@@ -1,0 +1,72 @@
+{
+  "model": "VariationalQuantumClassifier",
+  "n_qubits": 4,
+  "n_layers": 2,
+  "simulator": "default.qubit",
+  "train_samples": 200,
+  "val_samples": 60,
+  "train_duration_sec": 121.75,
+  "final_val_accuracy": 56.67,
+  "history": [
+    {
+      "epoch": 1,
+      "loss": 1.0651,
+      "val_accuracy": 60.0
+    },
+    {
+      "epoch": 2,
+      "loss": 0.9297,
+      "val_accuracy": 58.33
+    },
+    {
+      "epoch": 3,
+      "loss": 0.903,
+      "val_accuracy": 61.67
+    },
+    {
+      "epoch": 4,
+      "loss": 0.9116,
+      "val_accuracy": 56.67
+    },
+    {
+      "epoch": 5,
+      "loss": 0.9069,
+      "val_accuracy": 58.33
+    },
+    {
+      "epoch": 6,
+      "loss": 0.9144,
+      "val_accuracy": 66.67
+    },
+    {
+      "epoch": 7,
+      "loss": 0.9067,
+      "val_accuracy": 65.0
+    },
+    {
+      "epoch": 8,
+      "loss": 0.9008,
+      "val_accuracy": 65.0
+    },
+    {
+      "epoch": 9,
+      "loss": 0.8986,
+      "val_accuracy": 61.67
+    },
+    {
+      "epoch": 10,
+      "loss": 0.9016,
+      "val_accuracy": 66.67
+    },
+    {
+      "epoch": 11,
+      "loss": 0.905,
+      "val_accuracy": 65.0
+    },
+    {
+      "epoch": 12,
+      "loss": 0.8901,
+      "val_accuracy": 56.67
+    }
+  ]
+}

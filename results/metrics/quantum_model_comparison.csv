@@ -1,0 +1,5 @@
+,Accuracy (%),Precision (%),Recall (%),F1-Score,ROC-AUC,Latency (ms/sample),Features Used,Hardware Mode
+Variational Quantum Classifier (VQC),59.0,60.98,50.0,0.5495,0.6356,9.54,4 SVD Components (Angle Encoded),CPU Quantum Simulator (default.qubit)
+Logistic Regression (4-Feature Classical Baseline),66.0,67.39,62.0,0.6458,0.7328,0.0,Same 4 SVD Components (Direct Classical Control),Standard CPU Linear Classifier
+Logistic Regression (Full TF-IDF 5000 features),90.0,88.46,92.0,0.902,0.9716,0.0,"Full TF-IDF Sparse Matrix (5,000 features)",Standard CPU Linear Classifier
+DistilBERT Transformer,84.0,84.0,84.0,0.84,0.9504,88.01,Full Bidirectional Self-Attention Context,6-Layer Distilled Transformer on CPU

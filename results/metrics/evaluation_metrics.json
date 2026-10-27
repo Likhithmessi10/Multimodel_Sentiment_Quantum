@@ -1,0 +1,59 @@
+[
+  {
+    "model_name": "Logistic Regression",
+    "accuracy": 0.9064,
+    "precision": 0.899580492920818,
+    "recall": 0.9149333333333334,
+    "f1_score": 0.9071919619249075,
+    "roc_auc": 0.9685267200000001,
+    "confusion_matrix": [
+      [
+        3367,
+        383
+      ],
+      [
+        319,
+        3431
+      ]
+    ],
+    "test_samples": 7500
+  },
+  {
+    "model_name": "Multinomial Naive Bayes",
+    "accuracy": 0.8790666666666667,
+    "precision": 0.8687418936446174,
+    "recall": 0.8930666666666667,
+    "f1_score": 0.8807363576594346,
+    "roc_auc": 0.9481321244444445,
+    "confusion_matrix": [
+      [
+        3244,
+        506
+      ],
+      [
+        401,
+        3349
+      ]
+    ],
+    "test_samples": 7500
+  },
+  {
+    "model_name": "Bidirectional LSTM",
+    "accuracy": 0.7244,
+    "precision": 0.6774941995359629,
+    "recall": 0.8565333333333334,
+    "f1_score": 0.7565657755270286,
+    "roc_auc": 0.7946935111111112,
+    "confusion_matrix": [
+      [
+        2221,
+        1529
+      ],
+      [
+        538,
+        3212
+      ]
+    ],
+    "test_samples": 7500
+  }
+]

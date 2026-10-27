@@ -1,0 +1,95 @@
+# ==============================================================================
+# Git Ignore Configuration - PulsePress Q / Multimodel Sentiment Quantum
+# ==============================================================================
+
+# Python Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Byte-compiled / Optimized Python Artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Testing & Coverage
+.pytest_cache/
+.tox/
+.nox/
+.coverage
+.coverage.*
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+htmlcov/
+
+# Local Databases & Dynamic Runtime Outputs
+*.sqlite
+*.sqlite3
+*.db
+news_db.sqlite
+news_output.csv
+*.log
+
+# Environment & Sensitive Credentials
+.env
+.env.local
+.env.*.local
+
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+[Dd]esktop.ini
+
+# IDE & Editor Configurations
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+*.sublime-workspace
+*.sublime-project
+
+# Local Backups & Scratch Dirs
+backups/
+scratch/
+tmp/
+temp/
+
+# Large Legacy Benchmark Datasets (> 10MB)
+# (Public IMDb 50,000 dataset can be redownloaded via scripts/download_data.py)
+data/raw/imdb_dataset.csv
+data/raw/*.csv
+data/processed/train.csv
+data/processed/val.csv
+data/processed/test.csv
+
+# Ensure Core Quantum Benchmark Dataset & Metadata are Explicitly Tracked
+!data/processed/benchmark_1200_headlines.json
+!data/processed/dataset_metadata.json

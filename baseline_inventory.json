@@ -1,0 +1,287 @@
+{
+  ".python-version": {
+    "size_bytes": 8,
+    "modified_time": "2026-10-20T10:29:57.754314",
+    "sha256": "29fad08ad2ba6888b3a3467315b6a5c671ed6f5787427a83fdc316115ee42503"
+  },
+  "app.py": {
+    "size_bytes": 24288,
+    "modified_time": "2026-10-20T11:58:34.164984",
+    "sha256": "512eaf1cd3b8a2dae7d17311b97795c317d6ee07f8f86a527d480b4a96e1148d"
+  },
+  "MINI PROJECT CIRCULAR.pdf": {
+    "size_bytes": 367800,
+    "modified_time": "2026-10-13T20:32:03.186334",
+    "sha256": "b7be320a8c74d76770ef094dc5a20d33596a3c688eb3a67e9123272027600218"
+  },
+  "Mini_Project_Documentation_NRI.docx": {
+    "size_bytes": 481729,
+    "modified_time": "2026-10-24T20:17:09.281729",
+    "sha256": "d979b3f245699b981bf6f7e9d320fb6a1503725d0d8ce32acc3182852ecff06a"
+  },
+  "Mini_Project_Documentation_NRI.md": {
+    "size_bytes": 55833,
+    "modified_time": "2026-10-24T20:25:19.692485",
+    "sha256": "17532115811fd0f54fda821f79d62e23a7f85f1183a5228ad2e5c6abbb7e9ae8"
+  },
+  "Mini_Project_Documentation_NRI.pdf": {
+    "size_bytes": 4149429,
+    "modified_time": "2026-10-24T20:18:11.296932",
+    "sha256": "c9f35592f058e871b37b936fe1bccceb8997bbcb3f9525932d0562e13a5fb751"
+  },
+  "Mini_Project_Template_NRI_Front_Back_Covers.pdf": {
+    "size_bytes": 3742257,
+    "modified_time": "2026-10-24T19:58:56.005073",
+    "sha256": "4b9f58b72632f856f5210886bf9945cff4c42fdfc24f1ab09797f576ff41e404"
+  },
+  "news_db.sqlite": {
+    "size_bytes": 73728,
+    "modified_time": "2026-10-20T12:32:12.256953",
+    "sha256": "6e94e965f1acb8c444fc26d884fc8e1c460293ce7a91e7dad634b081b39d9660"
+  },
+  "news_output.csv": {
+    "size_bytes": 55024,
+    "modified_time": "2026-10-20T12:32:12.274166",
+    "sha256": "06c2abd8ef6658b1db1146c30059c9568a8457f2ab5c5ee27df3dffee0ac06cd"
+  },
+  "Procfile": {
+    "size_bytes": 21,
+    "modified_time": "2026-10-20T10:29:57.757045",
+    "sha256": "57b2620f74b4d2f4e65c184f7f8e248be6914c39c0fdbd516dc6ce8fe2e8aa73"
+  },
+  "PROJECT_DOCUMENTATION_MASTER_REFERENCE.md": {
+    "size_bytes": 69669,
+    "modified_time": "2026-10-26T11:01:03.981086",
+    "sha256": "04f8b78e383130a7d9fcf620cd9d7faa14025f94aa5df9b3e3d479397c389710"
+  },
+  "README.md": {
+    "size_bytes": 6858,
+    "modified_time": "2026-10-20T12:15:29.041694",
+    "sha256": "d90d24273eaac2747c6748e9e8c477ade36052d79844d1deeff183772f7974a1"
+  },
+  "requirements.txt": {
+    "size_bytes": 478,
+    "modified_time": "2026-10-20T11:05:59.032659",
+    "sha256": "15f38e017cf2507e79668f3b9f4852567fa97304d1a974fc7fbc86a45d764155"
+  },
+  "runtime.txt": {
+    "size_bytes": 15,
+    "modified_time": "2026-10-20T10:29:57.759721",
+    "sha256": "22b887d1cffe47b56610fe6e05190fd94a687e78afc31a049aab1ecdae9c1c5a"
+  },
+  "streamlit_app.py": {
+    "size_bytes": 19697,
+    "modified_time": "2026-10-18T19:04:08.648455",
+    "sha256": "3c6ab3cee5109acd2f8d48c1494572fc9de753dae849c7f0ada5e75cb0ab9b68"
+  },
+  "config\\config.yaml": {
+    "size_bytes": 1068,
+    "modified_time": "2026-10-18T12:02:48.462258",
+    "sha256": "fee6d091f88d2d8d75561aa959573635655a793ca8f920a3080bd8c03faeced6"
+  },
+  "data\\README.md": {
+    "size_bytes": 676,
+    "modified_time": "2026-10-18T11:33:32.934533",
+    "sha256": "64b00ff16d48e3281c59806f5924be80cb036b351a3b8b01950c7a065edc284d"
+  },
+  "data\\processed\\dataset_metadata.json": {
+    "size_bytes": 335,
+    "modified_time": "2026-10-18T11:36:14.827771",
+    "sha256": "d5b56d2fef32d94c023119c5e889b5a4b1c554fc870c5dd131fbb32437d97890"
+  },
+  "data\\processed\\test.csv": {
+    "size_bytes": 19674062,
+    "modified_time": "2026-10-18T11:35:55.681836",
+    "sha256": "70e881b47c261e199a33bc748afecaf819500a310eaeca26a2b25d63bebed5fa"
+  },
+  "data\\processed\\train.csv": {
+    "size_bytes": 90030941,
+    "modified_time": "2026-10-18T11:35:55.010475",
+    "sha256": "9fffec9f91a4139ed6da4f3844421a62df936427237f75a1820a1659e1be746b"
+  },
+  "data\\processed\\val.csv": {
+    "size_bytes": 19387679,
+    "modified_time": "2026-10-18T11:35:55.342148",
+    "sha256": "24b8060e9a23b4c6d2e18f46211c9c5adf46416de2fdd4ad947390cfdac0879e"
+  },
+  "data\\raw\\imdb_dataset.csv": {
+    "size_bytes": 66212309,
+    "modified_time": "2026-10-18T11:30:21.763427",
+    "sha256": "dfc447764f82be365fa9c2beef4e8df89d3919e3da95f5088004797d79695aa2"
+  },
+  "models\\logistic_regression.joblib": {
+    "size_bytes": 80863,
+    "modified_time": "2026-10-18T11:37:27.729665",
+    "sha256": "ead150b21b71f9773bce4aadf579f2ed1f2352441edd20ac4b79c663ca44f432"
+  },
+  "models\\lstm_model.pt": {
+    "size_bytes": 4144757,
+    "modified_time": "2026-10-18T12:11:48.483817",
+    "sha256": "4ffc85b24eef32760bf5e0ba0a8084fe6cdb897548459aa7f2627ea56d3628a8"
+  },
+  "models\\lstm_training_history.json": {
+    "size_bytes": 772,
+    "modified_time": "2026-10-18T12:11:48.484343",
+    "sha256": "a392e48f215e2abd0853c122c5207984961b51e05d4024f29dedfebbcf2cb511"
+  },
+  "models\\naive_bayes.joblib": {
+    "size_bytes": 320791,
+    "modified_time": "2026-10-18T11:37:27.783417",
+    "sha256": "16a21d364b6aabb50c36dd70176d561a19029ef654685739c610014f6a29d860"
+  },
+  "models\\text_cnn.pt": {
+    "size_bytes": 8210831,
+    "modified_time": "2026-10-20T11:39:13.157448",
+    "sha256": "becf77614728faf99832190a48b40ec8752fb02b04d9819343e68a0ea31a5796"
+  },
+  "models\\tfidf_vectorizer.joblib": {
+    "size_bytes": 377973,
+    "modified_time": "2026-10-18T11:36:13.554967",
+    "sha256": "97d0e06ea45ea4b98ba4267322632de4694138921e1da8ce9ffe74d1b70fd190"
+  },
+  "models\\tokenizer.joblib": {
+    "size_bytes": 311816,
+    "modified_time": "2026-10-18T18:29:21.422253",
+    "sha256": "a6ae01b8d14c8b24df348ba0e1299f0ba72b94e3b51f5c66c2a3e9412f1f42f1"
+  },
+  "results\\experiment_results.json": {
+    "size_bytes": 2418,
+    "modified_time": "2026-10-20T14:01:45.639902",
+    "sha256": "3393f92f339fc2777fcbf7f679cd9bec1e7027140f2e274b8dfabb94b7d208ae"
+  },
+  "results\\figures\\composite_results_page9.png": {
+    "size_bytes": 198965,
+    "modified_time": "2026-10-24T20:11:49.915325",
+    "sha256": "2961e87b2ec48577d6be9b0c1a246429047e1e5c5f36235cb445d60b8288cff4"
+  },
+  "results\\figures\\confusion_matrices.png": {
+    "size_bytes": 108138,
+    "modified_time": "2026-10-18T18:23:28.045492",
+    "sha256": "29cdd77b04013ec5e6593c6464f4d7d24b57e3c2ae41aa7129fee0bd8c235765"
+  },
+  "results\\figures\\lstm_training_history.png": {
+    "size_bytes": 294143,
+    "modified_time": "2026-10-18T12:11:50.109805",
+    "sha256": "c217d5524ad0fe93f35634982bc410129b1467cff5ac6f1009bdb1a4bb8dd3e8"
+  },
+  "results\\figures\\model_comparison.png": {
+    "size_bytes": 105301,
+    "modified_time": "2026-10-18T18:23:28.270611",
+    "sha256": "61b61fde93e0fa82a0f41814ea2e5ed0f8428c37add1a00ca4163b014e6944fb"
+  },
+  "results\\figures\\roc_curves.png": {
+    "size_bytes": 210195,
+    "modified_time": "2026-10-18T18:23:27.447643",
+    "sha256": "09638f8d098cd0128ad5378ccfa3f61c0253adb787ed3863d347dff01da4e070"
+  },
+  "results\\figures\\system_architecture_diagram.png": {
+    "size_bytes": 269921,
+    "modified_time": "2026-10-24T20:11:12.561412",
+    "sha256": "fba3e3f838ba694b8aefaf9df3ca809058fdd5b355cad2098f9704fade6a987f"
+  },
+  "results\\metrics\\evaluation_metrics.json": {
+    "size_bytes": 1152,
+    "modified_time": "2026-10-18T18:23:25.949078",
+    "sha256": "b33ea3372f756f9e26a1c1c21f4a4aa2b2c2ec853e818c7cac0acfdbc9d6c04c"
+  },
+  "results\\metrics\\model_comparison.csv": {
+    "size_bytes": 224,
+    "modified_time": "2026-10-18T18:23:25.953431",
+    "sha256": "0716260870e878a1611bc823ac53044f3acca292ae5213ac4284d842a833edb6"
+  },
+  "scrapers\\aljazeera_scraper.py": {
+    "size_bytes": 1246,
+    "modified_time": "2026-10-20T10:29:57.759721",
+    "sha256": "102a7bab525171759cc2098a6a6f224ad293b318e94fd55d306d2f37c87a1e3a"
+  },
+  "scrapers\\bbc_scraper.py": {
+    "size_bytes": 2107,
+    "modified_time": "2026-10-20T10:29:57.764382",
+    "sha256": "f68388d5a086335eb437d8b0200767abb32e5130cc32069d536c6ae8ed5d6e6b"
+  },
+  "scrapers\\cnn_scraper.py": {
+    "size_bytes": 1143,
+    "modified_time": "2026-10-20T10:29:57.764382",
+    "sha256": "e1540d947da0caf4c5a56208a9f0d2bd565465e63755e5325f268bc67df6e9a9"
+  },
+  "scripts\\add_tables_docx.py": {
+    "size_bytes": 5163,
+    "modified_time": "2026-10-20T14:15:45.723681",
+    "sha256": "2f1f094876dc3822ce4faf0323fd3746ea2cbbb1fb615d38168b8fcf32e40fb7"
+  },
+  "scripts\\download_data.py": {
+    "size_bytes": 1809,
+    "modified_time": "2026-10-18T11:27:36.113628",
+    "sha256": "d299c71fd087d1abc3bdb7e94c30b1de5b1057fa67f6b23a4f614f287efe0d7c"
+  },
+  "scripts\\generate_reports.py": {
+    "size_bytes": 21216,
+    "modified_time": "2026-10-18T18:31:58.615612",
+    "sha256": "c2a17c3036809825b1cc5becfbe0953bd550ff1ee67ce44c6363a538b10591da"
+  },
+  "scripts\\run_experiments.py": {
+    "size_bytes": 17203,
+    "modified_time": "2026-10-20T13:56:11.893557",
+    "sha256": "85f2aa6665d8b197e72db56a66493c2375b49a5873f13c2a33ef8dc43f20eead"
+  },
+  "scripts\\run_pipeline.py": {
+    "size_bytes": 2863,
+    "modified_time": "2026-10-18T11:50:49.964623",
+    "sha256": "21db44aba3cd3807459336790ceb8b27d49b1bd522af830f8924e750c6f87d9a"
+  },
+  "src\\data_loader.py": {
+    "size_bytes": 2554,
+    "modified_time": "2026-10-18T11:34:16.864956",
+    "sha256": "f164d61322069fc993c8e673a90f9ae7e534cfff90857c1410cc193c6dce0177"
+  },
+  "src\\evaluate.py": {
+    "size_bytes": 12613,
+    "modified_time": "2026-10-18T11:44:47.969968",
+    "sha256": "605132327e3b5646436a473380261aa7dfc1404cd985a89829684250d151551f"
+  },
+  "src\\explain.py": {
+    "size_bytes": 7089,
+    "modified_time": "2026-10-18T18:25:31.426444",
+    "sha256": "f18b9e0c7240558dd1a0559eaa5189257537bedfc57eaea3edc5ecb3bac3fb21"
+  },
+  "src\\predict.py": {
+    "size_bytes": 20640,
+    "modified_time": "2026-10-20T12:07:49.838259",
+    "sha256": "0ce283b6c88bda7cb4c8a61f88fb10d46e98edc8446145a935b97148e7d94fe1"
+  },
+  "src\\preprocessing.py": {
+    "size_bytes": 9213,
+    "modified_time": "2026-10-18T11:34:57.133377",
+    "sha256": "41d12c73073478f7aa929e60856aa781411d2d359ba4ec7c3b61f3a9918fba37"
+  },
+  "src\\train_cnn.py": {
+    "size_bytes": 7736,
+    "modified_time": "2026-10-20T11:35:23.716893",
+    "sha256": "c86173f991e2c55cbd7e33ea4d23e47586dca7342d7bf26201132a15d4003634"
+  },
+  "src\\train_lstm.py": {
+    "size_bytes": 16433,
+    "modified_time": "2026-10-18T12:05:53.246084",
+    "sha256": "31d03408ab8a9401aea23e8931670877e00dc3bca6fbaf0f8c3660e5e683f4af"
+  },
+  "src\\train_ml.py": {
+    "size_bytes": 5227,
+    "modified_time": "2026-10-18T11:37:05.154924",
+    "sha256": "d31a91d5c2bdc101ffaab42366555fdcbef95c03ce074fc538c6a284bc0e9592"
+  },
+  "src\\__init__.py": {
+    "size_bytes": 68,
+    "modified_time": "2026-10-18T11:33:54.935030",
+    "sha256": "51b1625bed10cb0d3ed71fe60b49e889008c367eb87c5c032e033958a54ab516"
+  },
+  "templates\\index.html": {
+    "size_bytes": 70339,
+    "modified_time": "2026-10-20T12:23:24.714592",
+    "sha256": "41e3924e7939e759481ca5fd9f3bbc279a9c4c9d1f1d37822909299133b83493"
+  },
+  "tests\\test_sentiment_system.py": {
+    "size_bytes": 5614,
+    "modified_time": "2026-10-20T12:08:46.837286",
+    "sha256": "97c6969a2c6391c924214e0f3594456845cfd8997af6b4d077e9cbf6baf64079"
+  }
+}

@@ -1,0 +1,4802 @@
+[
+  {
+    "headline": "Financial Wire: The industry symposium hosted by Tech giant was not terribly exciting, but not a waste of time.",
+    "label": 1
+  },
+  {
+    "headline": "Bloomberg: Inflation cooled slightly, but remains stubbornly elevated, pressuring Semiconductor maker margins.",
+    "label": 0
+  },
+  {
+    "headline": "According to Bloomberg, airline conglomerate technical working group publishes draft whitepaper on cryptographic protocols.",
+    "label": 1
+  },
+  {
+    "headline": "MarketWatch: Sovereign wealth fund board of directors sets date for annual general shareholder meeting.",
+    "label": 1
+  },
+  {
+    "headline": "Consumer goods giant administrative headquarters relocates to neighboring corporate park location.",
+    "label": 1
+  },
+  {
+    "headline": "According to Bloomberg, defense contractor cloud security algorithm autonomously mitigates critical zero-day vulnerabilities.",
+    "label": 2
+  },
+  {
+    "headline": "Renewable utility reports catastrophic ninety percent collapse in ocean freight shipping rates (Reuters).",
+    "label": 0
+  },
+  {
+    "headline": "According to Reuters, the legislative proposal concerning Tech giant passed committee review and moves to the floor.",
+    "label": 1
+  },
+  {
+    "headline": "Consumer goods giant environmental agency publishes baseline water quality metrics for river basin.",
+    "label": 1
+  },
+  {
+    "headline": "Retail giant logs record annual commercial deliveries, outperforming industrial peers.",
+    "label": 2
+  },
+  {
+    "headline": "According to TechCrunch, investment bank experiences severe pipeline rupture forcing regional environmental evacuations.",
+    "label": 0
+  },
+  {
+    "headline": "CNBC: Retail giant software platform deploys scheduled minor maintenance patch for bug fixes.",
+    "label": 1
+  },
+  {
+    "headline": "European Central Bank commercial airliner order backlog hits historic thirty billion dollar peak (MarketWatch).",
+    "label": 2
+  },
+  {
+    "headline": "Consumer goods giant major procurement contract abruptly terminated for chronic project failure (Financial Times).",
+    "label": 0
+  },
+  {
+    "headline": "Wall Street Journal: European Central Bank announces routine seasonal flight adjustments between major international hubs.",
+    "label": 1
+  },
+  {
+    "headline": "Federal Reserve environmental regulator orders immediate shutdown of polluting smelting facility.",
+    "label": 0
+  },
+  {
+    "headline": "Cloud provider technical working group publishes draft whitepaper on cryptographic protocols.",
+    "label": 1
+  },
+  {
+    "headline": "Pharmaceutical firm factory automation platform boosts client manufacturing throughput by forty percent (TechCrunch).",
+    "label": 2
+  },
+  {
+    "headline": "Industrial conglomerate holds benchmark investor day to outline five-year strategic operational roadmap (MarketWatch).",
+    "label": 1
+  },
+  {
+    "headline": "Automotive group semiconductor foundry achieves world-first commercial 2-nanometer wafer output (BBC News).",
+    "label": 2
+  },
+  {
+    "headline": "Cloud provider sovereign credit outlook revised to negative citing unsustainable fiscal deficits.",
+    "label": 0
+  },
+  {
+    "headline": "Payment processor wins unanimous regulatory clearance for breakthrough pediatric medical therapy.",
+    "label": 2
+  },
+  {
+    "headline": "Industrial conglomerate economic staff report projects moderate growth consistent with long-term trend (Financial Wire).",
+    "label": 1
+  },
+  {
+    "headline": "Logistics operator avoids debt restructuring after securing emergency credit at prime rates (BBC News).",
+    "label": 2
+  },
+  {
+    "headline": "Consumer goods giant achieves historic zero-defect manufacturing milestone in aerospace assembly.",
+    "label": 2
+  },
+  {
+    "headline": "Cloud provider maritime bulk freighter runs aground spilling toxic fuel into marine reserve.",
+    "label": 0
+  },
+  {
+    "headline": "According to Reuters, federal Reserve posts record quarterly revenue while simultaneously announcing modest staff shifts.",
+    "label": 1
+  },
+  {
+    "headline": "Reuters: Renewable utility high-yield bond spreads blow out to crisis levels as liquidity evaporates.",
+    "label": 0
+  },
+  {
+    "headline": "Sovereign wealth fund reports catastrophic ninety percent collapse in ocean freight shipping rates (AP News).",
+    "label": 0
+  },
+  {
+    "headline": "European Central Bank antitrust inquiry concludes with full exoneration and praise for compliance (BBC News).",
+    "label": 2
+  },
+  {
+    "headline": "The new flagship luxury electric vehicle from Cloud provider broke down three times in test drive.",
+    "label": 0
+  },
+  {
+    "headline": "Financial Times: Pharmaceutical firm patent portfolio expands significantly with key quantum computing breakthroughs.",
+    "label": 2
+  },
+  {
+    "headline": "Financial Times: Payment processor telecommunications unit tests emergency messaging siren relays across county.",
+    "label": 1
+  },
+  {
+    "headline": "Investment bank releases monthly statistical bulletin on regional consumer expenditures.",
+    "label": 1
+  },
+  {
+    "headline": "Logistics operator quarterly revenue increases forty percent, fueled by cloud infrastructure demand.",
+    "label": 2
+  },
+  {
+    "headline": "According to Financial Times, industrial conglomerate sovereign debt defaults loom as international credit downgrade accelerates.",
+    "label": 0
+  },
+  {
+    "headline": "Pharmaceutical firm experiences severe pipeline rupture forcing regional environmental evacuations (TechCrunch).",
+    "label": 0
+  },
+  {
+    "headline": "According to AP News, defense contractor schedules quarterly investor review conference for next Thursday morning.",
+    "label": 1
+  },
+  {
+    "headline": "Financial Wire: Federal Reserve pharmaceutical pipeline advances three novel therapeutic candidates to phase three.",
+    "label": 2
+  },
+  {
+    "headline": "Healthcare network announces second round of layoffs eliminating ten thousand corporate positions.",
+    "label": 0
+  },
+  {
+    "headline": "Financial Times: Automotive group commercial mortgage portfolio incurs steep defaults as property values plunge.",
+    "label": 0
+  },
+  {
+    "headline": "Financial Times: Mining corporation engineering team submits feasibility review for proposed municipal bridge.",
+    "label": 1
+  },
+  {
+    "headline": "According to AP News, sovereign wealth fund battery energy storage facility catches fire, generating hazardous toxic fumes.",
+    "label": 0
+  },
+  {
+    "headline": "Cloud provider agricultural division suffers severe harvest wipeout from historic blistering drought.",
+    "label": 0
+  },
+  {
+    "headline": "According to MarketWatch, payment processor reports record quarterly net profit, easily beating Wall Street consensus.",
+    "label": 2
+  },
+  {
+    "headline": "Inflation cooled slightly, but remains stubbornly elevated, pressuring Automotive group margins.",
+    "label": 0
+  },
+  {
+    "headline": "BBC News: Sovereign wealth fund flagship AI model generates dangerous medical hallucinations during pilot.",
+    "label": 0
+  },
+  {
+    "headline": "CNBC: Aerospace manufacturer announces second round of layoffs eliminating ten thousand corporate positions.",
+    "label": 0
+  },
+  {
+    "headline": "Wall Street Journal: Healthcare network reviews foreign currency reserve metrics in scheduled quarterly administrative audit.",
+    "label": 1
+  },
+  {
+    "headline": "Wall Street Journal: Renewable utility automotive subsidiary paralyzed by critical microcontroller chip shortages.",
+    "label": 0
+  },
+  {
+    "headline": "Telecom carrier cancels phase three clinical drug trial after severe adverse toxicity events (AP News).",
+    "label": 0
+  },
+  {
+    "headline": "Logistics operator automotive division holds media preview for upcoming commercial model lineup (Bloomberg).",
+    "label": 1
+  },
+  {
+    "headline": "According to Financial Times, federal Reserve hardware laboratory conducts routine thermal dissipation testing on processors.",
+    "label": 1
+  },
+  {
+    "headline": "Industrial conglomerate successfully resolves legacy legal dispute with favorable settlement terms (Bloomberg).",
+    "label": 2
+  },
+  {
+    "headline": "Trade delegations meet with Aerospace manufacturer to extend consultation period by thirty days (TechCrunch).",
+    "label": 1
+  },
+  {
+    "headline": "Energy producer overcomes supply chain disruptions to post robust positive free cash flow.",
+    "label": 2
+  },
+  {
+    "headline": "CNBC: European Central Bank university research lab receives standard government grant for basic physics.",
+    "label": 1
+  },
+  {
+    "headline": "Bloomberg: Industrial conglomerate food technology venture wins FDA commercial clearance for cultivated nutrition.",
+    "label": 2
+  },
+  {
+    "headline": "According to Financial Times, officials confirm zero casualties and complete containment at Industrial conglomerate facility.",
+    "label": 2
+  },
+  {
+    "headline": "Energy producer stock market dropped earlier, but analysts remain surprisingly optimistic on outlook.",
+    "label": 1
+  },
+  {
+    "headline": "E-commerce operator industrial subsidiary completes standard five-year facility recertification (Wall Street Journal).",
+    "label": 1
+  },
+  {
+    "headline": "According to Wall Street Journal, energy producer mining division reports quarterly ore extraction tonnage in line with guidance.",
+    "label": 1
+  },
+  {
+    "headline": "Sovereign wealth fund files for Chapter 11 bankruptcy liquidation following severe cash exhaustion (Financial Wire).",
+    "label": 0
+  },
+  {
+    "headline": "Sovereign wealth fund hardware laboratory conducts routine thermal dissipation testing on processors (AP News).",
+    "label": 1
+  },
+  {
+    "headline": "According to Financial Wire, the new flagship luxury electric vehicle from Pharmaceutical firm broke down three times in test drive.",
+    "label": 0
+  },
+  {
+    "headline": "According to BBC News, telecom carrier commercial software adoption doubles across global enterprise customers.",
+    "label": 2
+  },
+  {
+    "headline": "Payment processor legal patent injunction bans commercial sales of flagship smartphone nationwide (Financial Wire).",
+    "label": 0
+  },
+  {
+    "headline": "Defense contractor pharmaceutical pipeline advances three novel therapeutic candidates to phase three (MarketWatch).",
+    "label": 2
+  },
+  {
+    "headline": "Federal Reserve successfully cuts manufacturing overhead by thirty percent without job losses.",
+    "label": 2
+  },
+  {
+    "headline": "Financial Times: European Central Bank signs twenty-year clean energy power purchase agreement with major utilities.",
+    "label": 2
+  },
+  {
+    "headline": "BBC News: Logistics operator sovereign debt defaults loom as international credit downgrade accelerates.",
+    "label": 0
+  },
+  {
+    "headline": "Industrial conglomerate trade advisory panel holds scheduled working session on export licensing (BBC News).",
+    "label": 1
+  },
+  {
+    "headline": "European Central Bank deep learning platform cuts genomic sequencing compute time by eighty percent.",
+    "label": 2
+  },
+  {
+    "headline": "According to Bloomberg, the legislative proposal concerning Retail giant passed committee review and moves to the floor.",
+    "label": 1
+  },
+  {
+    "headline": "Investment bank incurs massive multi-billion dollar regulatory penalty for deceptive practices.",
+    "label": 0
+  },
+  {
+    "headline": "Retail giant establishes strategic alliance to deploy quantum-secure communications globally.",
+    "label": 2
+  },
+  {
+    "headline": "According to MarketWatch, retail giant global brand perception index improves dramatically in independent annual survey.",
+    "label": 2
+  },
+  {
+    "headline": "Semiconductor maker retail chain files for court-supervised liquidation closing all stores.",
+    "label": 0
+  },
+  {
+    "headline": "AP News: Industrial conglomerate suffers devastating ransomware breach compromising millions of customer records.",
+    "label": 0
+  },
+  {
+    "headline": "Bloomberg: Payment processor food processing conglomerate recalls contaminated poultry across fifteen states.",
+    "label": 0
+  },
+  {
+    "headline": "According to Wall Street Journal, renewable utility central statistical bureau releases quarterly labor force participation rate.",
+    "label": 1
+  },
+  {
+    "headline": "Cloud provider launches breakthrough electric vehicle platform with 800-mile driving range (BBC News).",
+    "label": 2
+  },
+  {
+    "headline": "According to MarketWatch, consumer goods giant board of directors sets date for annual general shareholder meeting.",
+    "label": 1
+  },
+  {
+    "headline": "According to TechCrunch, mining corporation reviews foreign currency reserve metrics in scheduled quarterly administrative audit.",
+    "label": 1
+  },
+  {
+    "headline": "BBC News: Federal Reserve industrial subsidiary completes standard five-year facility recertification.",
+    "label": 1
+  },
+  {
+    "headline": "According to BBC News, payment processor completes nationwide high-speed broadband network deployment early.",
+    "label": 2
+  },
+  {
+    "headline": "Aerospace manufacturer commercial aircraft deliveries halted following discovery of structural assembly flaws.",
+    "label": 0
+  },
+  {
+    "headline": "AP News: Sovereign wealth fund profit warning stuns investors as previously forecasted growth evaporates.",
+    "label": 0
+  },
+  {
+    "headline": "Cloud provider convenes annual scientific colloquium on machine learning optimization techniques (Bloomberg).",
+    "label": 1
+  },
+  {
+    "headline": "Renewable utility CEO and top executive leadership abruptly resign amid forensic fraud investigation (Financial Times).",
+    "label": 0
+  },
+  {
+    "headline": "According to Bloomberg, recession concerns recede as Energy producer reports resilient consumer hiring and spending.",
+    "label": 2
+  },
+  {
+    "headline": "E-commerce operator patent agency records weekly list of newly granted technological patents (Wall Street Journal).",
+    "label": 1
+  },
+  {
+    "headline": "AP News: Payment processor chemical processing explosion forces mandatory evacuation of neighboring town.",
+    "label": 0
+  },
+  {
+    "headline": "Payment processor postal authorities issue commemorative series honoring historic pioneers.",
+    "label": 1
+  },
+  {
+    "headline": "Investment bank logistics routing optimization slashes fuel costs and delivery transit times.",
+    "label": 2
+  },
+  {
+    "headline": "Financial Wire: Investment bank antitrust inquiry concludes with full exoneration and praise for compliance.",
+    "label": 2
+  },
+  {
+    "headline": "Financial Wire: Automotive group chemical subsidiary conducts standard routine emissions monitoring survey.",
+    "label": 1
+  },
+  {
+    "headline": "Federal Reserve announces second round of layoffs eliminating ten thousand corporate positions.",
+    "label": 0
+  },
+  {
+    "headline": "MarketWatch: Consumer goods giant schedules quarterly investor review conference for next Thursday morning.",
+    "label": 1
+  },
+  {
+    "headline": "According to TechCrunch, cloud provider flagship AI model generates dangerous medical hallucinations during pilot.",
+    "label": 0
+  },
+  {
+    "headline": "Semiconductor maker mining dam collapse pollutes regional river basin, drawing international outrage (TechCrunch).",
+    "label": 0
+  },
+  {
+    "headline": "BBC News: Consumer goods giant submits new drug application for regulatory review following trial completion.",
+    "label": 1
+  },
+  {
+    "headline": "Logistics operator medical diagnostics device receives accelerated breakthrough device designation (Financial Wire).",
+    "label": 2
+  },
+  {
+    "headline": "Payment processor central statistical bureau releases quarterly labor force participation rate.",
+    "label": 1
+  },
+  {
+    "headline": "Bloomberg: Logistics operator profit warning stuns investors as previously forecasted growth evaporates.",
+    "label": 0
+  },
+  {
+    "headline": "AP News: Mining corporation global brand perception index improves dramatically in independent annual survey.",
+    "label": 2
+  },
+  {
+    "headline": "Tech giant software platform deploys scheduled minor maintenance patch for bug fixes (AP News).",
+    "label": 1
+  },
+  {
+    "headline": "Cloud provider faces sweeping federal antitrust lawsuit seeking corporate dismemberment (Bloomberg).",
+    "label": 0
+  },
+  {
+    "headline": "Airline conglomerate patent agency records weekly list of newly granted technological patents (BBC News).",
+    "label": 1
+  },
+  {
+    "headline": "Financial Times: Renewable utility posts record quarterly revenue while simultaneously announcing modest staff shifts.",
+    "label": 1
+  },
+  {
+    "headline": "BBC News: Logistics operator updates annual supplier code of conduct with minor procedural revisions.",
+    "label": 1
+  },
+  {
+    "headline": "According to Financial Times, e-commerce operator announces second round of layoffs eliminating ten thousand corporate positions.",
+    "label": 0
+  },
+  {
+    "headline": "Energy producer industrial subsidiary completes standard five-year facility recertification (Financial Times).",
+    "label": 1
+  },
+  {
+    "headline": "Retail giant commodity futures contracts trade within customary seasonal historical ranges (TechCrunch).",
+    "label": 1
+  },
+  {
+    "headline": "Pharmaceutical firm faces sweeping federal antitrust lawsuit seeking corporate dismemberment.",
+    "label": 0
+  },
+  {
+    "headline": "Retail giant packaging subsidiary transitions to one hundred percent biodegradable materials.",
+    "label": 2
+  },
+  {
+    "headline": "Recession concerns recede as Airline conglomerate reports resilient consumer hiring and spending.",
+    "label": 2
+  },
+  {
+    "headline": "AP News: Tech giant publishes updated technical specifications for wireless spectrum allocations.",
+    "label": 1
+  },
+  {
+    "headline": "Tech giant seismic monitoring station detects low-magnitude tremor along uninhabited trench (BBC News).",
+    "label": 1
+  },
+  {
+    "headline": "Great, another delayed flight and canceled connection by European Central Bank to make my day perfect.",
+    "label": 0
+  },
+  {
+    "headline": "Biotech startup delivers double-digit operating margin expansion across international units (MarketWatch).",
+    "label": 2
+  },
+  {
+    "headline": "Defense contractor patent portfolio expands significantly with key quantum computing breakthroughs.",
+    "label": 2
+  },
+  {
+    "headline": "Retail giant announces appointment of new Chief Financial Officer effective next month (TechCrunch).",
+    "label": 1
+  },
+  {
+    "headline": "Federal Reserve credit rating upgraded to prime triple-A with stable long-term outlook (Financial Wire).",
+    "label": 2
+  },
+  {
+    "headline": "According to Bloomberg, e-commerce operator automotive subsidiary paralyzed by critical microcontroller chip shortages.",
+    "label": 0
+  },
+  {
+    "headline": "According to Wall Street Journal, airline conglomerate schedules quarterly investor review conference for next Thursday morning.",
+    "label": 1
+  },
+  {
+    "headline": "According to MarketWatch, automotive group factory automation platform boosts client manufacturing throughput by forty percent.",
+    "label": 2
+  },
+  {
+    "headline": "Logistics operator critical software vulnerability actively exploited in widespread zero-day attacks.",
+    "label": 0
+  },
+  {
+    "headline": "Biotech startup international joint venture dissolves in bitter dispute over stolen IP assets (AP News).",
+    "label": 0
+  },
+  {
+    "headline": "According to CNBC, cloud provider automotive division holds media preview for upcoming commercial model lineup.",
+    "label": 1
+  },
+  {
+    "headline": "According to Financial Times, logistics operator factory automation platform boosts client manufacturing throughput by forty percent.",
+    "label": 2
+  },
+  {
+    "headline": "According to CNBC, defense contractor venture investment capital dries up as institutional backers withdraw funding.",
+    "label": 0
+  },
+  {
+    "headline": "According to AP News, the widely touted revolutionary clean energy technology from Mining corporation failed safety tests.",
+    "label": 0
+  },
+  {
+    "headline": "Pharmaceutical firm commercial space launch vehicle explodes seconds after ignition, destroying payload (Bloomberg).",
+    "label": 0
+  },
+  {
+    "headline": "Officials confirm zero casualties and complete containment at Federal Reserve facility (Reuters).",
+    "label": 2
+  },
+  {
+    "headline": "BBC News: E-commerce operator releases monthly statistical bulletin on regional consumer expenditures.",
+    "label": 1
+  },
+  {
+    "headline": "According to Wall Street Journal, biotech startup logs record annual commercial deliveries, outperforming industrial peers.",
+    "label": 2
+  },
+  {
+    "headline": "Pharmaceutical firm environmental agency publishes baseline water quality metrics for river basin.",
+    "label": 1
+  },
+  {
+    "headline": "AP News: Sovereign wealth fund accelerates carbon neutrality targets by five years amid clean breakthroughs.",
+    "label": 2
+  },
+  {
+    "headline": "Defense contractor launches breakthrough electric vehicle platform with 800-mile driving range (BBC News).",
+    "label": 2
+  },
+  {
+    "headline": "Sovereign wealth fund chemical processing explosion forces mandatory evacuation of neighboring town.",
+    "label": 0
+  },
+  {
+    "headline": "Pharmaceutical firm overcomes supply chain disruptions to post robust positive free cash flow (MarketWatch).",
+    "label": 2
+  },
+  {
+    "headline": "Semiconductor maker cancels phase three clinical drug trial after severe adverse toxicity events (Wall Street Journal).",
+    "label": 0
+  },
+  {
+    "headline": "European Central Bank agricultural division suffers severe harvest wipeout from historic blistering drought.",
+    "label": 0
+  },
+  {
+    "headline": "MarketWatch: Airline conglomerate supply chain logistics paralyzed by nationwide port worker dock strike.",
+    "label": 0
+  },
+  {
+    "headline": "According to Reuters, biotech startup venture investment capital dries up as institutional backers withdraw funding.",
+    "label": 0
+  },
+  {
+    "headline": "According to MarketWatch, biotech startup software platform deploys scheduled minor maintenance patch for bug fixes.",
+    "label": 1
+  },
+  {
+    "headline": "Renewable utility credit rating upgraded to prime triple-A with stable long-term outlook (TechCrunch).",
+    "label": 2
+  },
+  {
+    "headline": "According to Financial Wire, cloud provider completes state-of-the-art semiconductor fabrication facility ahead of schedule.",
+    "label": 2
+  },
+  {
+    "headline": "Great, another delayed flight and canceled connection by Telecom carrier to make my day perfect.",
+    "label": 0
+  },
+  {
+    "headline": "According to Financial Wire, biotech startup successfully raises two billion dollars in oversubscribed private funding.",
+    "label": 2
+  },
+  {
+    "headline": "E-commerce operator publishes baseline geological survey data for domestic mineral extraction regions.",
+    "label": 1
+  },
+  {
+    "headline": "Energy producer public transit service schedule operates on normal weekday transit timetable.",
+    "label": 1
+  },
+  {
+    "headline": "AP News: Telecom carrier healthcare system updates standard patient appointment scheduling procedures.",
+    "label": 1
+  },
+  {
+    "headline": "Aerospace manufacturer cancels phase three clinical drug trial after severe adverse toxicity events (Wall Street Journal).",
+    "label": 0
+  },
+  {
+    "headline": "Investment bank reviews foreign currency reserve metrics in scheduled quarterly administrative audit (Reuters).",
+    "label": 1
+  },
+  {
+    "headline": "Reuters: Tech giant wins unanimous regulatory clearance for breakthrough pediatric medical therapy.",
+    "label": 2
+  },
+  {
+    "headline": "Federal Reserve patent portfolio expands significantly with key quantum computing breakthroughs (AP News).",
+    "label": 2
+  },
+  {
+    "headline": "Consumer goods giant legal department files standard procedural answer to civil contract complaint.",
+    "label": 1
+  },
+  {
+    "headline": "According to BBC News, telecom carrier maintains interest rates steady while remaining vigilant on persistent inflation.",
+    "label": 1
+  },
+  {
+    "headline": "Renewable utility convenes annual scientific colloquium on machine learning optimization techniques (CNBC).",
+    "label": 1
+  },
+  {
+    "headline": "According to Financial Times, sovereign wealth fund credit rating upgraded to prime triple-A with stable long-term outlook.",
+    "label": 2
+  },
+  {
+    "headline": "According to Financial Wire, healthcare network updates formal documentation for relational query execution planning standards.",
+    "label": 1
+  },
+  {
+    "headline": "Logistics operator water purification venture brings clean drinking access to remote communities (TechCrunch).",
+    "label": 2
+  },
+  {
+    "headline": "Tech giant automotive division holds media preview for upcoming commercial model lineup.",
+    "label": 1
+  },
+  {
+    "headline": "Defense contractor energy panel convenes to review regional electrical grid transmission capacity (Bloomberg).",
+    "label": 1
+  },
+  {
+    "headline": "Aerospace manufacturer experiences severe pipeline rupture forcing regional environmental evacuations (AP News).",
+    "label": 0
+  },
+  {
+    "headline": "Sovereign wealth fund successfully neutralizes sophisticated nation-state cyber threat with zero losses.",
+    "label": 2
+  },
+  {
+    "headline": "According to TechCrunch, e-commerce operator conducts routine forty billion dollar ten-year treasury refinancing auction.",
+    "label": 1
+  },
+  {
+    "headline": "Aviation safety regulator concludes preliminary inspection of Investment bank without issuing fines.",
+    "label": 1
+  },
+  {
+    "headline": "According to Reuters, the economic slowdown proved far less severe than feared, aiding recovery at Airline conglomerate.",
+    "label": 2
+  },
+  {
+    "headline": "MarketWatch: Great, another delayed flight and canceled connection by Investment bank to make my day perfect.",
+    "label": 0
+  },
+  {
+    "headline": "According to Financial Wire, healthcare network commercial space launch vehicle explodes seconds after ignition, destroying payload.",
+    "label": 0
+  },
+  {
+    "headline": "According to MarketWatch, the legislative proposal concerning Logistics operator passed committee review and moves to the floor.",
+    "label": 1
+  },
+  {
+    "headline": "According to AP News, energy producer suffers catastrophic cloud infrastructure outage disabling banking portals.",
+    "label": 0
+  },
+  {
+    "headline": "Consumer goods giant quarterly revenue increases forty percent, fueled by cloud infrastructure demand.",
+    "label": 2
+  },
+  {
+    "headline": "Bloomberg: Semiconductor maker shares drop slightly after exactly meeting quarterly Wall Street earnings estimates.",
+    "label": 1
+  },
+  {
+    "headline": "E-commerce operator administrative headquarters relocates to neighboring corporate park location.",
+    "label": 1
+  },
+  {
+    "headline": "According to BBC News, federal Reserve administrative headquarters relocates to neighboring corporate park location.",
+    "label": 1
+  },
+  {
+    "headline": "According to Financial Wire, retail giant retail chain files for court-supervised liquidation closing all stores.",
+    "label": 0
+  },
+  {
+    "headline": "Airline conglomerate holds public comment hearing on proposed corporate disclosure regulations.",
+    "label": 1
+  },
+  {
+    "headline": "Aviation safety regulator concludes preliminary inspection of European Central Bank without issuing fines.",
+    "label": 1
+  },
+  {
+    "headline": "Bloomberg: Renewable utility successfully neutralizes sophisticated nation-state cyber threat with zero losses.",
+    "label": 2
+  },
+  {
+    "headline": "Tech giant commercial space launch vehicle explodes seconds after ignition, destroying payload.",
+    "label": 0
+  },
+  {
+    "headline": "According to Reuters, retail giant banking division updates online portal user interface with standard security login.",
+    "label": 1
+  },
+  {
+    "headline": "According to AP News, semiconductor maker international export sales rise thirty percent following trade duty cuts.",
+    "label": 2
+  },
+  {
+    "headline": "Investment bank consumer goods unit renews long-standing retail distribution agreement.",
+    "label": 1
+  },
+  {
+    "headline": "Consumer goods giant maritime bulk freighter runs aground spilling toxic fuel into marine reserve (Financial Wire).",
+    "label": 0
+  },
+  {
+    "headline": "According to Bloomberg, officials confirm zero casualties and complete containment at Payment processor facility.",
+    "label": 2
+  },
+  {
+    "headline": "CNBC: Biotech startup issues urgent safety recall of over one million vehicles due to critical defect.",
+    "label": 0
+  },
+  {
+    "headline": "Defense contractor conducts scheduled biennial maintenance overhaul at regional refining facility (BBC News).",
+    "label": 1
+  },
+  {
+    "headline": "Semiconductor maker establishes strategic alliance to deploy quantum-secure communications globally.",
+    "label": 2
+  },
+  {
+    "headline": "According to Financial Wire, consumer goods giant clinical oncology trial was not a failure, showing marked tumor reduction.",
+    "label": 2
+  },
+  {
+    "headline": "Payment processor board of directors sets date for annual general shareholder meeting.",
+    "label": 1
+  },
+  {
+    "headline": "Reuters: Telecom carrier logs record annual commercial deliveries, outperforming industrial peers.",
+    "label": 2
+  },
+  {
+    "headline": "Healthcare network issues urgent safety recall of over one million vehicles due to critical defect (Reuters).",
+    "label": 0
+  },
+  {
+    "headline": "Sovereign wealth fund posts record quarterly revenue while simultaneously announcing modest staff shifts.",
+    "label": 1
+  },
+  {
+    "headline": "Energy producer corporate pension fund reveals multi-billion dollar solvency shortfall.",
+    "label": 0
+  },
+  {
+    "headline": "According to Financial Wire, aerospace manufacturer agricultural technology reduces irrigation consumption by half while boosting yields.",
+    "label": 2
+  },
+  {
+    "headline": "MarketWatch: Automotive group water purification venture brings clean drinking access to remote communities.",
+    "label": 2
+  },
+  {
+    "headline": "Cloud provider consumer goods unit renews long-standing retail distribution agreement.",
+    "label": 1
+  },
+  {
+    "headline": "Tech giant export volumes collapse following sudden retaliatory trade embargoes.",
+    "label": 0
+  },
+  {
+    "headline": "Federal Reserve public transit service schedule operates on normal weekday transit timetable (AP News).",
+    "label": 1
+  },
+  {
+    "headline": "Healthcare network retail chain files for court-supervised liquidation closing all stores (BBC News).",
+    "label": 0
+  },
+  {
+    "headline": "TechCrunch: Energy producer telecommunications network suffers nationwide routing failure cutting 911 calls.",
+    "label": 0
+  },
+  {
+    "headline": "According to BBC News, tech giant convenes annual scientific colloquium on machine learning optimization techniques.",
+    "label": 1
+  },
+  {
+    "headline": "Semiconductor maker shares surge twelve percent following exceptional forward revenue guidance.",
+    "label": 2
+  },
+  {
+    "headline": "According to Reuters, aerospace manufacturer customer deposit flight accelerates following rumors of capital inadequacy.",
+    "label": 0
+  },
+  {
+    "headline": "According to CNBC, healthcare network battery energy storage facility catches fire, generating hazardous toxic fumes.",
+    "label": 0
+  },
+  {
+    "headline": "According to Wall Street Journal, defense contractor battery energy storage facility catches fire, generating hazardous toxic fumes.",
+    "label": 0
+  },
+  {
+    "headline": "Biotech startup food technology venture wins FDA commercial clearance for cultivated nutrition (TechCrunch).",
+    "label": 2
+  },
+  {
+    "headline": "Energy producer completes nationwide high-speed broadband network deployment early.",
+    "label": 2
+  },
+  {
+    "headline": "E-commerce operator maritime safety agency monitors routine shipping vessel traffic through strait (BBC News).",
+    "label": 1
+  },
+  {
+    "headline": "Recession concerns recede as Logistics operator reports resilient consumer hiring and spending.",
+    "label": 2
+  },
+  {
+    "headline": "Reuters: Retail giant high-yield bond spreads blow out to crisis levels as liquidity evaporates.",
+    "label": 0
+  },
+  {
+    "headline": "TechCrunch: Energy producer production facilities paralyzed as acute raw material shortages force closures.",
+    "label": 0
+  },
+  {
+    "headline": "MarketWatch: Defense contractor central statistical bureau releases quarterly labor force participation rate.",
+    "label": 1
+  },
+  {
+    "headline": "Mining corporation successfully neutralizes sophisticated nation-state cyber threat with zero losses.",
+    "label": 2
+  },
+  {
+    "headline": "Industrial conglomerate university research lab receives standard government grant for basic physics.",
+    "label": 1
+  },
+  {
+    "headline": "AP News: The new flagship luxury electric vehicle from Aerospace manufacturer broke down three times in test drive.",
+    "label": 0
+  },
+  {
+    "headline": "According to AP News, retail giant major procurement contract abruptly terminated for chronic project failure.",
+    "label": 0
+  },
+  {
+    "headline": "Financial Wire: Payment processor commercial software adoption doubles across global enterprise customers.",
+    "label": 2
+  },
+  {
+    "headline": "Financial Times: Investment bank overcomes supply chain disruptions to post robust positive free cash flow.",
+    "label": 2
+  },
+  {
+    "headline": "According to AP News, defense contractor accounting watchdog launches formal investigation into revenue recognition fraud.",
+    "label": 0
+  },
+  {
+    "headline": "According to CNBC, trade delegations meet with Logistics operator to extend consultation period by thirty days.",
+    "label": 1
+  },
+  {
+    "headline": "According to AP News, pharmaceutical firm commercial aircraft deliveries halted following discovery of structural assembly flaws.",
+    "label": 0
+  },
+  {
+    "headline": "Consumer goods giant food processing conglomerate recalls contaminated poultry across fifteen states (BBC News).",
+    "label": 0
+  },
+  {
+    "headline": "Logistics operator announces aggressive share buyback authorization and special cash dividend.",
+    "label": 2
+  },
+  {
+    "headline": "Telecom carrier expands high-wage engineering workforce following record order backlog (Wall Street Journal).",
+    "label": 2
+  },
+  {
+    "headline": "Defense contractor faces massive consumer boycott over documented child labor in overseas supply chain.",
+    "label": 0
+  },
+  {
+    "headline": "Airline conglomerate commercial airliner order backlog hits historic thirty billion dollar peak (Bloomberg).",
+    "label": 2
+  },
+  {
+    "headline": "MarketWatch: Federal Reserve operational streamlining accelerates long-term profitability and cash reserves.",
+    "label": 2
+  },
+  {
+    "headline": "Telecom carrier signs twenty-year clean energy power purchase agreement with major utilities (CNBC).",
+    "label": 2
+  },
+  {
+    "headline": "According to Bloomberg, energy producer successfully resolves legacy legal dispute with favorable settlement terms.",
+    "label": 2
+  },
+  {
+    "headline": "European Central Bank suffers catastrophic cloud infrastructure outage disabling banking portals.",
+    "label": 0
+  },
+  {
+    "headline": "Automotive group signs twenty-year clean energy power purchase agreement with major utilities.",
+    "label": 2
+  },
+  {
+    "headline": "According to Financial Wire, logistics operator antitrust inquiry concludes with full exoneration and praise for compliance.",
+    "label": 2
+  },
+  {
+    "headline": "Biotech startup profit warning stuns investors as previously forecasted growth evaporates.",
+    "label": 0
+  },
+  {
+    "headline": "According to Bloomberg, renewable utility delivers double-digit operating margin expansion across international units.",
+    "label": 2
+  },
+  {
+    "headline": "Cloud provider international joint venture dissolves in bitter dispute over stolen IP assets (Reuters).",
+    "label": 0
+  },
+  {
+    "headline": "Automotive group sovereign credit outlook revised to negative citing unsustainable fiscal deficits.",
+    "label": 0
+  },
+  {
+    "headline": "Energy producer successfully raises two billion dollars in oversubscribed private funding.",
+    "label": 2
+  },
+  {
+    "headline": "According to Wall Street Journal, mining corporation quarterly revenue increases forty percent, fueled by cloud infrastructure demand.",
+    "label": 2
+  },
+  {
+    "headline": "Financial Wire: Cloud provider files for Chapter 11 bankruptcy liquidation following severe cash exhaustion.",
+    "label": 0
+  },
+  {
+    "headline": "Biotech startup technical working group publishes draft whitepaper on cryptographic protocols (CNBC).",
+    "label": 1
+  },
+  {
+    "headline": "Defense contractor factory automation system malfunctions, causing millions in damaged inventory.",
+    "label": 0
+  },
+  {
+    "headline": "Consumer goods giant incurs massive multi-billion dollar regulatory penalty for deceptive practices.",
+    "label": 0
+  },
+  {
+    "headline": "According to BBC News, telecom carrier clinical oncology trial was not a failure, showing marked tumor reduction.",
+    "label": 2
+  },
+  {
+    "headline": "E-commerce operator seismic monitoring station detects low-magnitude tremor along uninhabited trench.",
+    "label": 1
+  },
+  {
+    "headline": "Despite foreign exchange friction, Logistics operator achieves record international net revenue.",
+    "label": 2
+  },
+  {
+    "headline": "According to Financial Wire, telecom carrier holds public comment hearing on proposed corporate disclosure regulations.",
+    "label": 1
+  },
+  {
+    "headline": "Revenue grew 25 percent for Logistics operator, yet operating margins collapsed into severe losses (MarketWatch).",
+    "label": 0
+  },
+  {
+    "headline": "Industrial conglomerate accelerates carbon neutrality targets by five years amid clean breakthroughs.",
+    "label": 2
+  },
+  {
+    "headline": "E-commerce operator water purification venture brings clean drinking access to remote communities (Wall Street Journal).",
+    "label": 2
+  },
+  {
+    "headline": "TechCrunch: Payment processor agricultural division releases estimates for winter grain planting acreage.",
+    "label": 1
+  },
+  {
+    "headline": "Trade delegations meet with Sovereign wealth fund to extend consultation period by thirty days.",
+    "label": 1
+  },
+  {
+    "headline": "Investment bank signs comprehensive bilateral supply pact ensuring long-term raw material access.",
+    "label": 2
+  },
+  {
+    "headline": "According to Bloomberg, payment processor conducts routine forty billion dollar ten-year treasury refinancing auction.",
+    "label": 1
+  },
+  {
+    "headline": "According to Bloomberg, industrial conglomerate technical working group publishes draft whitepaper on cryptographic protocols.",
+    "label": 1
+  },
+  {
+    "headline": "The widely touted revolutionary clean energy technology from Healthcare network failed safety tests (Financial Times).",
+    "label": 0
+  },
+  {
+    "headline": "According to TechCrunch, retail giant posts record quarterly revenue while simultaneously announcing modest staff shifts.",
+    "label": 1
+  },
+  {
+    "headline": "According to Reuters, industrial conglomerate deep learning platform cuts genomic sequencing compute time by eighty percent.",
+    "label": 2
+  },
+  {
+    "headline": "Pharmaceutical firm expands high-wage engineering workforce following record order backlog.",
+    "label": 2
+  },
+  {
+    "headline": "Cloud provider posts record quarterly revenue while simultaneously announcing modest staff shifts.",
+    "label": 1
+  },
+  {
+    "headline": "Biotech startup accounting watchdog launches formal investigation into revenue recognition fraud (Financial Times).",
+    "label": 0
+  },
+  {
+    "headline": "Aerospace manufacturer reviews bilateral trade documentation without adjusting existing tariff schedules (AP News).",
+    "label": 1
+  },
+  {
+    "headline": "Logistics operator clean hydrogen production plant commences full commercial operation early (BBC News).",
+    "label": 2
+  },
+  {
+    "headline": "Sovereign wealth fund expands high-wage engineering workforce following record order backlog (Financial Times).",
+    "label": 2
+  },
+  {
+    "headline": "Renewable utility posts stellar balance sheet results with non-performing loans near zero.",
+    "label": 2
+  },
+  {
+    "headline": "Defense contractor CEO and top executive leadership abruptly resign amid forensic fraud investigation (MarketWatch).",
+    "label": 0
+  },
+  {
+    "headline": "Defense contractor healthcare system updates standard patient appointment scheduling procedures (CNBC).",
+    "label": 1
+  },
+  {
+    "headline": "According to Bloomberg, payment processor maritime bulk freighter runs aground spilling toxic fuel into marine reserve.",
+    "label": 0
+  },
+  {
+    "headline": "According to TechCrunch, airline conglomerate halts all customer withdrawals amid escalating insolvency concerns.",
+    "label": 0
+  },
+  {
+    "headline": "Retail giant public transit service schedule operates on normal weekday transit timetable.",
+    "label": 1
+  },
+  {
+    "headline": "Wall Street Journal: Semiconductor maker telecommunications regulator opens public comment window on satellite spectrum.",
+    "label": 1
+  },
+  {
+    "headline": "Semiconductor maker venture investment capital dries up as institutional backers withdraw funding (Financial Times).",
+    "label": 0
+  },
+  {
+    "headline": "According to Reuters, inflation cooled slightly, but remains stubbornly elevated, pressuring Investment bank margins.",
+    "label": 0
+  },
+  {
+    "headline": "According to Wall Street Journal, renewable utility manufacturing plant workers declare indefinite nationwide strike over wages.",
+    "label": 0
+  },
+  {
+    "headline": "According to Reuters, renewable utility food technology venture wins FDA commercial clearance for cultivated nutrition.",
+    "label": 2
+  },
+  {
+    "headline": "Pharmaceutical firm telecommunications network suffers nationwide routing failure cutting 911 calls (CNBC).",
+    "label": 0
+  },
+  {
+    "headline": "Telecom carrier halts all customer withdrawals amid escalating insolvency concerns (Wall Street Journal).",
+    "label": 0
+  },
+  {
+    "headline": "According to MarketWatch, semiconductor maker commercial aircraft deliveries halted following discovery of structural assembly flaws.",
+    "label": 0
+  },
+  {
+    "headline": "Financial Times: Aerospace manufacturer profits plunged forty percent this quarter, perfectly meeting gloomy expectations.",
+    "label": 0
+  },
+  {
+    "headline": "Biotech startup receives prestigious global sustainability leadership award for green supply chain (Reuters).",
+    "label": 2
+  },
+  {
+    "headline": "Reuters: E-commerce operator receives prestigious global sustainability leadership award for green supply chain.",
+    "label": 2
+  },
+  {
+    "headline": "According to Reuters, recession concerns recede as Cloud provider reports resilient consumer hiring and spending.",
+    "label": 2
+  },
+  {
+    "headline": "Healthcare network chemical subsidiary conducts standard routine emissions monitoring survey (CNBC).",
+    "label": 1
+  },
+  {
+    "headline": "Semiconductor maker maritime bulk freighter runs aground spilling toxic fuel into marine reserve.",
+    "label": 0
+  },
+  {
+    "headline": "MarketWatch: Payment processor logistics routing optimization slashes fuel costs and delivery transit times.",
+    "label": 2
+  },
+  {
+    "headline": "CNBC: E-commerce operator schedules quarterly investor review conference for next Thursday morning.",
+    "label": 1
+  },
+  {
+    "headline": "E-commerce operator mining division reports quarterly ore extraction tonnage in line with guidance (Bloomberg).",
+    "label": 1
+  },
+  {
+    "headline": "According to AP News, federal Reserve files for Chapter 11 bankruptcy liquidation following severe cash exhaustion.",
+    "label": 0
+  },
+  {
+    "headline": "Retail giant launches breakthrough electric vehicle platform with 800-mile driving range.",
+    "label": 2
+  },
+  {
+    "headline": "Officials confirm zero casualties and complete containment at Cloud provider facility.",
+    "label": 2
+  },
+  {
+    "headline": "Bloomberg: Defense contractor maintains benchmark interest rate unchanged following scheduled policy vote.",
+    "label": 1
+  },
+  {
+    "headline": "Financial Times: Biotech startup market capitalization collapses by half in brutal equity selloff on solvency fears.",
+    "label": 0
+  },
+  {
+    "headline": "European Central Bank announces appointment of new Chief Financial Officer effective next month.",
+    "label": 1
+  },
+  {
+    "headline": "Financial Wire: Semiconductor maker chemical subsidiary conducts standard routine emissions monitoring survey.",
+    "label": 1
+  },
+  {
+    "headline": "Defense contractor customer retention rates reach all-time unprecedented high across all regions (CNBC).",
+    "label": 2
+  },
+  {
+    "headline": "BBC News: Mining corporation legal patent injunction bans commercial sales of flagship smartphone nationwide.",
+    "label": 0
+  },
+  {
+    "headline": "According to MarketWatch, renewable utility semiconductor foundry achieves world-first commercial 2-nanometer wafer output.",
+    "label": 2
+  },
+  {
+    "headline": "Defense contractor logistics network transitions parcel tracking database to updated cloud host.",
+    "label": 1
+  },
+  {
+    "headline": "CNBC: Payment processor customer deposit flight accelerates following rumors of capital inadequacy.",
+    "label": 0
+  },
+  {
+    "headline": "Semiconductor maker customer retention rates reach all-time unprecedented high across all regions.",
+    "label": 2
+  },
+  {
+    "headline": "BBC News: Mining corporation shares surge twelve percent following exceptional forward revenue guidance.",
+    "label": 2
+  },
+  {
+    "headline": "According to MarketWatch, inflation cooled slightly, but remains stubbornly elevated, pressuring Renewable utility margins.",
+    "label": 0
+  },
+  {
+    "headline": "Aerospace manufacturer unveils revolutionary artificial intelligence processor with superior efficiency.",
+    "label": 2
+  },
+  {
+    "headline": "Wall Street Journal: Payment processor customer retention rates reach all-time unprecedented high across all regions.",
+    "label": 2
+  },
+  {
+    "headline": "Automotive group reviews foreign currency reserve metrics in scheduled quarterly administrative audit.",
+    "label": 1
+  },
+  {
+    "headline": "E-commerce operator university research lab receives standard government grant for basic physics.",
+    "label": 1
+  },
+  {
+    "headline": "Federal Reserve telecommunications unit tests emergency messaging siren relays across county.",
+    "label": 1
+  },
+  {
+    "headline": "MarketWatch: Tech giant launches breakthrough electric vehicle platform with 800-mile driving range.",
+    "label": 2
+  },
+  {
+    "headline": "According to Financial Times, industrial conglomerate shares drop slightly after exactly meeting quarterly Wall Street earnings estimates.",
+    "label": 1
+  },
+  {
+    "headline": "E-commerce operator completes nationwide high-speed broadband network deployment early.",
+    "label": 2
+  },
+  {
+    "headline": "Logistics operator chemical subsidiary conducts standard routine emissions monitoring survey.",
+    "label": 1
+  },
+  {
+    "headline": "Automotive group food technology venture wins FDA commercial clearance for cultivated nutrition (CNBC).",
+    "label": 2
+  },
+  {
+    "headline": "Cloud provider updates formal documentation for relational query execution planning standards.",
+    "label": 1
+  },
+  {
+    "headline": "Wall Street Journal: Automotive group telecommunications network suffers nationwide routing failure cutting 911 calls.",
+    "label": 0
+  },
+  {
+    "headline": "According to MarketWatch, automotive group healthcare system updates standard patient appointment scheduling procedures.",
+    "label": 1
+  },
+  {
+    "headline": "MarketWatch: Defense contractor critical software vulnerability actively exploited in widespread zero-day attacks.",
+    "label": 0
+  },
+  {
+    "headline": "E-commerce operator technical working group publishes draft whitepaper on cryptographic protocols (Reuters).",
+    "label": 1
+  },
+  {
+    "headline": "According to BBC News, automotive group autonomous delivery fleet completes ten million incident-free transit miles.",
+    "label": 2
+  },
+  {
+    "headline": "TechCrunch: Investment bank semiconductor foundry achieves world-first commercial 2-nanometer wafer output.",
+    "label": 2
+  },
+  {
+    "headline": "Industrial conglomerate optical networking technology sets world transmission speed record in tests (Financial Wire).",
+    "label": 2
+  },
+  {
+    "headline": "According to Wall Street Journal, airline conglomerate satellite constellation successfully deployed to enhance global weather tracking.",
+    "label": 2
+  },
+  {
+    "headline": "Mining corporation mining division reports quarterly ore extraction tonnage in line with guidance.",
+    "label": 1
+  },
+  {
+    "headline": "According to MarketWatch, sovereign wealth fund retail chain files for court-supervised liquidation closing all stores.",
+    "label": 0
+  },
+  {
+    "headline": "Reuters: Federal Reserve renewable utility completes installation of massive utility-scale battery farm.",
+    "label": 2
+  },
+  {
+    "headline": "According to CNBC, defense contractor legal patent injunction bans commercial sales of flagship smartphone nationwide.",
+    "label": 0
+  },
+  {
+    "headline": "Investment bank files for Chapter 11 bankruptcy liquidation following severe cash exhaustion (TechCrunch).",
+    "label": 0
+  },
+  {
+    "headline": "Tech giant signs twenty-year clean energy power purchase agreement with major utilities.",
+    "label": 2
+  },
+  {
+    "headline": "Logistics operator conducts scheduled biennial maintenance overhaul at regional refining facility.",
+    "label": 1
+  },
+  {
+    "headline": "According to Bloomberg, cloud provider avoids debt restructuring after securing emergency credit at prime rates.",
+    "label": 2
+  },
+  {
+    "headline": "According to AP News, healthcare network establishes strategic alliance to deploy quantum-secure communications globally.",
+    "label": 2
+  },
+  {
+    "headline": "Pharmaceutical firm satellite constellation successfully deployed to enhance global weather tracking.",
+    "label": 2
+  },
+  {
+    "headline": "BBC News: Sovereign wealth fund administrative headquarters relocates to neighboring corporate park location.",
+    "label": 1
+  },
+  {
+    "headline": "Healthcare network faces massive consumer boycott over documented child labor in overseas supply chain.",
+    "label": 0
+  },
+  {
+    "headline": "BBC News: Defense contractor software platform deploys scheduled minor maintenance patch for bug fixes.",
+    "label": 1
+  },
+  {
+    "headline": "Energy producer receives prestigious global sustainability leadership award for green supply chain (AP News).",
+    "label": 2
+  },
+  {
+    "headline": "Defense contractor issues urgent safety recall of over one million vehicles due to critical defect (BBC News).",
+    "label": 0
+  },
+  {
+    "headline": "Energy producer export volumes collapse following sudden retaliatory trade embargoes.",
+    "label": 0
+  },
+  {
+    "headline": "Telecom carrier international export sales rise thirty percent following trade duty cuts.",
+    "label": 2
+  },
+  {
+    "headline": "Bloomberg: Aerospace manufacturer submits new drug application for regulatory review following trial completion.",
+    "label": 1
+  },
+  {
+    "headline": "According to Bloomberg, logistics operator factory automation system malfunctions, causing millions in damaged inventory.",
+    "label": 0
+  },
+  {
+    "headline": "European Central Bank shares drop slightly after exactly meeting quarterly Wall Street earnings estimates (Financial Wire).",
+    "label": 1
+  },
+  {
+    "headline": "Healthcare network legal department files standard procedural answer to civil contract complaint.",
+    "label": 1
+  },
+  {
+    "headline": "Wall Street Journal: Aerospace manufacturer export volumes collapse following sudden retaliatory trade embargoes.",
+    "label": 0
+  },
+  {
+    "headline": "According to AP News, retail giant credit rating upgraded to prime triple-A with stable long-term outlook.",
+    "label": 2
+  },
+  {
+    "headline": "According to Wall Street Journal, tech giant sovereign debt defaults loom as international credit downgrade accelerates.",
+    "label": 0
+  },
+  {
+    "headline": "BBC News: Tech giant agricultural division suffers severe harvest wipeout from historic blistering drought.",
+    "label": 0
+  },
+  {
+    "headline": "Wholesale inflation cools dramatically, providing significant cost relief for Sovereign wealth fund.",
+    "label": 2
+  },
+  {
+    "headline": "Federal Reserve consumer goods unit renews long-standing retail distribution agreement (Financial Times).",
+    "label": 1
+  },
+  {
+    "headline": "Biotech startup board of directors sets date for annual general shareholder meeting.",
+    "label": 1
+  },
+  {
+    "headline": "TechCrunch: E-commerce operator completes state-of-the-art semiconductor fabrication facility ahead of schedule.",
+    "label": 2
+  },
+  {
+    "headline": "Pharmaceutical firm food technology venture wins FDA commercial clearance for cultivated nutrition.",
+    "label": 2
+  },
+  {
+    "headline": "Telecom carrier chemical processing explosion forces mandatory evacuation of neighboring town (Bloomberg).",
+    "label": 0
+  },
+  {
+    "headline": "Financial Times: Biotech startup patent portfolio expands significantly with key quantum computing breakthroughs.",
+    "label": 2
+  },
+  {
+    "headline": "Financial Times: Biotech startup announces appointment of new Chief Financial Officer effective next month.",
+    "label": 1
+  },
+  {
+    "headline": "Financial Wire: Inflation cooled slightly, but remains stubbornly elevated, pressuring Logistics operator margins.",
+    "label": 0
+  },
+  {
+    "headline": "Financial Wire: Renewable utility postal authorities issue commemorative series honoring historic pioneers.",
+    "label": 1
+  },
+  {
+    "headline": "According to Financial Times, defense contractor chemical processing explosion forces mandatory evacuation of neighboring town.",
+    "label": 0
+  },
+  {
+    "headline": "According to MarketWatch, telecom carrier completes state-of-the-art semiconductor fabrication facility ahead of schedule.",
+    "label": 2
+  },
+  {
+    "headline": "Healthcare network maintains benchmark interest rate unchanged following scheduled policy vote (Reuters).",
+    "label": 1
+  },
+  {
+    "headline": "Healthcare network legal patent injunction bans commercial sales of flagship smartphone nationwide.",
+    "label": 0
+  },
+  {
+    "headline": "The industry symposium hosted by European Central Bank was not terribly exciting, but not a waste of time.",
+    "label": 1
+  },
+  {
+    "headline": "Great, another delayed flight and canceled connection by Aerospace manufacturer to make my day perfect.",
+    "label": 0
+  },
+  {
+    "headline": "Sovereign wealth fund completes nationwide high-speed broadband network deployment early.",
+    "label": 2
+  },
+  {
+    "headline": "AP News: Industrial conglomerate commercial paper rates trade flat as institutional cash balances remain steady.",
+    "label": 1
+  },
+  {
+    "headline": "Federal Reserve chemical subsidiary conducts standard routine emissions monitoring survey.",
+    "label": 1
+  },
+  {
+    "headline": "TechCrunch: Payment processor hardware laboratory conducts routine thermal dissipation testing on processors.",
+    "label": 1
+  },
+  {
+    "headline": "Semiconductor maker autonomous delivery fleet completes ten million incident-free transit miles (AP News).",
+    "label": 2
+  },
+  {
+    "headline": "Semiconductor maker posts stellar balance sheet results with non-performing loans near zero.",
+    "label": 2
+  },
+  {
+    "headline": "Mining corporation patent portfolio expands significantly with key quantum computing breakthroughs.",
+    "label": 2
+  },
+  {
+    "headline": "Airline conglomerate agricultural division releases estimates for winter grain planting acreage (Financial Times).",
+    "label": 1
+  },
+  {
+    "headline": "The industry symposium hosted by Sovereign wealth fund was not terribly exciting, but not a waste of time (Reuters).",
+    "label": 1
+  },
+  {
+    "headline": "TechCrunch: Telecom carrier agricultural division suffers severe harvest wipeout from historic blistering drought.",
+    "label": 0
+  },
+  {
+    "headline": "Mining corporation automotive subsidiary paralyzed by critical microcontroller chip shortages.",
+    "label": 0
+  },
+  {
+    "headline": "Healthcare network cloud security algorithm autonomously mitigates critical zero-day vulnerabilities (Bloomberg).",
+    "label": 2
+  },
+  {
+    "headline": "According to AP News, defense contractor dividend payout raised fifteen percent, marking tenth consecutive annual hike.",
+    "label": 2
+  },
+  {
+    "headline": "According to MarketWatch, biotech startup cancels phase three clinical drug trial after severe adverse toxicity events.",
+    "label": 0
+  },
+  {
+    "headline": "Bloomberg: Federal Reserve accounting watchdog launches formal investigation into revenue recognition fraud.",
+    "label": 0
+  },
+  {
+    "headline": "According to AP News, biotech startup automotive division holds media preview for upcoming commercial model lineup.",
+    "label": 1
+  },
+  {
+    "headline": "Investment bank announces aggressive share buyback authorization and special cash dividend.",
+    "label": 2
+  },
+  {
+    "headline": "Bloomberg: Federal Reserve cancels phase three clinical drug trial after severe adverse toxicity events.",
+    "label": 0
+  },
+  {
+    "headline": "AP News: Defense contractor administrative headquarters relocates to neighboring corporate park location.",
+    "label": 1
+  },
+  {
+    "headline": "Sovereign wealth fund supply chain logistics paralyzed by nationwide port worker dock strike.",
+    "label": 0
+  },
+  {
+    "headline": "According to TechCrunch, airline conglomerate avoids debt restructuring after securing emergency credit at prime rates.",
+    "label": 2
+  },
+  {
+    "headline": "Wall Street Journal: Industrial conglomerate announces aggressive share buyback authorization and special cash dividend.",
+    "label": 2
+  },
+  {
+    "headline": "Wall Street Journal: Sovereign wealth fund international joint venture dissolves in bitter dispute over stolen IP assets.",
+    "label": 0
+  },
+  {
+    "headline": "Airline conglomerate successfully neutralizes sophisticated nation-state cyber threat with zero losses.",
+    "label": 2
+  },
+  {
+    "headline": "According to AP News, cloud provider deep learning platform cuts genomic sequencing compute time by eighty percent.",
+    "label": 2
+  },
+  {
+    "headline": "Financial Times: Automotive group faces sweeping federal antitrust lawsuit seeking corporate dismemberment.",
+    "label": 0
+  },
+  {
+    "headline": "TechCrunch: Industrial conglomerate announces routine seasonal flight adjustments between major international hubs.",
+    "label": 1
+  },
+  {
+    "headline": "Tech giant faces sweeping federal antitrust lawsuit seeking corporate dismemberment.",
+    "label": 0
+  },
+  {
+    "headline": "Reuters: Energy producer publishes updated technical specifications for wireless spectrum allocations.",
+    "label": 1
+  },
+  {
+    "headline": "Pharmaceutical firm convenes annual scientific colloquium on machine learning optimization techniques (Financial Times).",
+    "label": 1
+  },
+  {
+    "headline": "According to CNBC, the widely touted revolutionary clean energy technology from E-commerce operator failed safety tests.",
+    "label": 0
+  },
+  {
+    "headline": "Healthcare network chemical processing explosion forces mandatory evacuation of neighboring town.",
+    "label": 0
+  },
+  {
+    "headline": "Financial Times: Despite foreign exchange friction, Airline conglomerate achieves record international net revenue.",
+    "label": 2
+  },
+  {
+    "headline": "According to Financial Times, energy producer conducts scheduled biennial maintenance overhaul at regional refining facility.",
+    "label": 1
+  },
+  {
+    "headline": "Airline conglomerate shares surge twelve percent following exceptional forward revenue guidance.",
+    "label": 2
+  },
+  {
+    "headline": "TechCrunch: Semiconductor maker maritime safety agency monitors routine shipping vessel traffic through strait.",
+    "label": 1
+  },
+  {
+    "headline": "According to Financial Times, investment bank international joint venture dissolves in bitter dispute over stolen IP assets.",
+    "label": 0
+  },
+  {
+    "headline": "According to Wall Street Journal, logistics operator updates formal documentation for relational query execution planning standards.",
+    "label": 1
+  },
+  {
+    "headline": "Pharmaceutical firm logistics network transitions parcel tracking database to updated cloud host.",
+    "label": 1
+  },
+  {
+    "headline": "Reuters: E-commerce operator food processing conglomerate recalls contaminated poultry across fifteen states.",
+    "label": 0
+  },
+  {
+    "headline": "According to Financial Times, semiconductor maker launches breakthrough electric vehicle platform with 800-mile driving range.",
+    "label": 2
+  },
+  {
+    "headline": "Energy producer holds benchmark investor day to outline five-year strategic operational roadmap.",
+    "label": 1
+  },
+  {
+    "headline": "Automotive group publishes updated technical specifications for wireless spectrum allocations.",
+    "label": 1
+  },
+  {
+    "headline": "Tech giant suffers devastating ransomware breach compromising millions of customer records.",
+    "label": 0
+  },
+  {
+    "headline": "Payment processor halts all customer withdrawals amid escalating insolvency concerns (TechCrunch).",
+    "label": 0
+  },
+  {
+    "headline": "BBC News: Airline conglomerate expands high-wage engineering workforce following record order backlog.",
+    "label": 2
+  },
+  {
+    "headline": "Tech giant accelerates carbon neutrality targets by five years amid clean breakthroughs.",
+    "label": 2
+  },
+  {
+    "headline": "The new flagship luxury electric vehicle from Healthcare network broke down three times in test drive (Reuters).",
+    "label": 0
+  },
+  {
+    "headline": "According to Reuters, defense contractor commercial aircraft deliveries halted following discovery of structural assembly flaws.",
+    "label": 0
+  },
+  {
+    "headline": "Peace talks mediated by Federal Reserve concluded without any agreement after bitter debate (Reuters).",
+    "label": 0
+  },
+  {
+    "headline": "AP News: Tech giant agricultural technology reduces irrigation consumption by half while boosting yields.",
+    "label": 2
+  },
+  {
+    "headline": "CNBC: Logistics operator launches breakthrough electric vehicle platform with 800-mile driving range.",
+    "label": 2
+  },
+  {
+    "headline": "Retail giant schedules quarterly investor review conference for next Thursday morning.",
+    "label": 1
+  },
+  {
+    "headline": "Bloomberg: Automotive group accounting watchdog launches formal investigation into revenue recognition fraud.",
+    "label": 0
+  },
+  {
+    "headline": "Mining corporation factory automation system malfunctions, causing millions in damaged inventory.",
+    "label": 0
+  },
+  {
+    "headline": "According to AP News, mining corporation avoids debt restructuring after securing emergency credit at prime rates.",
+    "label": 2
+  },
+  {
+    "headline": "According to Bloomberg, aerospace manufacturer holds public comment hearing on proposed corporate disclosure regulations.",
+    "label": 1
+  },
+  {
+    "headline": "Wall Street Journal: Investment bank autonomous delivery fleet completes ten million incident-free transit miles.",
+    "label": 2
+  },
+  {
+    "headline": "Federal Reserve seismic monitoring station detects low-magnitude tremor along uninhabited trench.",
+    "label": 1
+  },
+  {
+    "headline": "TechCrunch: Automotive group commercial aircraft deliveries halted following discovery of structural assembly flaws.",
+    "label": 0
+  },
+  {
+    "headline": "Consumer goods giant wins unanimous regulatory clearance for breakthrough pediatric medical therapy.",
+    "label": 2
+  },
+  {
+    "headline": "According to CNBC, e-commerce operator wins unanimous regulatory clearance for breakthrough pediatric medical therapy.",
+    "label": 2
+  },
+  {
+    "headline": "According to AP News, cloud provider environmental regulator orders immediate shutdown of polluting smelting facility.",
+    "label": 0
+  },
+  {
+    "headline": "Energy producer legal patent injunction bans commercial sales of flagship smartphone nationwide (Wall Street Journal).",
+    "label": 0
+  },
+  {
+    "headline": "Reuters: Mining corporation updates annual supplier code of conduct with minor procedural revisions.",
+    "label": 1
+  },
+  {
+    "headline": "Healthcare network suffers catastrophic cloud infrastructure outage disabling banking portals (Financial Wire).",
+    "label": 0
+  },
+  {
+    "headline": "Bloomberg: Aviation safety regulator concludes preliminary inspection of Federal Reserve without issuing fines.",
+    "label": 1
+  },
+  {
+    "headline": "According to CNBC, biotech startup venture capital portfolio generates spectacular liquidity returns following IPO.",
+    "label": 2
+  },
+  {
+    "headline": "According to Reuters, consumer goods giant satellite constellation successfully deployed to enhance global weather tracking.",
+    "label": 2
+  },
+  {
+    "headline": "Bloomberg: Federal Reserve production facilities paralyzed as acute raw material shortages force closures.",
+    "label": 0
+  },
+  {
+    "headline": "According to TechCrunch, federal Reserve medical diagnostics device receives accelerated breakthrough device designation.",
+    "label": 2
+  },
+  {
+    "headline": "According to Wall Street Journal, telecom carrier suffers catastrophic cloud infrastructure outage disabling banking portals.",
+    "label": 0
+  },
+  {
+    "headline": "CNBC: Aerospace manufacturer delivers double-digit operating margin expansion across international units.",
+    "label": 2
+  },
+  {
+    "headline": "According to BBC News, energy producer holds public comment hearing on proposed corporate disclosure regulations.",
+    "label": 1
+  },
+  {
+    "headline": "CNBC: Mining corporation successfully cuts manufacturing overhead by thirty percent without job losses.",
+    "label": 2
+  },
+  {
+    "headline": "According to CNBC, semiconductor maker clinical oncology trial was not a failure, showing marked tumor reduction.",
+    "label": 2
+  },
+  {
+    "headline": "Bloomberg: Cloud provider semiconductor foundry achieves world-first commercial 2-nanometer wafer output.",
+    "label": 2
+  },
+  {
+    "headline": "According to Wall Street Journal, biotech startup manufacturing plant workers declare indefinite nationwide strike over wages.",
+    "label": 0
+  },
+  {
+    "headline": "Financial Wire: Cloud provider conducts routine forty billion dollar ten-year treasury refinancing auction.",
+    "label": 1
+  },
+  {
+    "headline": "Sovereign wealth fund holds public comment hearing on proposed corporate disclosure regulations (MarketWatch).",
+    "label": 1
+  },
+  {
+    "headline": "According to CNBC, payment processor retail chain confirms normal operational store hours across all regions.",
+    "label": 1
+  },
+  {
+    "headline": "AP News: Airline conglomerate reviews bilateral trade documentation without adjusting existing tariff schedules.",
+    "label": 1
+  },
+  {
+    "headline": "Industrial conglomerate conducts scheduled biennial maintenance overhaul at regional refining facility.",
+    "label": 1
+  },
+  {
+    "headline": "According to AP News, logistics operator commercial software adoption doubles across global enterprise customers.",
+    "label": 2
+  },
+  {
+    "headline": "Bloomberg: Retail giant optical networking technology sets world transmission speed record in tests.",
+    "label": 2
+  },
+  {
+    "headline": "Tech giant pharmaceutical pipeline advances three novel therapeutic candidates to phase three (Financial Wire).",
+    "label": 2
+  },
+  {
+    "headline": "CNBC: Industrial conglomerate semiconductor foundry achieves world-first commercial 2-nanometer wafer output.",
+    "label": 2
+  },
+  {
+    "headline": "According to MarketWatch, defense contractor cancels phase three clinical drug trial after severe adverse toxicity events.",
+    "label": 0
+  },
+  {
+    "headline": "According to CNBC, renewable utility conducts scheduled biennial maintenance overhaul at regional refining facility.",
+    "label": 1
+  },
+  {
+    "headline": "According to Financial Wire, telecom carrier engineering team submits feasibility review for proposed municipal bridge.",
+    "label": 1
+  },
+  {
+    "headline": "According to Financial Times, industrial conglomerate quarterly revenue increases forty percent, fueled by cloud infrastructure demand.",
+    "label": 2
+  },
+  {
+    "headline": "According to BBC News, industrial conglomerate cloud security algorithm autonomously mitigates critical zero-day vulnerabilities.",
+    "label": 2
+  },
+  {
+    "headline": "Investment bank successfully neutralizes sophisticated nation-state cyber threat with zero losses.",
+    "label": 2
+  },
+  {
+    "headline": "Sovereign wealth fund logistics network transitions parcel tracking database to updated cloud host.",
+    "label": 1
+  },
+  {
+    "headline": "Retail giant medical diagnostics device receives accelerated breakthrough device designation.",
+    "label": 2
+  },
+  {
+    "headline": "According to Financial Wire, e-commerce operator credit rating downgraded to junk status as debt default risks surge to highs.",
+    "label": 0
+  },
+  {
+    "headline": "Federal Reserve factory automation system malfunctions, causing millions in damaged inventory.",
+    "label": 0
+  },
+  {
+    "headline": "According to Bloomberg, automotive group telecommunications unit tests emergency messaging siren relays across county.",
+    "label": 1
+  },
+  {
+    "headline": "Tech giant CEO and top executive leadership abruptly resign amid forensic fraud investigation (Reuters).",
+    "label": 0
+  },
+  {
+    "headline": "Wall Street Journal: Investment bank high-yield bond spreads blow out to crisis levels as liquidity evaporates.",
+    "label": 0
+  },
+  {
+    "headline": "AP News: Consumer goods giant updates annual supplier code of conduct with minor procedural revisions.",
+    "label": 1
+  },
+  {
+    "headline": "According to Financial Times, european Central Bank export volumes collapse following sudden retaliatory trade embargoes.",
+    "label": 0
+  },
+  {
+    "headline": "Automotive group patent portfolio expands significantly with key quantum computing breakthroughs.",
+    "label": 2
+  },
+  {
+    "headline": "Federal Reserve wins unanimous regulatory clearance for breakthrough pediatric medical therapy (MarketWatch).",
+    "label": 2
+  },
+  {
+    "headline": "Tech giant credit rating downgraded to junk status as debt default risks surge to highs.",
+    "label": 0
+  },
+  {
+    "headline": "MarketWatch: Telecom carrier energy panel convenes to review regional electrical grid transmission capacity.",
+    "label": 1
+  },
+  {
+    "headline": "Investment bank announces appointment of new Chief Financial Officer effective next month.",
+    "label": 1
+  },
+  {
+    "headline": "According to Bloomberg, airline conglomerate experiences severe pipeline rupture forcing regional environmental evacuations.",
+    "label": 0
+  },
+  {
+    "headline": "Bloomberg: Investment bank customer deposit flight accelerates following rumors of capital inadequacy.",
+    "label": 0
+  },
+  {
+    "headline": "Financial Times: Aerospace manufacturer retail chain files for court-supervised liquidation closing all stores.",
+    "label": 0
+  },
+  {
+    "headline": "TechCrunch: Cloud provider achieves historic zero-defect manufacturing milestone in aerospace assembly.",
+    "label": 2
+  },
+  {
+    "headline": "Airline conglomerate announces aggressive share buyback authorization and special cash dividend.",
+    "label": 2
+  },
+  {
+    "headline": "The new flagship luxury electric vehicle from Airline conglomerate broke down three times in test drive (MarketWatch).",
+    "label": 0
+  },
+  {
+    "headline": "Payment processor maritime safety agency monitors routine shipping vessel traffic through strait (Wall Street Journal).",
+    "label": 1
+  },
+  {
+    "headline": "Renewable utility clean hydrogen production plant commences full commercial operation early.",
+    "label": 2
+  },
+  {
+    "headline": "Investment bank publishes updated technical specifications for wireless spectrum allocations (AP News).",
+    "label": 1
+  },
+  {
+    "headline": "Telecom carrier patent portfolio expands significantly with key quantum computing breakthroughs (MarketWatch).",
+    "label": 2
+  },
+  {
+    "headline": "Semiconductor maker secures landmark ten billion dollar green infrastructure contract.",
+    "label": 2
+  },
+  {
+    "headline": "According to Financial Wire, telecom carrier publishes regular monthly petroleum statistical inventory report as forecast.",
+    "label": 1
+  },
+  {
+    "headline": "Defense contractor telecommunications regulator opens public comment window on satellite spectrum.",
+    "label": 1
+  },
+  {
+    "headline": "According to CNBC, healthcare network reports catastrophic ninety percent collapse in ocean freight shipping rates.",
+    "label": 0
+  },
+  {
+    "headline": "Airline conglomerate pharmaceutical pipeline advances three novel therapeutic candidates to phase three.",
+    "label": 2
+  },
+  {
+    "headline": "Industrial conglomerate chemical processing explosion forces mandatory evacuation of neighboring town.",
+    "label": 0
+  },
+  {
+    "headline": "CNBC: Great, another delayed flight and canceled connection by Airline conglomerate to make my day perfect.",
+    "label": 0
+  },
+  {
+    "headline": "CNBC: Logistics operator holds benchmark investor day to outline five-year strategic operational roadmap.",
+    "label": 1
+  },
+  {
+    "headline": "Logistics operator posts record quarterly revenue while simultaneously announcing modest staff shifts.",
+    "label": 1
+  },
+  {
+    "headline": "Defense contractor reviews bilateral trade documentation without adjusting existing tariff schedules (Financial Wire).",
+    "label": 1
+  },
+  {
+    "headline": "Aviation safety regulator concludes preliminary inspection of Healthcare network without issuing fines.",
+    "label": 1
+  },
+  {
+    "headline": "According to BBC News, automotive group credit rating upgraded to prime triple-A with stable long-term outlook.",
+    "label": 2
+  },
+  {
+    "headline": "According to Financial Times, aerospace manufacturer customer retention rates reach all-time unprecedented high across all regions.",
+    "label": 2
+  },
+  {
+    "headline": "Semiconductor maker halts all customer withdrawals amid escalating insolvency concerns (MarketWatch).",
+    "label": 0
+  },
+  {
+    "headline": "CNBC: E-commerce operator commercial aircraft deliveries halted following discovery of structural assembly flaws.",
+    "label": 0
+  },
+  {
+    "headline": "Telecom carrier credit rating upgraded to prime triple-A with stable long-term outlook.",
+    "label": 2
+  },
+  {
+    "headline": "Logistics operator hit with emergency utility rate hike after catastrophic forest wildfire verdict (BBC News).",
+    "label": 0
+  },
+  {
+    "headline": "According to TechCrunch, defense contractor agricultural technology reduces irrigation consumption by half while boosting yields.",
+    "label": 2
+  },
+  {
+    "headline": "According to Bloomberg, automotive group economic staff report projects moderate growth consistent with long-term trend.",
+    "label": 1
+  },
+  {
+    "headline": "CNBC: Retail giant commercial space launch vehicle explodes seconds after ignition, destroying payload.",
+    "label": 0
+  },
+  {
+    "headline": "TechCrunch: Consumer goods giant telecommunications unit tests emergency messaging siren relays across county.",
+    "label": 1
+  },
+  {
+    "headline": "TechCrunch: Telecom carrier dividend payout raised fifteen percent, marking tenth consecutive annual hike.",
+    "label": 2
+  },
+  {
+    "headline": "MarketWatch: Logistics operator economic staff report projects moderate growth consistent with long-term trend.",
+    "label": 1
+  },
+  {
+    "headline": "According to CNBC, automotive group updates annual supplier code of conduct with minor procedural revisions.",
+    "label": 1
+  },
+  {
+    "headline": "Tech giant airline cancels thousands of holiday flights amid complete crew scheduling meltdown.",
+    "label": 0
+  },
+  {
+    "headline": "E-commerce operator profits plunged forty percent this quarter, perfectly meeting gloomy expectations.",
+    "label": 0
+  },
+  {
+    "headline": "E-commerce operator agricultural technology reduces irrigation consumption by half while boosting yields (Financial Times).",
+    "label": 2
+  },
+  {
+    "headline": "Federal Reserve corporate pension fund reveals multi-billion dollar solvency shortfall (Bloomberg).",
+    "label": 0
+  },
+  {
+    "headline": "Financial Wire: Telecom carrier customer retention rates reach all-time unprecedented high across all regions.",
+    "label": 2
+  },
+  {
+    "headline": "Defense contractor conducts routine forty billion dollar ten-year treasury refinancing auction.",
+    "label": 1
+  },
+  {
+    "headline": "According to Reuters, trade delegations meet with Consumer goods giant to extend consultation period by thirty days.",
+    "label": 1
+  },
+  {
+    "headline": "According to Bloomberg, tech giant accounting watchdog launches formal investigation into revenue recognition fraud.",
+    "label": 0
+  },
+  {
+    "headline": "Biotech startup banking division updates online portal user interface with standard security login (AP News).",
+    "label": 1
+  },
+  {
+    "headline": "Automotive group announces appointment of new Chief Financial Officer effective next month.",
+    "label": 1
+  },
+  {
+    "headline": "Bloomberg: Tech giant logs record annual commercial deliveries, outperforming industrial peers.",
+    "label": 2
+  },
+  {
+    "headline": "Bloomberg: Semiconductor maker successfully resolves legacy legal dispute with favorable settlement terms.",
+    "label": 2
+  },
+  {
+    "headline": "Automotive group export volumes collapse following sudden retaliatory trade embargoes (Bloomberg).",
+    "label": 0
+  },
+  {
+    "headline": "Healthcare network customer deposit flight accelerates following rumors of capital inadequacy (Bloomberg).",
+    "label": 0
+  },
+  {
+    "headline": "Industrial conglomerate publishes updated technical specifications for wireless spectrum allocations (Financial Times).",
+    "label": 1
+  },
+  {
+    "headline": "Telecom carrier renewable utility completes installation of massive utility-scale battery farm (Wall Street Journal).",
+    "label": 2
+  },
+  {
+    "headline": "Mining corporation customer retention rates reach all-time unprecedented high across all regions.",
+    "label": 2
+  },
+  {
+    "headline": "Aerospace manufacturer incurs massive multi-billion dollar regulatory penalty for deceptive practices.",
+    "label": 0
+  },
+  {
+    "headline": "According to MarketWatch, great, another delayed flight and canceled connection by Mining corporation to make my day perfect.",
+    "label": 0
+  },
+  {
+    "headline": "Mining corporation posts stellar balance sheet results with non-performing loans near zero (TechCrunch).",
+    "label": 2
+  },
+  {
+    "headline": "Bloomberg: Retail giant university research lab receives standard government grant for basic physics.",
+    "label": 1
+  },
+  {
+    "headline": "According to AP News, tech giant packaging subsidiary transitions to one hundred percent biodegradable materials.",
+    "label": 2
+  },
+  {
+    "headline": "According to Bloomberg, automotive group credit rating downgraded to junk status as debt default risks surge to highs.",
+    "label": 0
+  },
+  {
+    "headline": "Industrial conglomerate establishes strategic alliance to deploy quantum-secure communications globally (CNBC).",
+    "label": 2
+  },
+  {
+    "headline": "According to AP News, defense contractor university research lab receives standard government grant for basic physics.",
+    "label": 1
+  },
+  {
+    "headline": "AP News: Aerospace manufacturer reports unexpected sixty percent plunge in quarterly operating income.",
+    "label": 0
+  },
+  {
+    "headline": "MarketWatch: Consumer goods giant clean hydrogen production plant commences full commercial operation early.",
+    "label": 2
+  },
+  {
+    "headline": "CNBC: Industrial conglomerate achieves historic zero-defect manufacturing milestone in aerospace assembly.",
+    "label": 2
+  },
+  {
+    "headline": "E-commerce operator commodity futures contracts trade within customary seasonal historical ranges (BBC News).",
+    "label": 1
+  },
+  {
+    "headline": "According to MarketWatch, pharmaceutical firm packaging subsidiary transitions to one hundred percent biodegradable materials.",
+    "label": 2
+  },
+  {
+    "headline": "Inflation cooled slightly, but remains stubbornly elevated, pressuring Tech giant margins.",
+    "label": 0
+  },
+  {
+    "headline": "Investment bank telecommunications network suffers nationwide routing failure cutting 911 calls (TechCrunch).",
+    "label": 0
+  },
+  {
+    "headline": "According to Financial Times, european Central Bank healthcare system updates standard patient appointment scheduling procedures.",
+    "label": 1
+  },
+  {
+    "headline": "MarketWatch: Pharmaceutical firm faces massive consumer boycott over documented child labor in overseas supply chain.",
+    "label": 0
+  },
+  {
+    "headline": "TechCrunch: Cloud provider reviews foreign currency reserve metrics in scheduled quarterly administrative audit.",
+    "label": 1
+  },
+  {
+    "headline": "According to CNBC, mining corporation food technology venture wins FDA commercial clearance for cultivated nutrition.",
+    "label": 2
+  },
+  {
+    "headline": "Energy producer publishes baseline geological survey data for domestic mineral extraction regions (CNBC).",
+    "label": 1
+  },
+  {
+    "headline": "Aerospace manufacturer mining division reports quarterly ore extraction tonnage in line with guidance.",
+    "label": 1
+  },
+  {
+    "headline": "BBC News: Telecom carrier wins unanimous regulatory clearance for breakthrough pediatric medical therapy.",
+    "label": 2
+  },
+  {
+    "headline": "According to TechCrunch, sovereign wealth fund releases monthly statistical bulletin on regional consumer expenditures.",
+    "label": 1
+  },
+  {
+    "headline": "Healthcare network CEO and top executive leadership abruptly resign amid forensic fraud investigation (Wall Street Journal).",
+    "label": 0
+  },
+  {
+    "headline": "According to Financial Wire, e-commerce operator optical networking technology sets world transmission speed record in tests.",
+    "label": 2
+  },
+  {
+    "headline": "Pharmaceutical firm technical working group publishes draft whitepaper on cryptographic protocols.",
+    "label": 1
+  },
+  {
+    "headline": "Retail giant renewable utility completes installation of massive utility-scale battery farm (AP News).",
+    "label": 2
+  },
+  {
+    "headline": "According to TechCrunch, defense contractor board of directors sets date for annual general shareholder meeting.",
+    "label": 1
+  },
+  {
+    "headline": "Financial Wire: Automotive group shares surge twelve percent following exceptional forward revenue guidance.",
+    "label": 2
+  },
+  {
+    "headline": "Biotech startup hit with emergency utility rate hike after catastrophic forest wildfire verdict (AP News).",
+    "label": 0
+  },
+  {
+    "headline": "European Central Bank conducts routine forty billion dollar ten-year treasury refinancing auction.",
+    "label": 1
+  },
+  {
+    "headline": "According to Financial Wire, federal Reserve global brand perception index improves dramatically in independent annual survey.",
+    "label": 2
+  },
+  {
+    "headline": "Wall Street Journal: Pharmaceutical firm schedules quarterly investor review conference for next Thursday morning.",
+    "label": 1
+  },
+  {
+    "headline": "Renewable utility agricultural division releases estimates for winter grain planting acreage.",
+    "label": 1
+  },
+  {
+    "headline": "CNBC: Healthcare network food technology venture wins FDA commercial clearance for cultivated nutrition.",
+    "label": 2
+  },
+  {
+    "headline": "Sovereign wealth fund updates annual supplier code of conduct with minor procedural revisions.",
+    "label": 1
+  },
+  {
+    "headline": "According to TechCrunch, energy producer issues urgent safety recall of over one million vehicles due to critical defect.",
+    "label": 0
+  },
+  {
+    "headline": "TechCrunch: Automotive group issues urgent safety recall of over one million vehicles due to critical defect.",
+    "label": 0
+  },
+  {
+    "headline": "Energy producer medical diagnostics device receives accelerated breakthrough device designation.",
+    "label": 2
+  },
+  {
+    "headline": "According to Reuters, consumer goods giant completes state-of-the-art semiconductor fabrication facility ahead of schedule.",
+    "label": 2
+  },
+  {
+    "headline": "According to BBC News, biotech startup food processing conglomerate recalls contaminated poultry across fifteen states.",
+    "label": 0
+  },
+  {
+    "headline": "The new flagship luxury electric vehicle from Tech giant broke down three times in test drive.",
+    "label": 0
+  },
+  {
+    "headline": "Tech giant factory automation platform boosts client manufacturing throughput by forty percent.",
+    "label": 2
+  },
+  {
+    "headline": "Cloud provider cloud security algorithm autonomously mitigates critical zero-day vulnerabilities.",
+    "label": 2
+  },
+  {
+    "headline": "Renewable utility cloud security algorithm autonomously mitigates critical zero-day vulnerabilities.",
+    "label": 2
+  },
+  {
+    "headline": "AP News: E-commerce operator files for Chapter 11 bankruptcy liquidation following severe cash exhaustion.",
+    "label": 0
+  },
+  {
+    "headline": "Semiconductor maker expands high-wage engineering workforce following record order backlog.",
+    "label": 2
+  },
+  {
+    "headline": "Logistics operator completes nationwide high-speed broadband network deployment early (Wall Street Journal).",
+    "label": 2
+  },
+  {
+    "headline": "CNBC: Aviation safety regulator concludes preliminary inspection of Automotive group without issuing fines.",
+    "label": 1
+  },
+  {
+    "headline": "According to BBC News, the industry symposium hosted by Investment bank was not terribly exciting, but not a waste of time.",
+    "label": 1
+  },
+  {
+    "headline": "The breakthrough medical clinical trial conducted by Mining corporation failed completely in phase three.",
+    "label": 0
+  },
+  {
+    "headline": "Renewable utility commercial aircraft deliveries halted following discovery of structural assembly flaws.",
+    "label": 0
+  },
+  {
+    "headline": "Aerospace manufacturer conducts scheduled biennial maintenance overhaul at regional refining facility.",
+    "label": 1
+  },
+  {
+    "headline": "Energy producer files for Chapter 11 bankruptcy liquidation following severe cash exhaustion.",
+    "label": 0
+  },
+  {
+    "headline": "Financial Times: Energy producer incurs massive multi-billion dollar regulatory penalty for deceptive practices.",
+    "label": 0
+  },
+  {
+    "headline": "BBC News: Federal Reserve manufacturing plant workers declare indefinite nationwide strike over wages.",
+    "label": 0
+  },
+  {
+    "headline": "Renewable utility patent portfolio expands significantly with key quantum computing breakthroughs (MarketWatch).",
+    "label": 2
+  },
+  {
+    "headline": "Wholesale inflation cools dramatically, providing significant cost relief for E-commerce operator.",
+    "label": 2
+  },
+  {
+    "headline": "MarketWatch: Renewable utility announces aggressive share buyback authorization and special cash dividend.",
+    "label": 2
+  },
+  {
+    "headline": "Aerospace manufacturer medical diagnostics device receives accelerated breakthrough device designation (AP News).",
+    "label": 2
+  },
+  {
+    "headline": "Cloud provider announces second round of layoffs eliminating ten thousand corporate positions (Financial Times).",
+    "label": 0
+  },
+  {
+    "headline": "The widely touted revolutionary clean energy technology from Aerospace manufacturer failed safety tests.",
+    "label": 0
+  },
+  {
+    "headline": "Telecom carrier files for Chapter 11 bankruptcy liquidation following severe cash exhaustion.",
+    "label": 0
+  },
+  {
+    "headline": "Airline conglomerate retail chain files for court-supervised liquidation closing all stores.",
+    "label": 0
+  },
+  {
+    "headline": "Industrial conglomerate public transit service schedule operates on normal weekday transit timetable (Reuters).",
+    "label": 1
+  },
+  {
+    "headline": "AP News: Telecom carrier major procurement contract abruptly terminated for chronic project failure.",
+    "label": 0
+  },
+  {
+    "headline": "Bloomberg: The breakthrough medical clinical trial conducted by Investment bank failed completely in phase three.",
+    "label": 0
+  },
+  {
+    "headline": "Wall Street Journal: Retail giant cyber extortion syndicate threatens public release of confidential client data.",
+    "label": 0
+  },
+  {
+    "headline": "According to Financial Wire, sovereign wealth fund receives prestigious global sustainability leadership award for green supply chain.",
+    "label": 2
+  },
+  {
+    "headline": "Consumer goods giant shares drop slightly after exactly meeting quarterly Wall Street earnings estimates (Reuters).",
+    "label": 1
+  },
+  {
+    "headline": "According to Bloomberg, biotech startup signs comprehensive bilateral supply pact ensuring long-term raw material access.",
+    "label": 2
+  },
+  {
+    "headline": "According to AP News, mining corporation retail chain files for court-supervised liquidation closing all stores.",
+    "label": 0
+  },
+  {
+    "headline": "European Central Bank central statistical bureau releases quarterly labor force participation rate.",
+    "label": 1
+  },
+  {
+    "headline": "Wall Street Journal: Industrial conglomerate reviews bilateral trade documentation without adjusting existing tariff schedules.",
+    "label": 1
+  },
+  {
+    "headline": "Telecom carrier retail chain files for court-supervised liquidation closing all stores.",
+    "label": 0
+  },
+  {
+    "headline": "Investment bank credit rating upgraded to prime triple-A with stable long-term outlook (Wall Street Journal).",
+    "label": 2
+  },
+  {
+    "headline": "According to CNBC, energy producer satellite constellation successfully deployed to enhance global weather tracking.",
+    "label": 2
+  },
+  {
+    "headline": "MarketWatch: Automotive group CEO and top executive leadership abruptly resign amid forensic fraud investigation.",
+    "label": 0
+  },
+  {
+    "headline": "Automotive group hit with emergency utility rate hike after catastrophic forest wildfire verdict (Reuters).",
+    "label": 0
+  },
+  {
+    "headline": "Officials confirm zero casualties and complete containment at Consumer goods giant facility (Financial Times).",
+    "label": 2
+  },
+  {
+    "headline": "The legislative proposal concerning Investment bank passed committee review and moves to the floor (MarketWatch).",
+    "label": 1
+  },
+  {
+    "headline": "Reuters: Peace talks mediated by Aerospace manufacturer concluded without any agreement after bitter debate.",
+    "label": 0
+  },
+  {
+    "headline": "MarketWatch: Semiconductor maker stock market dropped earlier, but analysts remain surprisingly optimistic on outlook.",
+    "label": 1
+  },
+  {
+    "headline": "Pharmaceutical firm board of directors sets date for annual general shareholder meeting.",
+    "label": 1
+  },
+  {
+    "headline": "Investment bank commercial space launch vehicle explodes seconds after ignition, destroying payload (MarketWatch).",
+    "label": 0
+  },
+  {
+    "headline": "AP News: Biotech startup signs twenty-year clean energy power purchase agreement with major utilities.",
+    "label": 2
+  },
+  {
+    "headline": "Inflation cooled slightly, but remains stubbornly elevated, pressuring Telecom carrier margins.",
+    "label": 0
+  },
+  {
+    "headline": "According to Financial Times, trade delegations meet with Federal Reserve to extend consultation period by thirty days.",
+    "label": 1
+  },
+  {
+    "headline": "Automotive group agricultural division suffers severe harvest wipeout from historic blistering drought.",
+    "label": 0
+  },
+  {
+    "headline": "Healthcare network telecommunications regulator opens public comment window on satellite spectrum.",
+    "label": 1
+  },
+  {
+    "headline": "MarketWatch: Biotech startup unveils revolutionary artificial intelligence processor with superior efficiency.",
+    "label": 2
+  },
+  {
+    "headline": "Sovereign wealth fund patent agency records weekly list of newly granted technological patents (BBC News).",
+    "label": 1
+  },
+  {
+    "headline": "AP News: Investment bank expands high-wage engineering workforce following record order backlog.",
+    "label": 2
+  },
+  {
+    "headline": "According to Financial Times, retail giant automotive division holds media preview for upcoming commercial model lineup.",
+    "label": 1
+  },
+  {
+    "headline": "According to Reuters, airline conglomerate trade advisory panel holds scheduled working session on export licensing.",
+    "label": 1
+  },
+  {
+    "headline": "Aerospace manufacturer critical software vulnerability actively exploited in widespread zero-day attacks.",
+    "label": 0
+  },
+  {
+    "headline": "According to CNBC, cloud provider holds public comment hearing on proposed corporate disclosure regulations.",
+    "label": 1
+  },
+  {
+    "headline": "Reuters: Telecom carrier commodity futures contracts trade within customary seasonal historical ranges.",
+    "label": 1
+  },
+  {
+    "headline": "According to Reuters, renewable utility logistics routing optimization slashes fuel costs and delivery transit times.",
+    "label": 2
+  },
+  {
+    "headline": "The widely touted revolutionary clean energy technology from Investment bank failed safety tests.",
+    "label": 0
+  },
+  {
+    "headline": "CNBC: Logistics operator customer deposit flight accelerates following rumors of capital inadequacy.",
+    "label": 0
+  },
+  {
+    "headline": "TechCrunch: Mining corporation incurs massive multi-billion dollar regulatory penalty for deceptive practices.",
+    "label": 0
+  },
+  {
+    "headline": "Wholesale inflation cools dramatically, providing significant cost relief for Automotive group.",
+    "label": 2
+  },
+  {
+    "headline": "According to Financial Times, automotive group submits new drug application for regulatory review following trial completion.",
+    "label": 1
+  },
+  {
+    "headline": "Logistics operator credit rating upgraded to prime triple-A with stable long-term outlook (Financial Wire).",
+    "label": 2
+  },
+  {
+    "headline": "Defense contractor export volumes collapse following sudden retaliatory trade embargoes (BBC News).",
+    "label": 0
+  },
+  {
+    "headline": "Automotive group banking division updates online portal user interface with standard security login.",
+    "label": 1
+  },
+  {
+    "headline": "Consumer goods giant flagship AI model generates dangerous medical hallucinations during pilot (Bloomberg).",
+    "label": 0
+  },
+  {
+    "headline": "Automotive group sovereign bond issuance meets overwhelming investor demand, driving yields down.",
+    "label": 2
+  },
+  {
+    "headline": "According to Financial Wire, healthcare network agricultural division releases estimates for winter grain planting acreage.",
+    "label": 1
+  },
+  {
+    "headline": "AP News: Federal Reserve environmental agency publishes baseline water quality metrics for river basin.",
+    "label": 1
+  },
+  {
+    "headline": "European Central Bank suffers devastating ransomware breach compromising millions of customer records (TechCrunch).",
+    "label": 0
+  },
+  {
+    "headline": "Financial Times: Renewable utility maritime bulk freighter runs aground spilling toxic fuel into marine reserve.",
+    "label": 0
+  },
+  {
+    "headline": "CNBC: Logistics operator holds public comment hearing on proposed corporate disclosure regulations.",
+    "label": 1
+  },
+  {
+    "headline": "According to MarketWatch, payment processor consumer goods unit renews long-standing retail distribution agreement.",
+    "label": 1
+  },
+  {
+    "headline": "Tech giant commercial aircraft deliveries halted following discovery of structural assembly flaws (Reuters).",
+    "label": 0
+  },
+  {
+    "headline": "BBC News: Investment bank achieves historic zero-defect manufacturing milestone in aerospace assembly.",
+    "label": 2
+  },
+  {
+    "headline": "Tech giant mining dam collapse pollutes regional river basin, drawing international outrage (CNBC).",
+    "label": 0
+  },
+  {
+    "headline": "Energy producer antitrust inquiry concludes with full exoneration and praise for compliance (Reuters).",
+    "label": 2
+  },
+  {
+    "headline": "Healthcare network avoids debt restructuring after securing emergency credit at prime rates.",
+    "label": 2
+  },
+  {
+    "headline": "Reuters: Semiconductor maker agricultural technology reduces irrigation consumption by half while boosting yields.",
+    "label": 2
+  },
+  {
+    "headline": "BBC News: Semiconductor maker announces aggressive share buyback authorization and special cash dividend.",
+    "label": 2
+  },
+  {
+    "headline": "According to Financial Wire, e-commerce operator faces sweeping federal antitrust lawsuit seeking corporate dismemberment.",
+    "label": 0
+  },
+  {
+    "headline": "Logistics operator agricultural division suffers severe harvest wipeout from historic blistering drought (CNBC).",
+    "label": 0
+  },
+  {
+    "headline": "Despite foreign exchange friction, Healthcare network achieves record international net revenue (Wall Street Journal).",
+    "label": 2
+  },
+  {
+    "headline": "According to BBC News, tech giant profit warning stuns investors as previously forecasted growth evaporates.",
+    "label": 0
+  },
+  {
+    "headline": "Investment bank issues scheduled quarterly municipal debt refinancing announcement (TechCrunch).",
+    "label": 1
+  },
+  {
+    "headline": "BBC News: Payment processor public transit service schedule operates on normal weekday transit timetable.",
+    "label": 1
+  },
+  {
+    "headline": "Mining corporation completes nationwide high-speed broadband network deployment early.",
+    "label": 2
+  },
+  {
+    "headline": "According to MarketWatch, federal Reserve signs comprehensive bilateral supply pact ensuring long-term raw material access.",
+    "label": 2
+  },
+  {
+    "headline": "According to Wall Street Journal, payment processor antitrust inquiry concludes with full exoneration and praise for compliance.",
+    "label": 2
+  },
+  {
+    "headline": "Consumer goods giant accounting watchdog launches formal investigation into revenue recognition fraud.",
+    "label": 0
+  },
+  {
+    "headline": "Renewable utility software platform deploys scheduled minor maintenance patch for bug fixes.",
+    "label": 1
+  },
+  {
+    "headline": "Despite aggressive promises of turnaround, Payment processor entered formal receivership today.",
+    "label": 0
+  },
+  {
+    "headline": "Automotive group convenes annual scientific colloquium on machine learning optimization techniques (Financial Wire).",
+    "label": 1
+  },
+  {
+    "headline": "Renewable utility trade advisory panel holds scheduled working session on export licensing.",
+    "label": 1
+  },
+  {
+    "headline": "Great, another delayed flight and canceled connection by Energy producer to make my day perfect (CNBC).",
+    "label": 0
+  },
+  {
+    "headline": "Financial Wire: Cloud provider unveils revolutionary artificial intelligence processor with superior efficiency.",
+    "label": 2
+  },
+  {
+    "headline": "Bloomberg: Logistics operator consumer goods unit renews long-standing retail distribution agreement.",
+    "label": 1
+  },
+  {
+    "headline": "According to BBC News, healthcare network environmental regulator orders immediate shutdown of polluting smelting facility.",
+    "label": 0
+  },
+  {
+    "headline": "E-commerce operator customer deposit flight accelerates following rumors of capital inadequacy.",
+    "label": 0
+  },
+  {
+    "headline": "According to AP News, tech giant reviews foreign currency reserve metrics in scheduled quarterly administrative audit.",
+    "label": 1
+  },
+  {
+    "headline": "Telecom carrier establishes strategic alliance to deploy quantum-secure communications globally.",
+    "label": 2
+  },
+  {
+    "headline": "Renewable utility global brand perception index improves dramatically in independent annual survey.",
+    "label": 2
+  },
+  {
+    "headline": "Semiconductor maker optical networking technology sets world transmission speed record in tests.",
+    "label": 2
+  },
+  {
+    "headline": "Aerospace manufacturer university research lab receives standard government grant for basic physics (Bloomberg).",
+    "label": 1
+  },
+  {
+    "headline": "Biotech startup economic staff report projects moderate growth consistent with long-term trend.",
+    "label": 1
+  },
+  {
+    "headline": "Pharmaceutical firm completes state-of-the-art semiconductor fabrication facility ahead of schedule.",
+    "label": 2
+  },
+  {
+    "headline": "According to Financial Times, mining corporation central statistical bureau releases quarterly labor force participation rate.",
+    "label": 1
+  },
+  {
+    "headline": "Reuters: Industrial conglomerate publishes baseline geological survey data for domestic mineral extraction regions.",
+    "label": 1
+  },
+  {
+    "headline": "Investment bank commercial mortgage portfolio incurs steep defaults as property values plunge.",
+    "label": 0
+  },
+  {
+    "headline": "E-commerce operator factory automation system malfunctions, causing millions in damaged inventory (Financial Wire).",
+    "label": 0
+  },
+  {
+    "headline": "Reuters: Cloud provider university research lab receives standard government grant for basic physics.",
+    "label": 1
+  },
+  {
+    "headline": "According to Financial Wire, e-commerce operator legal patent injunction bans commercial sales of flagship smartphone nationwide.",
+    "label": 0
+  },
+  {
+    "headline": "According to Reuters, investment bank hardware laboratory conducts routine thermal dissipation testing on processors.",
+    "label": 1
+  },
+  {
+    "headline": "CNBC: Investment bank faces massive consumer boycott over documented child labor in overseas supply chain.",
+    "label": 0
+  },
+  {
+    "headline": "Energy producer pharmaceutical pipeline advances three novel therapeutic candidates to phase three.",
+    "label": 2
+  },
+  {
+    "headline": "According to MarketWatch, mining corporation manufacturing plant workers declare indefinite nationwide strike over wages.",
+    "label": 0
+  },
+  {
+    "headline": "Revenue grew 25 percent for European Central Bank, yet operating margins collapsed into severe losses (AP News).",
+    "label": 0
+  },
+  {
+    "headline": "Sovereign wealth fund industrial subsidiary completes standard five-year facility recertification.",
+    "label": 1
+  },
+  {
+    "headline": "Energy producer flagship AI model generates dangerous medical hallucinations during pilot (Wall Street Journal).",
+    "label": 0
+  },
+  {
+    "headline": "MarketWatch: Energy producer commercial software adoption doubles across global enterprise customers.",
+    "label": 2
+  },
+  {
+    "headline": "Mining corporation industrial subsidiary completes standard five-year facility recertification.",
+    "label": 1
+  },
+  {
+    "headline": "The widely touted revolutionary clean energy technology from Renewable utility failed safety tests (TechCrunch).",
+    "label": 0
+  },
+  {
+    "headline": "BBC News: E-commerce operator shares surge twelve percent following exceptional forward revenue guidance.",
+    "label": 2
+  },
+  {
+    "headline": "Wall Street Journal: Renewable utility airline cancels thousands of holiday flights amid complete crew scheduling meltdown.",
+    "label": 0
+  },
+  {
+    "headline": "Financial Times: Aerospace manufacturer commodity futures contracts trade within customary seasonal historical ranges.",
+    "label": 1
+  },
+  {
+    "headline": "Investment bank airline cancels thousands of holiday flights amid complete crew scheduling meltdown.",
+    "label": 0
+  },
+  {
+    "headline": "Semiconductor maker agricultural division suffers severe harvest wipeout from historic blistering drought (TechCrunch).",
+    "label": 0
+  },
+  {
+    "headline": "According to Reuters, mining corporation banking division updates online portal user interface with standard security login.",
+    "label": 1
+  },
+  {
+    "headline": "Financial Times: Payment processor schedules quarterly investor review conference for next Thursday morning.",
+    "label": 1
+  },
+  {
+    "headline": "Semiconductor maker profit warning stuns investors as previously forecasted growth evaporates.",
+    "label": 0
+  },
+  {
+    "headline": "According to Financial Times, renewable utility renewable utility completes installation of massive utility-scale battery farm.",
+    "label": 2
+  },
+  {
+    "headline": "Investment bank commercial airliner order backlog hits historic thirty billion dollar peak.",
+    "label": 2
+  },
+  {
+    "headline": "According to MarketWatch, trade delegations meet with Automotive group to extend consultation period by thirty days.",
+    "label": 1
+  },
+  {
+    "headline": "Tech giant updates formal documentation for relational query execution planning standards (Bloomberg).",
+    "label": 1
+  },
+  {
+    "headline": "Financial Times: Energy producer legal department files standard procedural answer to civil contract complaint.",
+    "label": 1
+  },
+  {
+    "headline": "According to CNBC, airline conglomerate maritime bulk freighter runs aground spilling toxic fuel into marine reserve.",
+    "label": 0
+  },
+  {
+    "headline": "Healthcare network maintains interest rates steady while remaining vigilant on persistent inflation.",
+    "label": 1
+  },
+  {
+    "headline": "Federal Reserve automotive subsidiary paralyzed by critical microcontroller chip shortages.",
+    "label": 0
+  },
+  {
+    "headline": "Retail giant agricultural technology reduces irrigation consumption by half while boosting yields (Reuters).",
+    "label": 2
+  },
+  {
+    "headline": "Wall Street Journal: Pharmaceutical firm maritime bulk freighter runs aground spilling toxic fuel into marine reserve.",
+    "label": 0
+  },
+  {
+    "headline": "Energy producer battery energy storage facility catches fire, generating hazardous toxic fumes.",
+    "label": 0
+  },
+  {
+    "headline": "Airline conglomerate signs twenty-year clean energy power purchase agreement with major utilities.",
+    "label": 2
+  },
+  {
+    "headline": "Industrial conglomerate submits new drug application for regulatory review following trial completion.",
+    "label": 1
+  },
+  {
+    "headline": "Wall Street Journal: Automotive group holds public comment hearing on proposed corporate disclosure regulations.",
+    "label": 1
+  },
+  {
+    "headline": "Reuters: Semiconductor maker commercial paper rates trade flat as institutional cash balances remain steady.",
+    "label": 1
+  },
+  {
+    "headline": "MarketWatch: Energy producer hardware laboratory conducts routine thermal dissipation testing on processors.",
+    "label": 1
+  },
+  {
+    "headline": "According to CNBC, pharmaceutical firm factory automation system malfunctions, causing millions in damaged inventory.",
+    "label": 0
+  },
+  {
+    "headline": "Retail giant autonomous delivery fleet completes ten million incident-free transit miles (Wall Street Journal).",
+    "label": 2
+  },
+  {
+    "headline": "AP News: Airline conglomerate commercial paper rates trade flat as institutional cash balances remain steady.",
+    "label": 1
+  },
+  {
+    "headline": "Biotech startup schedules quarterly investor review conference for next Thursday morning.",
+    "label": 1
+  },
+  {
+    "headline": "According to Bloomberg, investment bank export volumes collapse following sudden retaliatory trade embargoes.",
+    "label": 0
+  },
+  {
+    "headline": "Mining corporation hit with emergency utility rate hike after catastrophic forest wildfire verdict (Reuters).",
+    "label": 0
+  },
+  {
+    "headline": "European Central Bank international joint venture dissolves in bitter dispute over stolen IP assets (AP News).",
+    "label": 0
+  },
+  {
+    "headline": "Defense contractor patent agency records weekly list of newly granted technological patents.",
+    "label": 1
+  },
+  {
+    "headline": "According to Financial Times, consumer goods giant unveils revolutionary artificial intelligence processor with superior efficiency.",
+    "label": 2
+  },
+  {
+    "headline": "According to Financial Wire, e-commerce operator incurs massive multi-billion dollar regulatory penalty for deceptive practices.",
+    "label": 0
+  },
+  {
+    "headline": "Financial Wire: Pharmaceutical firm market capitalization collapses by half in brutal equity selloff on solvency fears.",
+    "label": 0
+  },
+  {
+    "headline": "TechCrunch: Recession concerns recede as Federal Reserve reports resilient consumer hiring and spending.",
+    "label": 2
+  },
+  {
+    "headline": "Automotive group commercial software adoption doubles across global enterprise customers (Financial Wire).",
+    "label": 2
+  },
+  {
+    "headline": "According to BBC News, automotive group suffers devastating ransomware breach compromising millions of customer records.",
+    "label": 0
+  },
+  {
+    "headline": "Aerospace manufacturer economic staff report projects moderate growth consistent with long-term trend.",
+    "label": 1
+  },
+  {
+    "headline": "Biotech startup hardware laboratory conducts routine thermal dissipation testing on processors.",
+    "label": 1
+  },
+  {
+    "headline": "Bloomberg: Sovereign wealth fund trade advisory panel holds scheduled working session on export licensing.",
+    "label": 1
+  },
+  {
+    "headline": "Cloud provider seismic monitoring station detects low-magnitude tremor along uninhabited trench (MarketWatch).",
+    "label": 1
+  },
+  {
+    "headline": "Renewable utility commercial airliner order backlog hits historic thirty billion dollar peak (Financial Wire).",
+    "label": 2
+  },
+  {
+    "headline": "Retail giant maritime bulk freighter runs aground spilling toxic fuel into marine reserve (Wall Street Journal).",
+    "label": 0
+  },
+  {
+    "headline": "Industrial conglomerate commercial software adoption doubles across global enterprise customers (Bloomberg).",
+    "label": 2
+  },
+  {
+    "headline": "According to Financial Times, revenue grew 25 percent for E-commerce operator, yet operating margins collapsed into severe losses.",
+    "label": 0
+  },
+  {
+    "headline": "Biotech startup clean hydrogen production plant commences full commercial operation early (MarketWatch).",
+    "label": 2
+  },
+  {
+    "headline": "Aerospace manufacturer announces routine seasonal flight adjustments between major international hubs.",
+    "label": 1
+  },
+  {
+    "headline": "European Central Bank unveils revolutionary artificial intelligence processor with superior efficiency.",
+    "label": 2
+  },
+  {
+    "headline": "According to CNBC, industrial conglomerate legal department files standard procedural answer to civil contract complaint.",
+    "label": 1
+  },
+  {
+    "headline": "AP News: Mining corporation receives prestigious global sustainability leadership award for green supply chain.",
+    "label": 2
+  },
+  {
+    "headline": "According to Financial Times, biotech startup faces criminal negligence indictments following fatal industrial explosion.",
+    "label": 0
+  },
+  {
+    "headline": "Wall Street Journal: Automotive group antitrust inquiry concludes with full exoneration and praise for compliance.",
+    "label": 2
+  },
+  {
+    "headline": "Financial Times: Federal Reserve deep learning platform cuts genomic sequencing compute time by eighty percent.",
+    "label": 2
+  },
+  {
+    "headline": "Federal Reserve avoids debt restructuring after securing emergency credit at prime rates (TechCrunch).",
+    "label": 2
+  },
+  {
+    "headline": "Financial Times: Automotive group environmental regulator orders immediate shutdown of polluting smelting facility.",
+    "label": 0
+  },
+  {
+    "headline": "Mining corporation logs record annual commercial deliveries, outperforming industrial peers.",
+    "label": 2
+  },
+  {
+    "headline": "BBC News: Cloud provider medical diagnostics device receives accelerated breakthrough device designation.",
+    "label": 2
+  },
+  {
+    "headline": "According to Bloomberg, mining corporation technical working group publishes draft whitepaper on cryptographic protocols.",
+    "label": 1
+  },
+  {
+    "headline": "Payment processor CEO and top executive leadership abruptly resign amid forensic fraud investigation (Financial Times).",
+    "label": 0
+  },
+  {
+    "headline": "Despite foreign exchange friction, Sovereign wealth fund achieves record international net revenue.",
+    "label": 2
+  },
+  {
+    "headline": "E-commerce operator delivers double-digit operating margin expansion across international units.",
+    "label": 2
+  },
+  {
+    "headline": "TechCrunch: Industrial conglomerate central statistical bureau releases quarterly labor force participation rate.",
+    "label": 1
+  },
+  {
+    "headline": "Consumer goods giant experiences severe pipeline rupture forcing regional environmental evacuations (MarketWatch).",
+    "label": 0
+  },
+  {
+    "headline": "According to Wall Street Journal, e-commerce operator successfully neutralizes sophisticated nation-state cyber threat with zero losses.",
+    "label": 2
+  },
+  {
+    "headline": "According to Reuters, mining corporation telecommunications network suffers nationwide routing failure cutting 911 calls.",
+    "label": 0
+  },
+  {
+    "headline": "The legislative proposal concerning Renewable utility passed committee review and moves to the floor (Financial Times).",
+    "label": 1
+  },
+  {
+    "headline": "Renewable utility venture investment capital dries up as institutional backers withdraw funding.",
+    "label": 0
+  },
+  {
+    "headline": "Aerospace manufacturer reviews foreign currency reserve metrics in scheduled quarterly administrative audit.",
+    "label": 1
+  },
+  {
+    "headline": "Sovereign wealth fund operational streamlining accelerates long-term profitability and cash reserves (Reuters).",
+    "label": 2
+  },
+  {
+    "headline": "Federal Reserve economic staff report projects moderate growth consistent with long-term trend (AP News).",
+    "label": 1
+  },
+  {
+    "headline": "According to Wall Street Journal, automotive group posts stellar balance sheet results with non-performing loans near zero.",
+    "label": 2
+  },
+  {
+    "headline": "CNBC: Biotech startup shares surge twelve percent following exceptional forward revenue guidance.",
+    "label": 2
+  },
+  {
+    "headline": "Industrial conglomerate agricultural division releases estimates for winter grain planting acreage.",
+    "label": 1
+  },
+  {
+    "headline": "According to Bloomberg, sovereign wealth fund factory automation platform boosts client manufacturing throughput by forty percent.",
+    "label": 2
+  },
+  {
+    "headline": "Industrial conglomerate sovereign bond issuance meets overwhelming investor demand, driving yields down (MarketWatch).",
+    "label": 2
+  },
+  {
+    "headline": "Revenue grew 25 percent for Sovereign wealth fund, yet operating margins collapsed into severe losses (Bloomberg).",
+    "label": 0
+  },
+  {
+    "headline": "Wall Street Journal: Biotech startup suffers catastrophic cloud infrastructure outage disabling banking portals.",
+    "label": 0
+  },
+  {
+    "headline": "CNBC: E-commerce operator energy panel convenes to review regional electrical grid transmission capacity.",
+    "label": 1
+  },
+  {
+    "headline": "Tech giant telecommunications network suffers nationwide routing failure cutting 911 calls (Financial Wire).",
+    "label": 0
+  },
+  {
+    "headline": "According to Wall Street Journal, european Central Bank holds benchmark investor day to outline five-year strategic operational roadmap.",
+    "label": 1
+  },
+  {
+    "headline": "Healthcare network telecommunications network suffers nationwide routing failure cutting 911 calls.",
+    "label": 0
+  },
+  {
+    "headline": "Mining corporation delivers double-digit operating margin expansion across international units.",
+    "label": 2
+  },
+  {
+    "headline": "According to Financial Times, healthcare network environmental agency publishes baseline water quality metrics for river basin.",
+    "label": 1
+  },
+  {
+    "headline": "According to Reuters, consumer goods giant retail chain files for court-supervised liquidation closing all stores.",
+    "label": 0
+  },
+  {
+    "headline": "Aerospace manufacturer telecommunications unit tests emergency messaging siren relays across county.",
+    "label": 1
+  },
+  {
+    "headline": "Reuters: Federal Reserve supply chain logistics paralyzed by nationwide port worker dock strike.",
+    "label": 0
+  },
+  {
+    "headline": "According to MarketWatch, consumer goods giant receives prestigious global sustainability leadership award for green supply chain.",
+    "label": 2
+  },
+  {
+    "headline": "According to TechCrunch, mining corporation CEO and top executive leadership abruptly resign amid forensic fraud investigation.",
+    "label": 0
+  },
+  {
+    "headline": "According to Wall Street Journal, automotive group overcomes supply chain disruptions to post robust positive free cash flow.",
+    "label": 2
+  },
+  {
+    "headline": "CNBC: Automotive group receives prestigious global sustainability leadership award for green supply chain.",
+    "label": 2
+  },
+  {
+    "headline": "Financial Times: Federal Reserve autonomous delivery fleet completes ten million incident-free transit miles.",
+    "label": 2
+  },
+  {
+    "headline": "Biotech startup battery energy storage facility catches fire, generating hazardous toxic fumes.",
+    "label": 0
+  },
+  {
+    "headline": "According to Financial Wire, investment bank profit warning stuns investors as previously forecasted growth evaporates.",
+    "label": 0
+  },
+  {
+    "headline": "Telecom carrier secures landmark ten billion dollar green infrastructure contract (Bloomberg).",
+    "label": 2
+  },
+  {
+    "headline": "Industrial conglomerate files supplemental informational brief with regulatory oversight committee (CNBC).",
+    "label": 1
+  },
+  {
+    "headline": "Telecom carrier submits new drug application for regulatory review following trial completion.",
+    "label": 1
+  },
+  {
+    "headline": "Mining corporation files for Chapter 11 bankruptcy liquidation following severe cash exhaustion (Financial Wire).",
+    "label": 0
+  },
+  {
+    "headline": "MarketWatch: E-commerce operator overcomes supply chain disruptions to post robust positive free cash flow.",
+    "label": 2
+  },
+  {
+    "headline": "Pharmaceutical firm trade advisory panel holds scheduled working session on export licensing (TechCrunch).",
+    "label": 1
+  },
+  {
+    "headline": "Healthcare network successfully resolves legacy legal dispute with favorable settlement terms (Financial Times).",
+    "label": 2
+  },
+  {
+    "headline": "Pharmaceutical firm conducts routine forty billion dollar ten-year treasury refinancing auction.",
+    "label": 1
+  },
+  {
+    "headline": "Mining corporation airline cancels thousands of holiday flights amid complete crew scheduling meltdown (BBC News).",
+    "label": 0
+  },
+  {
+    "headline": "AP News: Defense contractor mining dam collapse pollutes regional river basin, drawing international outrage.",
+    "label": 0
+  },
+  {
+    "headline": "Peace talks mediated by Automotive group concluded without any agreement after bitter debate (Wall Street Journal).",
+    "label": 0
+  },
+  {
+    "headline": "According to AP News, investment bank public transit service schedule operates on normal weekday transit timetable.",
+    "label": 1
+  },
+  {
+    "headline": "BBC News: Cloud provider software platform deploys scheduled minor maintenance patch for bug fixes.",
+    "label": 1
+  },
+  {
+    "headline": "Financial Times: Semiconductor maker trade advisory panel holds scheduled working session on export licensing.",
+    "label": 1
+  },
+  {
+    "headline": "Federal Reserve holds public comment hearing on proposed corporate disclosure regulations (AP News).",
+    "label": 1
+  },
+  {
+    "headline": "Healthcare network industrial subsidiary completes standard five-year facility recertification (Financial Times).",
+    "label": 1
+  },
+  {
+    "headline": "Payment processor university research lab receives standard government grant for basic physics (Financial Wire).",
+    "label": 1
+  },
+  {
+    "headline": "Energy producer venture capital portfolio generates spectacular liquidity returns following IPO (CNBC).",
+    "label": 2
+  },
+  {
+    "headline": "According to TechCrunch, tech giant satellite constellation successfully deployed to enhance global weather tracking.",
+    "label": 2
+  },
+  {
+    "headline": "Retail giant issues scheduled quarterly municipal debt refinancing announcement (Financial Times).",
+    "label": 1
+  },
+  {
+    "headline": "Wall Street Journal: Pharmaceutical firm commercial airliner order backlog hits historic thirty billion dollar peak.",
+    "label": 2
+  },
+  {
+    "headline": "Biotech startup trade advisory panel holds scheduled working session on export licensing.",
+    "label": 1
+  },
+  {
+    "headline": "Officials confirm zero casualties and complete containment at Telecom carrier facility (Bloomberg).",
+    "label": 2
+  },
+  {
+    "headline": "Telecom carrier unveils revolutionary artificial intelligence processor with superior efficiency.",
+    "label": 2
+  },
+  {
+    "headline": "CNBC: Aerospace manufacturer achieves historic zero-defect manufacturing milestone in aerospace assembly.",
+    "label": 2
+  },
+  {
+    "headline": "Payment processor corporate pension fund reveals multi-billion dollar solvency shortfall.",
+    "label": 0
+  },
+  {
+    "headline": "Financial Times: Defense contractor announces second round of layoffs eliminating ten thousand corporate positions.",
+    "label": 0
+  },
+  {
+    "headline": "Pharmaceutical firm accounting watchdog launches formal investigation into revenue recognition fraud.",
+    "label": 0
+  },
+  {
+    "headline": "According to AP News, consumer goods giant logs record annual commercial deliveries, outperforming industrial peers.",
+    "label": 2
+  },
+  {
+    "headline": "Logistics operator semiconductor foundry achieves world-first commercial 2-nanometer wafer output (Financial Times).",
+    "label": 2
+  },
+  {
+    "headline": "Energy producer faces criminal negligence indictments following fatal industrial explosion (Bloomberg).",
+    "label": 0
+  },
+  {
+    "headline": "Telecom carrier announces appointment of new Chief Financial Officer effective next month.",
+    "label": 1
+  },
+  {
+    "headline": "Renewable utility patent agency records weekly list of newly granted technological patents.",
+    "label": 1
+  },
+  {
+    "headline": "Reuters: The breakthrough medical clinical trial conducted by Industrial conglomerate failed completely in phase three.",
+    "label": 0
+  },
+  {
+    "headline": "Biotech startup holds public comment hearing on proposed corporate disclosure regulations (Financial Wire).",
+    "label": 1
+  },
+  {
+    "headline": "Investment bank stock market dropped earlier, but analysts remain surprisingly optimistic on outlook.",
+    "label": 1
+  },
+  {
+    "headline": "Industrial conglomerate dividend payout raised fifteen percent, marking tenth consecutive annual hike.",
+    "label": 2
+  },
+  {
+    "headline": "Officials confirm zero casualties and complete containment at Biotech startup facility (Bloomberg).",
+    "label": 2
+  },
+  {
+    "headline": "AP News: Semiconductor maker environmental agency publishes baseline water quality metrics for river basin.",
+    "label": 1
+  },
+  {
+    "headline": "Federal Reserve receives prestigious global sustainability leadership award for green supply chain.",
+    "label": 2
+  },
+  {
+    "headline": "Financial Wire: Tech giant maintains benchmark interest rate unchanged following scheduled policy vote.",
+    "label": 1
+  },
+  {
+    "headline": "European Central Bank autonomous delivery fleet completes ten million incident-free transit miles.",
+    "label": 2
+  },
+  {
+    "headline": "According to TechCrunch, industrial conglomerate credit rating upgraded to prime triple-A with stable long-term outlook.",
+    "label": 2
+  },
+  {
+    "headline": "Industrial conglomerate clean hydrogen production plant commences full commercial operation early (Financial Wire).",
+    "label": 2
+  },
+  {
+    "headline": "Telecom carrier shares drop slightly after exactly meeting quarterly Wall Street earnings estimates (MarketWatch).",
+    "label": 1
+  },
+  {
+    "headline": "According to Reuters, mining corporation maintains interest rates steady while remaining vigilant on persistent inflation.",
+    "label": 1
+  },
+  {
+    "headline": "Renewable utility successfully resolves legacy legal dispute with favorable settlement terms.",
+    "label": 2
+  },
+  {
+    "headline": "Cloud provider profits plunged forty percent this quarter, perfectly meeting gloomy expectations (BBC News).",
+    "label": 0
+  },
+  {
+    "headline": "According to Reuters, pharmaceutical firm operational streamlining accelerates long-term profitability and cash reserves.",
+    "label": 2
+  },
+  {
+    "headline": "BBC News: Logistics operator deep learning platform cuts genomic sequencing compute time by eighty percent.",
+    "label": 2
+  },
+  {
+    "headline": "Sovereign wealth fund commercial software adoption doubles across global enterprise customers.",
+    "label": 2
+  },
+  {
+    "headline": "According to Financial Wire, e-commerce operator shares drop slightly after exactly meeting quarterly Wall Street earnings estimates.",
+    "label": 1
+  },
+  {
+    "headline": "Pharmaceutical firm signs twenty-year clean energy power purchase agreement with major utilities.",
+    "label": 2
+  },
+  {
+    "headline": "Sovereign wealth fund consumer goods unit renews long-standing retail distribution agreement (BBC News).",
+    "label": 1
+  },
+  {
+    "headline": "MarketWatch: Consumer goods giant export volumes collapse following sudden retaliatory trade embargoes.",
+    "label": 0
+  },
+  {
+    "headline": "According to Wall Street Journal, federal Reserve technical working group publishes draft whitepaper on cryptographic protocols.",
+    "label": 1
+  },
+  {
+    "headline": "Payment processor satellite constellation successfully deployed to enhance global weather tracking.",
+    "label": 2
+  },
+  {
+    "headline": "According to Bloomberg, federal Reserve retail chain files for court-supervised liquidation closing all stores.",
+    "label": 0
+  },
+  {
+    "headline": "According to Reuters, revenue grew 25 percent for Tech giant, yet operating margins collapsed into severe losses.",
+    "label": 0
+  },
+  {
+    "headline": "Industrial conglomerate reports unexpected sixty percent plunge in quarterly operating income.",
+    "label": 0
+  },
+  {
+    "headline": "MarketWatch: E-commerce operator commercial paper rates trade flat as institutional cash balances remain steady.",
+    "label": 1
+  },
+  {
+    "headline": "Sovereign wealth fund renewable utility completes installation of massive utility-scale battery farm.",
+    "label": 2
+  },
+  {
+    "headline": "Reuters: Healthcare network submits new drug application for regulatory review following trial completion.",
+    "label": 1
+  },
+  {
+    "headline": "Cloud provider central statistical bureau releases quarterly labor force participation rate (MarketWatch).",
+    "label": 1
+  },
+  {
+    "headline": "Investment bank submits new drug application for regulatory review following trial completion (TechCrunch).",
+    "label": 1
+  },
+  {
+    "headline": "Logistics operator legal patent injunction bans commercial sales of flagship smartphone nationwide.",
+    "label": 0
+  },
+  {
+    "headline": "Semiconductor maker signs comprehensive bilateral supply pact ensuring long-term raw material access.",
+    "label": 2
+  },
+  {
+    "headline": "According to TechCrunch, sovereign wealth fund unveils revolutionary artificial intelligence processor with superior efficiency.",
+    "label": 2
+  },
+  {
+    "headline": "Investment bank dividend payout raised fifteen percent, marking tenth consecutive annual hike (Reuters).",
+    "label": 2
+  },
+  {
+    "headline": "Sovereign wealth fund suffers catastrophic cloud infrastructure outage disabling banking portals.",
+    "label": 0
+  },
+  {
+    "headline": "The economic slowdown proved far less severe than feared, aiding recovery at Industrial conglomerate (BBC News).",
+    "label": 2
+  },
+  {
+    "headline": "Biotech startup faces massive consumer boycott over documented child labor in overseas supply chain.",
+    "label": 0
+  },
+  {
+    "headline": "Logistics operator commercial aircraft deliveries halted following discovery of structural assembly flaws.",
+    "label": 0
+  },
+  {
+    "headline": "Telecom carrier issues scheduled quarterly municipal debt refinancing announcement.",
+    "label": 1
+  },
+  {
+    "headline": "Financial Wire: Investment bank hit with emergency utility rate hike after catastrophic forest wildfire verdict.",
+    "label": 0
+  },
+  {
+    "headline": "Renewable utility consumer goods unit renews long-standing retail distribution agreement (Reuters).",
+    "label": 1
+  },
+  {
+    "headline": "According to CNBC, mining corporation medical diagnostics device receives accelerated breakthrough device designation.",
+    "label": 2
+  },
+  {
+    "headline": "Retail giant completes state-of-the-art semiconductor fabrication facility ahead of schedule.",
+    "label": 2
+  },
+  {
+    "headline": "According to MarketWatch, sovereign wealth fund environmental agency publishes baseline water quality metrics for river basin.",
+    "label": 1
+  },
+  {
+    "headline": "MarketWatch: Investment bank maintains interest rates steady while remaining vigilant on persistent inflation.",
+    "label": 1
+  },
+  {
+    "headline": "Wall Street Journal: Healthcare network hit with emergency utility rate hike after catastrophic forest wildfire verdict.",
+    "label": 0
+  },
+  {
+    "headline": "Defense contractor overcomes supply chain disruptions to post robust positive free cash flow.",
+    "label": 2
+  },
+  {
+    "headline": "According to AP News, cloud provider reports record quarterly net profit, easily beating Wall Street consensus.",
+    "label": 2
+  },
+  {
+    "headline": "According to Financial Wire, tech giant logistics network transitions parcel tracking database to updated cloud host.",
+    "label": 1
+  },
+  {
+    "headline": "According to Reuters, biotech startup maritime bulk freighter runs aground spilling toxic fuel into marine reserve.",
+    "label": 0
+  },
+  {
+    "headline": "BBC News: Cloud provider telecommunications network suffers nationwide routing failure cutting 911 calls.",
+    "label": 0
+  },
+  {
+    "headline": "Defense contractor signs comprehensive bilateral supply pact ensuring long-term raw material access.",
+    "label": 2
+  },
+  {
+    "headline": "Semiconductor maker issues scheduled quarterly municipal debt refinancing announcement (Reuters).",
+    "label": 1
+  },
+  {
+    "headline": "According to BBC News, the industry symposium hosted by Logistics operator was not terribly exciting, but not a waste of time.",
+    "label": 1
+  },
+  {
+    "headline": "AP News: European Central Bank secures landmark ten billion dollar green infrastructure contract.",
+    "label": 2
+  },
+  {
+    "headline": "European Central Bank maintains interest rates steady while remaining vigilant on persistent inflation.",
+    "label": 1
+  },
+  {
+    "headline": "BBC News: Great, another delayed flight and canceled connection by Renewable utility to make my day perfect.",
+    "label": 0
+  },
+  {
+    "headline": "Energy producer sovereign bond issuance meets overwhelming investor demand, driving yields down (AP News).",
+    "label": 2
+  },
+  {
+    "headline": "Revenue grew 25 percent for Consumer goods giant, yet operating margins collapsed into severe losses.",
+    "label": 0
+  },
+  {
+    "headline": "Wall Street Journal: E-commerce operator environmental agency publishes baseline water quality metrics for river basin.",
+    "label": 1
+  },
+  {
+    "headline": "Financial Wire: Cloud provider customer deposit flight accelerates following rumors of capital inadequacy.",
+    "label": 0
+  },
+  {
+    "headline": "According to BBC News, european Central Bank battery energy storage facility catches fire, generating hazardous toxic fumes.",
+    "label": 0
+  },
+  {
+    "headline": "According to BBC News, semiconductor maker renewable utility completes installation of massive utility-scale battery farm.",
+    "label": 2
+  },
+  {
+    "headline": "According to Financial Wire, tech giant legal patent injunction bans commercial sales of flagship smartphone nationwide.",
+    "label": 0
+  },
+  {
+    "headline": "CNBC: Aerospace manufacturer schedules quarterly investor review conference for next Thursday morning.",
+    "label": 1
+  },
+  {
+    "headline": "According to TechCrunch, retail giant announces routine seasonal flight adjustments between major international hubs.",
+    "label": 1
+  },
+  {
+    "headline": "E-commerce operator consumer goods unit renews long-standing retail distribution agreement.",
+    "label": 1
+  },
+  {
+    "headline": "According to Wall Street Journal, healthcare network energy panel convenes to review regional electrical grid transmission capacity.",
+    "label": 1
+  },
+  {
+    "headline": "Telecom carrier accounting watchdog launches formal investigation into revenue recognition fraud (MarketWatch).",
+    "label": 0
+  },
+  {
+    "headline": "According to Wall Street Journal, consumer goods giant dividend payout raised fifteen percent, marking tenth consecutive annual hike.",
+    "label": 2
+  },
+  {
+    "headline": "AP News: Investment bank software platform deploys scheduled minor maintenance patch for bug fixes.",
+    "label": 1
+  },
+  {
+    "headline": "Reuters: Investment bank successfully resolves legacy legal dispute with favorable settlement terms.",
+    "label": 2
+  },
+  {
+    "headline": "Consumer goods giant agricultural division releases estimates for winter grain planting acreage.",
+    "label": 1
+  },
+  {
+    "headline": "Logistics operator major procurement contract abruptly terminated for chronic project failure (BBC News).",
+    "label": 0
+  },
+  {
+    "headline": "Biotech startup deep learning platform cuts genomic sequencing compute time by eighty percent (Financial Times).",
+    "label": 2
+  },
+  {
+    "headline": "According to Wall Street Journal, biotech startup logistics network transitions parcel tracking database to updated cloud host.",
+    "label": 1
+  },
+  {
+    "headline": "Financial Times: Federal Reserve reports record quarterly net profit, easily beating Wall Street consensus.",
+    "label": 2
+  },
+  {
+    "headline": "Federal Reserve publishes updated technical specifications for wireless spectrum allocations.",
+    "label": 1
+  },
+  {
+    "headline": "Payment processor global brand perception index improves dramatically in independent annual survey (Reuters).",
+    "label": 2
+  },
+  {
+    "headline": "Retail giant hit with emergency utility rate hike after catastrophic forest wildfire verdict (AP News).",
+    "label": 0
+  },
+  {
+    "headline": "Energy producer updates annual supplier code of conduct with minor procedural revisions.",
+    "label": 1
+  },
+  {
+    "headline": "Payment processor successfully raises two billion dollars in oversubscribed private funding (Financial Wire).",
+    "label": 2
+  },
+  {
+    "headline": "Investment bank updates annual supplier code of conduct with minor procedural revisions.",
+    "label": 1
+  },
+  {
+    "headline": "Aerospace manufacturer patent portfolio expands significantly with key quantum computing breakthroughs (Reuters).",
+    "label": 2
+  },
+  {
+    "headline": "According to Reuters, aerospace manufacturer establishes strategic alliance to deploy quantum-secure communications globally.",
+    "label": 2
+  },
+  {
+    "headline": "Telecom carrier telecommunications network suffers nationwide routing failure cutting 911 calls (Bloomberg).",
+    "label": 0
+  },
+  {
+    "headline": "According to Financial Times, defense contractor medical diagnostics device receives accelerated breakthrough device designation.",
+    "label": 2
+  },
+  {
+    "headline": "Reuters: Trade delegations meet with Energy producer to extend consultation period by thirty days.",
+    "label": 1
+  },
+  {
+    "headline": "Payment processor profit warning stuns investors as previously forecasted growth evaporates.",
+    "label": 0
+  },
+  {
+    "headline": "Aerospace manufacturer production facilities paralyzed as acute raw material shortages force closures (CNBC).",
+    "label": 0
+  },
+  {
+    "headline": "Wall Street Journal: Semiconductor maker convenes annual scientific colloquium on machine learning optimization techniques.",
+    "label": 1
+  },
+  {
+    "headline": "According to Wall Street Journal, telecom carrier legal patent injunction bans commercial sales of flagship smartphone nationwide.",
+    "label": 0
+  },
+  {
+    "headline": "According to BBC News, cloud provider profit warning stuns investors as previously forecasted growth evaporates.",
+    "label": 0
+  },
+  {
+    "headline": "According to TechCrunch, payment processor maintains benchmark interest rate unchanged following scheduled policy vote.",
+    "label": 1
+  },
+  {
+    "headline": "The legislative proposal concerning Payment processor passed committee review and moves to the floor.",
+    "label": 1
+  },
+  {
+    "headline": "European Central Bank food processing conglomerate recalls contaminated poultry across fifteen states (Reuters).",
+    "label": 0
+  },
+  {
+    "headline": "Telecom carrier achieves historic zero-defect manufacturing milestone in aerospace assembly (TechCrunch).",
+    "label": 2
+  },
+  {
+    "headline": "Bloomberg: Payment processor agricultural technology reduces irrigation consumption by half while boosting yields.",
+    "label": 2
+  },
+  {
+    "headline": "According to BBC News, european Central Bank automotive subsidiary paralyzed by critical microcontroller chip shortages.",
+    "label": 0
+  },
+  {
+    "headline": "According to BBC News, the widely touted revolutionary clean energy technology from Airline conglomerate failed safety tests.",
+    "label": 0
+  },
+  {
+    "headline": "Pharmaceutical firm issues scheduled quarterly municipal debt refinancing announcement (CNBC).",
+    "label": 1
+  },
+  {
+    "headline": "Energy producer conducts routine forty billion dollar ten-year treasury refinancing auction (Wall Street Journal).",
+    "label": 1
+  },
+  {
+    "headline": "Sovereign wealth fund files supplemental informational brief with regulatory oversight committee.",
+    "label": 1
+  },
+  {
+    "headline": "Automotive group clinical oncology trial was not a failure, showing marked tumor reduction (Financial Wire).",
+    "label": 2
+  },
+  {
+    "headline": "Financial Times: Energy producer dividend payout raised fifteen percent, marking tenth consecutive annual hike.",
+    "label": 2
+  },
+  {
+    "headline": "Energy producer posts stellar balance sheet results with non-performing loans near zero.",
+    "label": 2
+  },
+  {
+    "headline": "According to TechCrunch, pharmaceutical firm supply chain logistics paralyzed by nationwide port worker dock strike.",
+    "label": 0
+  },
+  {
+    "headline": "Cloud provider establishes strategic alliance to deploy quantum-secure communications globally (TechCrunch).",
+    "label": 2
+  },
+  {
+    "headline": "Logistics operator telecommunications regulator opens public comment window on satellite spectrum.",
+    "label": 1
+  },
+  {
+    "headline": "According to Wall Street Journal, defense contractor cyber extortion syndicate threatens public release of confidential client data.",
+    "label": 0
+  },
+  {
+    "headline": "According to BBC News, european Central Bank posts record quarterly revenue while simultaneously announcing modest staff shifts.",
+    "label": 1
+  },
+  {
+    "headline": "European Central Bank faces sweeping federal antitrust lawsuit seeking corporate dismemberment (Financial Times).",
+    "label": 0
+  },
+  {
+    "headline": "MarketWatch: Payment processor commercial mortgage portfolio incurs steep defaults as property values plunge.",
+    "label": 0
+  },
+  {
+    "headline": "Renewable utility public transit service schedule operates on normal weekday transit timetable (TechCrunch).",
+    "label": 1
+  },
+  {
+    "headline": "Wall Street Journal: E-commerce operator banking division updates online portal user interface with standard security login.",
+    "label": 1
+  },
+  {
+    "headline": "E-commerce operator commercial mortgage portfolio incurs steep defaults as property values plunge.",
+    "label": 0
+  },
+  {
+    "headline": "Biotech startup supply chain logistics paralyzed by nationwide port worker dock strike.",
+    "label": 0
+  },
+  {
+    "headline": "Payment processor publishes updated technical specifications for wireless spectrum allocations (CNBC).",
+    "label": 1
+  },
+  {
+    "headline": "European Central Bank telecommunications network suffers nationwide routing failure cutting 911 calls.",
+    "label": 0
+  },
+  {
+    "headline": "European Central Bank retail chain files for court-supervised liquidation closing all stores.",
+    "label": 0
+  },
+  {
+    "headline": "According to Bloomberg, federal Reserve commercial airliner order backlog hits historic thirty billion dollar peak.",
+    "label": 2
+  },
+  {
+    "headline": "Federal Reserve secures landmark ten billion dollar green infrastructure contract.",
+    "label": 2
+  },
+  {
+    "headline": "Energy producer packaging subsidiary transitions to one hundred percent biodegradable materials.",
+    "label": 2
+  },
+  {
+    "headline": "Tech giant autonomous delivery fleet completes ten million incident-free transit miles.",
+    "label": 2
+  },
+  {
+    "headline": "According to TechCrunch, renewable utility wins unanimous regulatory clearance for breakthrough pediatric medical therapy.",
+    "label": 2
+  },
+  {
+    "headline": "Payment processor venture capital portfolio generates spectacular liquidity returns following IPO (Reuters).",
+    "label": 2
+  },
+  {
+    "headline": "According to Reuters, mining corporation critical software vulnerability actively exploited in widespread zero-day attacks.",
+    "label": 0
+  },
+  {
+    "headline": "Investment bank environmental agency publishes baseline water quality metrics for river basin.",
+    "label": 1
+  },
+  {
+    "headline": "According to CNBC, investment bank reports catastrophic ninety percent collapse in ocean freight shipping rates.",
+    "label": 0
+  },
+  {
+    "headline": "TechCrunch: Logistics operator successfully cuts manufacturing overhead by thirty percent without job losses.",
+    "label": 2
+  },
+  {
+    "headline": "According to Financial Times, healthcare network updates annual supplier code of conduct with minor procedural revisions.",
+    "label": 1
+  },
+  {
+    "headline": "TechCrunch: Industrial conglomerate experiences severe pipeline rupture forcing regional environmental evacuations.",
+    "label": 0
+  },
+  {
+    "headline": "European Central Bank hit with emergency utility rate hike after catastrophic forest wildfire verdict.",
+    "label": 0
+  },
+  {
+    "headline": "According to Reuters, industrial conglomerate logistics routing optimization slashes fuel costs and delivery transit times.",
+    "label": 2
+  },
+  {
+    "headline": "E-commerce operator patent portfolio expands significantly with key quantum computing breakthroughs (Financial Times).",
+    "label": 2
+  },
+  {
+    "headline": "Renewable utility cyber extortion syndicate threatens public release of confidential client data (Financial Wire).",
+    "label": 0
+  },
+  {
+    "headline": "According to Bloomberg, telecom carrier reviews bilateral trade documentation without adjusting existing tariff schedules.",
+    "label": 1
+  },
+  {
+    "headline": "Renewable utility retail chain files for court-supervised liquidation closing all stores (TechCrunch).",
+    "label": 0
+  },
+  {
+    "headline": "According to CNBC, wholesale inflation cools dramatically, providing significant cost relief for Payment processor.",
+    "label": 2
+  },
+  {
+    "headline": "Consumer goods giant secures landmark ten billion dollar green infrastructure contract.",
+    "label": 2
+  },
+  {
+    "headline": "Semiconductor maker reports catastrophic ninety percent collapse in ocean freight shipping rates (MarketWatch).",
+    "label": 0
+  },
+  {
+    "headline": "Trade delegations meet with Defense contractor to extend consultation period by thirty days (Wall Street Journal).",
+    "label": 1
+  },
+  {
+    "headline": "According to BBC News, healthcare network announces appointment of new Chief Financial Officer effective next month.",
+    "label": 1
+  },
+  {
+    "headline": "Renewable utility commercial mortgage portfolio incurs steep defaults as property values plunge.",
+    "label": 0
+  },
+  {
+    "headline": "According to TechCrunch, consumer goods giant airline cancels thousands of holiday flights amid complete crew scheduling meltdown.",
+    "label": 0
+  },
+  {
+    "headline": "Investment bank major procurement contract abruptly terminated for chronic project failure.",
+    "label": 0
+  },
+  {
+    "headline": "According to MarketWatch, airline conglomerate export volumes collapse following sudden retaliatory trade embargoes.",
+    "label": 0
+  },
+  {
+    "headline": "According to Financial Times, industrial conglomerate commercial mortgage portfolio incurs steep defaults as property values plunge.",
+    "label": 0
+  },
+  {
+    "headline": "BBC News: Investment bank faces sweeping federal antitrust lawsuit seeking corporate dismemberment.",
+    "label": 0
+  },
+  {
+    "headline": "E-commerce operator telecommunications regulator opens public comment window on satellite spectrum (Wall Street Journal).",
+    "label": 1
+  },
+  {
+    "headline": "According to BBC News, retail giant quarterly revenue increases forty percent, fueled by cloud infrastructure demand.",
+    "label": 2
+  },
+  {
+    "headline": "Sovereign wealth fund maritime bulk freighter runs aground spilling toxic fuel into marine reserve (CNBC).",
+    "label": 0
+  },
+  {
+    "headline": "According to CNBC, industrial conglomerate CEO and top executive leadership abruptly resign amid forensic fraud investigation.",
+    "label": 0
+  },
+  {
+    "headline": "Logistics operator suffers catastrophic cloud infrastructure outage disabling banking portals (BBC News).",
+    "label": 0
+  },
+  {
+    "headline": "According to Wall Street Journal, airline conglomerate logistics network transitions parcel tracking database to updated cloud host.",
+    "label": 1
+  },
+  {
+    "headline": "Reuters: Semiconductor maker battery energy storage facility catches fire, generating hazardous toxic fumes.",
+    "label": 0
+  },
+  {
+    "headline": "According to BBC News, renewable utility clinical oncology trial was not a failure, showing marked tumor reduction.",
+    "label": 2
+  },
+  {
+    "headline": "BBC News: Cloud provider reports catastrophic ninety percent collapse in ocean freight shipping rates.",
+    "label": 0
+  },
+  {
+    "headline": "Wall Street Journal: Aerospace manufacturer factory automation platform boosts client manufacturing throughput by forty percent.",
+    "label": 2
+  },
+  {
+    "headline": "Mining corporation schedules quarterly investor review conference for next Thursday morning (Financial Wire).",
+    "label": 1
+  },
+  {
+    "headline": "E-commerce operator updates formal documentation for relational query execution planning standards (Financial Wire).",
+    "label": 1
+  },
+  {
+    "headline": "Peace talks mediated by Industrial conglomerate concluded without any agreement after bitter debate.",
+    "label": 0
+  },
+  {
+    "headline": "Sovereign wealth fund semiconductor foundry achieves world-first commercial 2-nanometer wafer output.",
+    "label": 2
+  },
+  {
+    "headline": "Recession concerns recede as Semiconductor maker reports resilient consumer hiring and spending (AP News).",
+    "label": 2
+  },
+  {
+    "headline": "European Central Bank successfully resolves legacy legal dispute with favorable settlement terms.",
+    "label": 2
+  },
+  {
+    "headline": "According to Financial Times, revenue grew 25 percent for Renewable utility, yet operating margins collapsed into severe losses.",
+    "label": 0
+  },
+  {
+    "headline": "Great, another delayed flight and canceled connection by Healthcare network to make my day perfect.",
+    "label": 0
+  },
+  {
+    "headline": "Renewable utility antitrust inquiry concludes with full exoneration and praise for compliance (BBC News).",
+    "label": 2
+  },
+  {
+    "headline": "Tech giant publishes regular monthly petroleum statistical inventory report as forecast (CNBC).",
+    "label": 1
+  },
+  {
+    "headline": "Retail giant updates formal documentation for relational query execution planning standards.",
+    "label": 1
+  },
+  {
+    "headline": "Telecom carrier signs comprehensive bilateral supply pact ensuring long-term raw material access (Financial Times).",
+    "label": 2
+  },
+  {
+    "headline": "Semiconductor maker reports record quarterly net profit, easily beating Wall Street consensus.",
+    "label": 2
+  },
+  {
+    "headline": "Aerospace manufacturer seismic monitoring station detects low-magnitude tremor along uninhabited trench (Bloomberg).",
+    "label": 1
+  },
+  {
+    "headline": "According to Financial Wire, sovereign wealth fund central statistical bureau releases quarterly labor force participation rate.",
+    "label": 1
+  },
+  {
+    "headline": "According to TechCrunch, consumer goods giant international joint venture dissolves in bitter dispute over stolen IP assets.",
+    "label": 0
+  },
+  {
+    "headline": "Telecom carrier posts stellar balance sheet results with non-performing loans near zero (CNBC).",
+    "label": 2
+  },
+  {
+    "headline": "Cloud provider files supplemental informational brief with regulatory oversight committee (MarketWatch).",
+    "label": 1
+  },
+  {
+    "headline": "According to AP News, automotive group supply chain logistics paralyzed by nationwide port worker dock strike.",
+    "label": 0
+  },
+  {
+    "headline": "According to TechCrunch, european Central Bank software platform deploys scheduled minor maintenance patch for bug fixes.",
+    "label": 1
+  },
+  {
+    "headline": "Sovereign wealth fund commercial paper rates trade flat as institutional cash balances remain steady.",
+    "label": 1
+  },
+  {
+    "headline": "Airline conglomerate reports catastrophic ninety percent collapse in ocean freight shipping rates (CNBC).",
+    "label": 0
+  },
+  {
+    "headline": "According to Financial Times, mining corporation credit rating upgraded to prime triple-A with stable long-term outlook.",
+    "label": 2
+  },
+  {
+    "headline": "Bloomberg: Mining corporation telecommunications regulator opens public comment window on satellite spectrum.",
+    "label": 1
+  },
+  {
+    "headline": "According to AP News, airline conglomerate stock market dropped earlier, but analysts remain surprisingly optimistic on outlook.",
+    "label": 1
+  },
+  {
+    "headline": "Industrial conglomerate agricultural technology reduces irrigation consumption by half while boosting yields.",
+    "label": 2
+  },
+  {
+    "headline": "Logistics operator chemical processing explosion forces mandatory evacuation of neighboring town.",
+    "label": 0
+  },
+  {
+    "headline": "Recession concerns recede as Payment processor reports resilient consumer hiring and spending.",
+    "label": 2
+  },
+  {
+    "headline": "E-commerce operator central statistical bureau releases quarterly labor force participation rate.",
+    "label": 1
+  },
+  {
+    "headline": "MarketWatch: Telecom carrier CEO and top executive leadership abruptly resign amid forensic fraud investigation.",
+    "label": 0
+  },
+  {
+    "headline": "Mining corporation corporate pension fund reveals multi-billion dollar solvency shortfall.",
+    "label": 0
+  },
+  {
+    "headline": "European Central Bank manufacturing plant workers declare indefinite nationwide strike over wages.",
+    "label": 0
+  },
+  {
+    "headline": "Biotech startup customer retention rates reach all-time unprecedented high across all regions (TechCrunch).",
+    "label": 2
+  },
+  {
+    "headline": "According to AP News, federal Reserve maritime safety agency monitors routine shipping vessel traffic through strait.",
+    "label": 1
+  },
+  {
+    "headline": "According to Reuters, pharmaceutical firm engineering team submits feasibility review for proposed municipal bridge.",
+    "label": 1
+  },
+  {
+    "headline": "According to AP News, sovereign wealth fund publishes updated technical specifications for wireless spectrum allocations.",
+    "label": 1
+  },
+  {
+    "headline": "Investment bank agricultural division suffers severe harvest wipeout from historic blistering drought.",
+    "label": 0
+  },
+  {
+    "headline": "Aerospace manufacturer manufacturing plant workers declare indefinite nationwide strike over wages (BBC News).",
+    "label": 0
+  },
+  {
+    "headline": "Aerospace manufacturer maritime bulk freighter runs aground spilling toxic fuel into marine reserve (Financial Times).",
+    "label": 0
+  },
+  {
+    "headline": "TechCrunch: Industrial conglomerate sovereign credit outlook revised to negative citing unsustainable fiscal deficits.",
+    "label": 0
+  },
+  {
+    "headline": "BBC News: Payment processor flagship AI model generates dangerous medical hallucinations during pilot.",
+    "label": 0
+  },
+  {
+    "headline": "Financial Wire: Biotech startup successfully resolves legacy legal dispute with favorable settlement terms.",
+    "label": 2
+  },
+  {
+    "headline": "Cloud provider releases monthly statistical bulletin on regional consumer expenditures.",
+    "label": 1
+  },
+  {
+    "headline": "According to CNBC, e-commerce operator reviews foreign currency reserve metrics in scheduled quarterly administrative audit.",
+    "label": 1
+  },
+  {
+    "headline": "Aerospace manufacturer issues urgent safety recall of over one million vehicles due to critical defect.",
+    "label": 0
+  },
+  {
+    "headline": "Aerospace manufacturer expands high-wage engineering workforce following record order backlog (Wall Street Journal).",
+    "label": 2
+  },
+  {
+    "headline": "MarketWatch: Cloud provider announces routine seasonal flight adjustments between major international hubs.",
+    "label": 1
+  },
+  {
+    "headline": "Financial Wire: European Central Bank critical software vulnerability actively exploited in widespread zero-day attacks.",
+    "label": 0
+  },
+  {
+    "headline": "According to MarketWatch, mining corporation stock market dropped earlier, but analysts remain surprisingly optimistic on outlook.",
+    "label": 1
+  },
+  {
+    "headline": "Despite foreign exchange friction, Investment bank achieves record international net revenue (AP News).",
+    "label": 2
+  },
+  {
+    "headline": "TechCrunch: Payment processor establishes strategic alliance to deploy quantum-secure communications globally.",
+    "label": 2
+  },
+  {
+    "headline": "Investment bank conducts scheduled biennial maintenance overhaul at regional refining facility (TechCrunch).",
+    "label": 1
+  },
+  {
+    "headline": "Reuters: Healthcare network satellite constellation successfully deployed to enhance global weather tracking.",
+    "label": 2
+  },
+  {
+    "headline": "Aerospace manufacturer posts stellar balance sheet results with non-performing loans near zero (CNBC).",
+    "label": 2
+  },
+  {
+    "headline": "European Central Bank water purification venture brings clean drinking access to remote communities.",
+    "label": 2
+  },
+  {
+    "headline": "According to TechCrunch, industrial conglomerate suffers catastrophic cloud infrastructure outage disabling banking portals.",
+    "label": 0
+  },
+  {
+    "headline": "The legislative proposal concerning Biotech startup passed committee review and moves to the floor (Bloomberg).",
+    "label": 1
+  },
+  {
+    "headline": "Wall Street Journal: European Central Bank expands high-wage engineering workforce following record order backlog.",
+    "label": 2
+  },
+  {
+    "headline": "Pharmaceutical firm agricultural division releases estimates for winter grain planting acreage.",
+    "label": 1
+  },
+  {
+    "headline": "Bloomberg: European Central Bank pharmaceutical pipeline advances three novel therapeutic candidates to phase three.",
+    "label": 2
+  },
+  {
+    "headline": "Aerospace manufacturer files supplemental informational brief with regulatory oversight committee (Reuters).",
+    "label": 1
+  },
+  {
+    "headline": "Sovereign wealth fund technical working group publishes draft whitepaper on cryptographic protocols.",
+    "label": 1
+  },
+  {
+    "headline": "Industrial conglomerate venture capital portfolio generates spectacular liquidity returns following IPO (BBC News).",
+    "label": 2
+  },
+  {
+    "headline": "AP News: Telecom carrier export volumes collapse following sudden retaliatory trade embargoes.",
+    "label": 0
+  },
+  {
+    "headline": "Industrial conglomerate incurs massive multi-billion dollar regulatory penalty for deceptive practices.",
+    "label": 0
+  },
+  {
+    "headline": "According to AP News, retail giant telecommunications unit tests emergency messaging siren relays across county.",
+    "label": 1
+  },
+  {
+    "headline": "Logistics operator cyber extortion syndicate threatens public release of confidential client data.",
+    "label": 0
+  },
+  {
+    "headline": "TechCrunch: Semiconductor maker consumer goods unit renews long-standing retail distribution agreement.",
+    "label": 1
+  },
+  {
+    "headline": "Aviation safety regulator concludes preliminary inspection of Airline conglomerate without issuing fines.",
+    "label": 1
+  },
+  {
+    "headline": "Wall Street Journal: European Central Bank seismic monitoring station detects low-magnitude tremor along uninhabited trench.",
+    "label": 1
+  },
+  {
+    "headline": "Logistics operator halts all customer withdrawals amid escalating insolvency concerns (MarketWatch).",
+    "label": 0
+  },
+  {
+    "headline": "The breakthrough medical clinical trial conducted by Semiconductor maker failed completely in phase three.",
+    "label": 0
+  },
+  {
+    "headline": "Sovereign wealth fund global brand perception index improves dramatically in independent annual survey (TechCrunch).",
+    "label": 2
+  },
+  {
+    "headline": "According to Wall Street Journal, european Central Bank venture investment capital dries up as institutional backers withdraw funding.",
+    "label": 0
+  },
+  {
+    "headline": "Airline conglomerate completes state-of-the-art semiconductor fabrication facility ahead of schedule (Financial Times).",
+    "label": 2
+  },
+  {
+    "headline": "Automotive group clean hydrogen production plant commences full commercial operation early (BBC News).",
+    "label": 2
+  },
+  {
+    "headline": "Bloomberg: Pharmaceutical firm launches breakthrough electric vehicle platform with 800-mile driving range.",
+    "label": 2
+  },
+  {
+    "headline": "Telecom carrier mining dam collapse pollutes regional river basin, drawing international outrage.",
+    "label": 0
+  },
+  {
+    "headline": "According to CNBC, e-commerce operator customer retention rates reach all-time unprecedented high across all regions.",
+    "label": 2
+  },
+  {
+    "headline": "Airline conglomerate reports unexpected sixty percent plunge in quarterly operating income (CNBC).",
+    "label": 0
+  },
+  {
+    "headline": "According to Wall Street Journal, federal Reserve trade advisory panel holds scheduled working session on export licensing.",
+    "label": 1
+  },
+  {
+    "headline": "Investment bank logs record annual commercial deliveries, outperforming industrial peers.",
+    "label": 2
+  },
+  {
+    "headline": "According to Reuters, automotive group telecommunications regulator opens public comment window on satellite spectrum.",
+    "label": 1
+  },
+  {
+    "headline": "Financial Wire: European Central Bank publishes updated technical specifications for wireless spectrum allocations.",
+    "label": 1
+  },
+  {
+    "headline": "Cloud provider hardware laboratory conducts routine thermal dissipation testing on processors (Wall Street Journal).",
+    "label": 1
+  },
+  {
+    "headline": "Financial Wire: Tech giant antitrust inquiry concludes with full exoneration and praise for compliance.",
+    "label": 2
+  },
+  {
+    "headline": "Financial Wire: Semiconductor maker global brand perception index improves dramatically in independent annual survey.",
+    "label": 2
+  },
+  {
+    "headline": "Payment processor battery energy storage facility catches fire, generating hazardous toxic fumes.",
+    "label": 0
+  },
+  {
+    "headline": "Cloud provider environmental agency publishes baseline water quality metrics for river basin (Wall Street Journal).",
+    "label": 1
+  },
+  {
+    "headline": "Industrial conglomerate packaging subsidiary transitions to one hundred percent biodegradable materials.",
+    "label": 2
+  },
+  {
+    "headline": "Reuters: Sovereign wealth fund successfully resolves legacy legal dispute with favorable settlement terms.",
+    "label": 2
+  },
+  {
+    "headline": "According to CNBC, semiconductor maker economic staff report projects moderate growth consistent with long-term trend.",
+    "label": 1
+  },
+  {
+    "headline": "Semiconductor maker faces criminal negligence indictments following fatal industrial explosion.",
+    "label": 0
+  },
+  {
+    "headline": "According to Bloomberg, telecom carrier food processing conglomerate recalls contaminated poultry across fifteen states.",
+    "label": 0
+  },
+  {
+    "headline": "According to Wall Street Journal, airline conglomerate hit with emergency utility rate hike after catastrophic forest wildfire verdict.",
+    "label": 0
+  },
+  {
+    "headline": "Consumer goods giant publishes baseline geological survey data for domestic mineral extraction regions.",
+    "label": 1
+  },
+  {
+    "headline": "BBC News: Tech giant operational streamlining accelerates long-term profitability and cash reserves.",
+    "label": 2
+  },
+  {
+    "headline": "Financial Wire: Industrial conglomerate legal patent injunction bans commercial sales of flagship smartphone nationwide.",
+    "label": 0
+  },
+  {
+    "headline": "According to CNBC, aerospace manufacturer quarterly revenue increases forty percent, fueled by cloud infrastructure demand.",
+    "label": 2
+  },
+  {
+    "headline": "CNBC: Industrial conglomerate flagship AI model generates dangerous medical hallucinations during pilot.",
+    "label": 0
+  },
+  {
+    "headline": "Financial Wire: Biotech startup conducts routine forty billion dollar ten-year treasury refinancing auction.",
+    "label": 1
+  },
+  {
+    "headline": "Energy producer clinical oncology trial was not a failure, showing marked tumor reduction.",
+    "label": 2
+  },
+  {
+    "headline": "Financial Wire: The widely touted revolutionary clean energy technology from Biotech startup failed safety tests.",
+    "label": 0
+  },
+  {
+    "headline": "Wall Street Journal: Mining corporation factory automation platform boosts client manufacturing throughput by forty percent.",
+    "label": 2
+  },
+  {
+    "headline": "According to Reuters, payment processor cyber extortion syndicate threatens public release of confidential client data.",
+    "label": 0
+  },
+  {
+    "headline": "Healthcare network shares drop slightly after exactly meeting quarterly Wall Street earnings estimates.",
+    "label": 1
+  },
+  {
+    "headline": "Investment bank suffers catastrophic cloud infrastructure outage disabling banking portals.",
+    "label": 0
+  },
+  {
+    "headline": "According to Financial Times, the new flagship luxury electric vehicle from Industrial conglomerate broke down three times in test drive.",
+    "label": 0
+  },
+  {
+    "headline": "CNBC: Airline conglomerate incurs massive multi-billion dollar regulatory penalty for deceptive practices.",
+    "label": 0
+  },
+  {
+    "headline": "AP News: Automotive group unveils revolutionary artificial intelligence processor with superior efficiency.",
+    "label": 2
+  },
+  {
+    "headline": "Consumer goods giant successfully resolves legacy legal dispute with favorable settlement terms.",
+    "label": 2
+  },
+  {
+    "headline": "Cloud provider mining division reports quarterly ore extraction tonnage in line with guidance.",
+    "label": 1
+  },
+  {
+    "headline": "According to Wall Street Journal, energy producer commercial aircraft deliveries halted following discovery of structural assembly flaws.",
+    "label": 0
+  },
+  {
+    "headline": "Pharmaceutical firm incurs massive multi-billion dollar regulatory penalty for deceptive practices (TechCrunch).",
+    "label": 0
+  },
+  {
+    "headline": "According to Bloomberg, logistics operator announces routine seasonal flight adjustments between major international hubs.",
+    "label": 1
+  },
+  {
+    "headline": "Logistics operator administrative headquarters relocates to neighboring corporate park location.",
+    "label": 1
+  },
+  {
+    "headline": "Reuters: Sovereign wealth fund packaging subsidiary transitions to one hundred percent biodegradable materials.",
+    "label": 2
+  },
+  {
+    "headline": "Pharmaceutical firm commercial mortgage portfolio incurs steep defaults as property values plunge.",
+    "label": 0
+  },
+  {
+    "headline": "BBC News: Tech giant commercial software adoption doubles across global enterprise customers.",
+    "label": 2
+  },
+  {
+    "headline": "Wall Street Journal: European Central Bank accelerates carbon neutrality targets by five years amid clean breakthroughs.",
+    "label": 2
+  },
+  {
+    "headline": "AP News: Cloud provider operational streamlining accelerates long-term profitability and cash reserves.",
+    "label": 2
+  },
+  {
+    "headline": "Airline conglomerate patent portfolio expands significantly with key quantum computing breakthroughs.",
+    "label": 2
+  },
+  {
+    "headline": "According to MarketWatch, cloud provider logistics routing optimization slashes fuel costs and delivery transit times.",
+    "label": 2
+  },
+  {
+    "headline": "Federal Reserve CEO and top executive leadership abruptly resign amid forensic fraud investigation.",
+    "label": 0
+  },
+  {
+    "headline": "Federal Reserve profit warning stuns investors as previously forecasted growth evaporates (Wall Street Journal).",
+    "label": 0
+  },
+  {
+    "headline": "According to Wall Street Journal, consumer goods giant patent portfolio expands significantly with key quantum computing breakthroughs.",
+    "label": 2
+  },
+  {
+    "headline": "MarketWatch: Biotech startup environmental regulator orders immediate shutdown of polluting smelting facility.",
+    "label": 0
+  },
+  {
+    "headline": "Defense contractor publishes updated technical specifications for wireless spectrum allocations (Bloomberg).",
+    "label": 1
+  },
+  {
+    "headline": "Sovereign wealth fund sovereign credit outlook revised to negative citing unsustainable fiscal deficits.",
+    "label": 0
+  },
+  {
+    "headline": "According to BBC News, biotech startup production facilities paralyzed as acute raw material shortages force closures.",
+    "label": 0
+  },
+  {
+    "headline": "TechCrunch: European Central Bank agricultural division releases estimates for winter grain planting acreage.",
+    "label": 1
+  },
+  {
+    "headline": "Industrial conglomerate international joint venture dissolves in bitter dispute over stolen IP assets.",
+    "label": 0
+  },
+  {
+    "headline": "Biotech startup seismic monitoring station detects low-magnitude tremor along uninhabited trench.",
+    "label": 1
+  },
+  {
+    "headline": "Federal Reserve reports catastrophic ninety percent collapse in ocean freight shipping rates.",
+    "label": 0
+  },
+  {
+    "headline": "Financial Times: Mining corporation convenes annual scientific colloquium on machine learning optimization techniques.",
+    "label": 1
+  },
+  {
+    "headline": "Renewable utility secures landmark ten billion dollar green infrastructure contract.",
+    "label": 2
+  },
+  {
+    "headline": "Financial Wire: Aerospace manufacturer market capitalization collapses by half in brutal equity selloff on solvency fears.",
+    "label": 0
+  },
+  {
+    "headline": "Revenue grew 25 percent for Mining corporation, yet operating margins collapsed into severe losses.",
+    "label": 0
+  },
+  {
+    "headline": "Financial Times: Consumer goods giant faces sweeping federal antitrust lawsuit seeking corporate dismemberment.",
+    "label": 0
+  },
+  {
+    "headline": "CNBC: Cloud provider stock market dropped earlier, but analysts remain surprisingly optimistic on outlook.",
+    "label": 1
+  },
+  {
+    "headline": "Federal Reserve submits new drug application for regulatory review following trial completion (AP News).",
+    "label": 1
+  },
+  {
+    "headline": "Financial Times: Sovereign wealth fund announces routine seasonal flight adjustments between major international hubs.",
+    "label": 1
+  },
+  {
+    "headline": "CNBC: Industrial conglomerate customer retention rates reach all-time unprecedented high across all regions.",
+    "label": 2
+  },
+  {
+    "headline": "Cloud provider updates annual supplier code of conduct with minor procedural revisions (TechCrunch).",
+    "label": 1
+  },
+  {
+    "headline": "Despite aggressive promises of turnaround, Retail giant entered formal receivership today.",
+    "label": 0
+  },
+  {
+    "headline": "Pharmaceutical firm automotive division holds media preview for upcoming commercial model lineup (MarketWatch).",
+    "label": 1
+  },
+  {
+    "headline": "Industrial conglomerate environmental regulator orders immediate shutdown of polluting smelting facility.",
+    "label": 0
+  },
+  {
+    "headline": "Biotech startup announces routine seasonal flight adjustments between major international hubs (Financial Wire).",
+    "label": 1
+  },
+  {
+    "headline": "Aerospace manufacturer venture capital portfolio generates spectacular liquidity returns following IPO.",
+    "label": 2
+  },
+  {
+    "headline": "According to AP News, pharmaceutical firm holds benchmark investor day to outline five-year strategic operational roadmap.",
+    "label": 1
+  },
+  {
+    "headline": "Federal Reserve convenes annual scientific colloquium on machine learning optimization techniques (Financial Wire).",
+    "label": 1
+  },
+  {
+    "headline": "Telecom carrier chemical subsidiary conducts standard routine emissions monitoring survey (Financial Times).",
+    "label": 1
+  },
+  {
+    "headline": "According to BBC News, automotive group retail chain confirms normal operational store hours across all regions.",
+    "label": 1
+  },
+  {
+    "headline": "Consumer goods giant customer deposit flight accelerates following rumors of capital inadequacy (MarketWatch).",
+    "label": 0
+  },
+  {
+    "headline": "AP News: Industrial conglomerate patent portfolio expands significantly with key quantum computing breakthroughs.",
+    "label": 2
+  },
+  {
+    "headline": "Payment processor suffers devastating ransomware breach compromising millions of customer records.",
+    "label": 0
+  },
+  {
+    "headline": "Great, another delayed flight and canceled connection by Pharmaceutical firm to make my day perfect.",
+    "label": 0
+  },
+  {
+    "headline": "Investment bank clean hydrogen production plant commences full commercial operation early (Reuters).",
+    "label": 2
+  },
+  {
+    "headline": "Healthcare network secures landmark ten billion dollar green infrastructure contract (MarketWatch).",
+    "label": 2
+  },
+  {
+    "headline": "European Central Bank issues scheduled quarterly municipal debt refinancing announcement (MarketWatch).",
+    "label": 1
+  },
+  {
+    "headline": "Financial Wire: E-commerce operator posts record quarterly revenue while simultaneously announcing modest staff shifts.",
+    "label": 1
+  },
+  {
+    "headline": "BBC News: Investment bank logistics network transitions parcel tracking database to updated cloud host.",
+    "label": 1
+  },
+  {
+    "headline": "Federal Reserve agricultural division releases estimates for winter grain planting acreage (TechCrunch).",
+    "label": 1
+  },
+  {
+    "headline": "Wall Street Journal: Cloud provider clinical oncology trial was not a failure, showing marked tumor reduction.",
+    "label": 2
+  },
+  {
+    "headline": "Payment processor reviews bilateral trade documentation without adjusting existing tariff schedules (BBC News).",
+    "label": 1
+  },
+  {
+    "headline": "TechCrunch: Cloud provider critical software vulnerability actively exploited in widespread zero-day attacks.",
+    "label": 0
+  },
+  {
+    "headline": "According to Bloomberg, defense contractor high-yield bond spreads blow out to crisis levels as liquidity evaporates.",
+    "label": 0
+  },
+  {
+    "headline": "According to CNBC, tech giant faces massive consumer boycott over documented child labor in overseas supply chain.",
+    "label": 0
+  },
+  {
+    "headline": "Sovereign wealth fund quarterly revenue increases forty percent, fueled by cloud infrastructure demand.",
+    "label": 2
+  },
+  {
+    "headline": "Industrial conglomerate customer deposit flight accelerates following rumors of capital inadequacy.",
+    "label": 0
+  },
+  {
+    "headline": "Sovereign wealth fund pharmaceutical pipeline advances three novel therapeutic candidates to phase three (Wall Street Journal).",
+    "label": 2
+  },
+  {
+    "headline": "Aerospace manufacturer administrative headquarters relocates to neighboring corporate park location.",
+    "label": 1
+  },
+  {
+    "headline": "Energy producer files supplemental informational brief with regulatory oversight committee (MarketWatch).",
+    "label": 1
+  },
+  {
+    "headline": "According to Wall Street Journal, cloud provider secures landmark ten billion dollar green infrastructure contract.",
+    "label": 2
+  },
+  {
+    "headline": "Financial Times: Defense contractor optical networking technology sets world transmission speed record in tests.",
+    "label": 2
+  },
+  {
+    "headline": "Defense contractor successfully cuts manufacturing overhead by thirty percent without job losses.",
+    "label": 2
+  },
+  {
+    "headline": "Federal Reserve mining division reports quarterly ore extraction tonnage in line with guidance (Reuters).",
+    "label": 1
+  },
+  {
+    "headline": "Telecom carrier technical working group publishes draft whitepaper on cryptographic protocols.",
+    "label": 1
+  },
+  {
+    "headline": "Reuters: Peace talks mediated by E-commerce operator concluded without any agreement after bitter debate.",
+    "label": 0
+  },
+  {
+    "headline": "Cloud provider food technology venture wins FDA commercial clearance for cultivated nutrition (Bloomberg).",
+    "label": 2
+  },
+  {
+    "headline": "According to CNBC, consumer goods giant retail chain confirms normal operational store hours across all regions.",
+    "label": 1
+  },
+  {
+    "headline": "Sovereign wealth fund autonomous delivery fleet completes ten million incident-free transit miles (CNBC).",
+    "label": 2
+  },
+  {
+    "headline": "Industrial conglomerate manufacturing plant workers declare indefinite nationwide strike over wages.",
+    "label": 0
+  },
+  {
+    "headline": "Reuters: Defense contractor food processing conglomerate recalls contaminated poultry across fifteen states.",
+    "label": 0
+  },
+  {
+    "headline": "According to TechCrunch, biotech startup completes nationwide high-speed broadband network deployment early.",
+    "label": 2
+  },
+  {
+    "headline": "Bloomberg: Federal Reserve holds benchmark investor day to outline five-year strategic operational roadmap.",
+    "label": 1
+  },
+  {
+    "headline": "Logistics operator legal department files standard procedural answer to civil contract complaint.",
+    "label": 1
+  },
+  {
+    "headline": "CNBC: Sovereign wealth fund chemical subsidiary conducts standard routine emissions monitoring survey.",
+    "label": 1
+  },
+  {
+    "headline": "Telecom carrier operational streamlining accelerates long-term profitability and cash reserves.",
+    "label": 2
+  },
+  {
+    "headline": "According to TechCrunch, payment processor industrial subsidiary completes standard five-year facility recertification.",
+    "label": 1
+  },
+  {
+    "headline": "According to Financial Wire, airline conglomerate logs record annual commercial deliveries, outperforming industrial peers.",
+    "label": 2
+  },
+  {
+    "headline": "Consumer goods giant CEO and top executive leadership abruptly resign amid forensic fraud investigation.",
+    "label": 0
+  },
+  {
+    "headline": "Retail giant reviews foreign currency reserve metrics in scheduled quarterly administrative audit.",
+    "label": 1
+  },
+  {
+    "headline": "Reuters: Automotive group stock market dropped earlier, but analysts remain surprisingly optimistic on outlook.",
+    "label": 1
+  },
+  {
+    "headline": "TechCrunch: Healthcare network completes nationwide high-speed broadband network deployment early.",
+    "label": 2
+  },
+  {
+    "headline": "According to MarketWatch, despite aggressive promises of turnaround, Airline conglomerate entered formal receivership today.",
+    "label": 0
+  },
+  {
+    "headline": "Industrial conglomerate mining division reports quarterly ore extraction tonnage in line with guidance.",
+    "label": 1
+  },
+  {
+    "headline": "Investment bank issues urgent safety recall of over one million vehicles due to critical defect (CNBC).",
+    "label": 0
+  },
+  {
+    "headline": "MarketWatch: Officials confirm zero casualties and complete containment at E-commerce operator facility.",
+    "label": 2
+  },
+  {
+    "headline": "European Central Bank wins unanimous regulatory clearance for breakthrough pediatric medical therapy.",
+    "label": 2
+  },
+  {
+    "headline": "According to Financial Wire, sovereign wealth fund economic staff report projects moderate growth consistent with long-term trend.",
+    "label": 1
+  },
+  {
+    "headline": "E-commerce operator high-yield bond spreads blow out to crisis levels as liquidity evaporates.",
+    "label": 0
+  },
+  {
+    "headline": "Cloud provider reviews bilateral trade documentation without adjusting existing tariff schedules (Bloomberg).",
+    "label": 1
+  },
+  {
+    "headline": "Mining corporation halts all customer withdrawals amid escalating insolvency concerns (Financial Wire).",
+    "label": 0
+  },
+  {
+    "headline": "Defense contractor profit warning stuns investors as previously forecasted growth evaporates.",
+    "label": 0
+  },
+  {
+    "headline": "Telecom carrier patent agency records weekly list of newly granted technological patents.",
+    "label": 1
+  },
+  {
+    "headline": "Automotive group market capitalization collapses by half in brutal equity selloff on solvency fears (Financial Wire).",
+    "label": 0
+  },
+  {
+    "headline": "Pharmaceutical firm clinical oncology trial was not a failure, showing marked tumor reduction (AP News).",
+    "label": 2
+  },
+  {
+    "headline": "AP News: Investment bank legal patent injunction bans commercial sales of flagship smartphone nationwide.",
+    "label": 0
+  },
+  {
+    "headline": "According to MarketWatch, pharmaceutical firm patent agency records weekly list of newly granted technological patents.",
+    "label": 1
+  },
+  {
+    "headline": "BBC News: Aviation safety regulator concludes preliminary inspection of Payment processor without issuing fines.",
+    "label": 1
+  },
+  {
+    "headline": "According to Bloomberg, aerospace manufacturer commercial airliner order backlog hits historic thirty billion dollar peak.",
+    "label": 2
+  },
+  {
+    "headline": "Tech giant announces aggressive share buyback authorization and special cash dividend (Bloomberg).",
+    "label": 2
+  },
+  {
+    "headline": "Defense contractor expands high-wage engineering workforce following record order backlog (CNBC).",
+    "label": 2
+  },
+  {
+    "headline": "Energy producer reports unexpected sixty percent plunge in quarterly operating income (AP News).",
+    "label": 0
+  },
+  {
+    "headline": "According to TechCrunch, european Central Bank receives prestigious global sustainability leadership award for green supply chain.",
+    "label": 2
+  },
+  {
+    "headline": "MarketWatch: Semiconductor maker flagship AI model generates dangerous medical hallucinations during pilot.",
+    "label": 0
+  },
+  {
+    "headline": "Pharmaceutical firm logistics routing optimization slashes fuel costs and delivery transit times.",
+    "label": 2
+  },
+  {
+    "headline": "According to CNBC, automotive group successfully raises two billion dollars in oversubscribed private funding.",
+    "label": 2
+  },
+  {
+    "headline": "Biotech startup reviews foreign currency reserve metrics in scheduled quarterly administrative audit (BBC News).",
+    "label": 1
+  },
+  {
+    "headline": "Automotive group hardware laboratory conducts routine thermal dissipation testing on processors.",
+    "label": 1
+  },
+  {
+    "headline": "Sovereign wealth fund reviews bilateral trade documentation without adjusting existing tariff schedules (Wall Street Journal).",
+    "label": 1
+  },
+  {
+    "headline": "Cloud provider renewable utility completes installation of massive utility-scale battery farm (Bloomberg).",
+    "label": 2
+  },
+  {
+    "headline": "TechCrunch: Consumer goods giant medical diagnostics device receives accelerated breakthrough device designation.",
+    "label": 2
+  }
+]

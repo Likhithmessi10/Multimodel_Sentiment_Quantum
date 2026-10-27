@@ -1,0 +1,16 @@
+{
+  "total_samples": 50000,
+  "train_samples": 35000,
+  "val_samples": 7500,
+  "test_samples": 7500,
+  "train_pos": 17500,
+  "train_neg": 17500,
+  "val_pos": 3750,
+  "val_neg": 3750,
+  "test_pos": 3750,
+  "test_neg": 3750,
+  "max_vocab_size": 15000,
+  "max_seq_len": 200,
+  "tfidf_features": 10000,
+  "random_seed": 42
+}
