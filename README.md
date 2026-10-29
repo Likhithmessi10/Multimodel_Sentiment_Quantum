@@ -1,3 +1,14 @@
+---
+title: PulsePress Q - Quantum Sentiment Analysis
+emoji: ⚛️
+colorFrom: indigo
+colorTo: purple
+sdk: streamlit
+sdk_version: 1.35.0
+app_file: app.py
+pinned: false
+---
+
 # Quantum-Enhanced Sentiment Analysis for Real-Time News Aggregation (PulsePress Q)
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%20%7C%203.11-blue.svg)](https://www.python.org/)
