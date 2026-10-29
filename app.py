@@ -47,14 +47,37 @@ def safe_refresh_news(aggregator, force_clear: bool = True, max_age_hours: int =
         except TypeError:
             return aggregator.refresh_now()
 
+import model_pipeline
+try:
+    model_pipeline = importlib.reload(model_pipeline)
+except Exception:
+    pass
+
 from model_pipeline import (
     global_pipeline,
     run_leakage_free_benchmark,
     run_cross_validation_benchmark,
     run_stress_test_validation,
     LABEL_EMOJIS,
-    LABEL_NAMES
+    LABEL_NAMES,
+    HybridQSVMPipeline
 )
+
+def safe_batch_predict(pipeline_obj, articles: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+    """Safely score sentiment on articles, using batch evaluation if available or fallback."""
+    if hasattr(pipeline_obj, "predict_articles"):
+        try:
+            return pipeline_obj.predict_articles(articles)
+        except Exception:
+            pass
+    for a in articles:
+        if "sentiment_analysis" not in a:
+            try:
+                a["sentiment_analysis"] = pipeline_obj.predict_single(a["title"])
+            except Exception:
+                pass
+    return articles
+
 
 # ===========================================================================
 # Streamlit Page Configuration
@@ -216,6 +239,11 @@ def get_cached_stress_test():
 # Preload pipeline
 pipeline = load_hybrid_system()
 
+# Dynamically bind predict_articles if pipeline was cached by st.cache_resource prior to module reload
+if not hasattr(pipeline, "predict_articles") and hasattr(HybridQSVMPipeline, "predict_articles"):
+    import types
+    pipeline.predict_articles = types.MethodType(HybridQSVMPipeline.predict_articles, pipeline)
+
 # Start background scraper loop if not active
 global_aggregator.start_background_loop()
 
@@ -223,7 +251,7 @@ global_aggregator.start_background_loop()
 if "articles" not in st.session_state or not st.session_state["articles"]:
     with st.spinner("Connecting to live global breaking news feeds (Google News, BBC, NYT, Al Jazeera, TechCrunch)..."):
         raw_fresh = safe_refresh_news(global_aggregator, force_clear=True, max_age_hours=48)
-        st.session_state["articles"] = pipeline.predict_articles(raw_fresh)
+        st.session_state["articles"] = safe_batch_predict(pipeline, raw_fresh)
 
 
 # ===========================================================================
@@ -255,7 +283,7 @@ with st.sidebar:
     if do_refresh or do_force:
         with st.spinner("Fetching latest breaking headlines across live global feeds..."):
             raw_fresh = safe_refresh_news(global_aggregator, force_clear=True, max_age_hours=max_age_hours)
-            st.session_state["articles"] = pipeline.predict_articles(raw_fresh)
+            st.session_state["articles"] = safe_batch_predict(pipeline, raw_fresh)
             newest_rel = st.session_state["articles"][0].get("relative_time", "Just now") if st.session_state["articles"] else "N/A"
             st.success(f"Updated with {len(st.session_state['articles'])} fresh headlines! (Newest: {newest_rel})")
             st.rerun()
