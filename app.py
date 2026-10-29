@@ -27,7 +27,26 @@ current_dir = os.path.dirname(os.path.abspath(__file__))
 if current_dir not in sys.path:
     sys.path.insert(0, current_dir)
 
-from scraper import global_aggregator, RSS_FEEDS
+import importlib
+import scraper
+try:
+    scraper = importlib.reload(scraper)
+except Exception:
+    pass
+
+global_aggregator = scraper.global_aggregator
+RSS_FEEDS = scraper.RSS_FEEDS
+
+def safe_refresh_news(aggregator, force_clear: bool = True, max_age_hours: int = 48) -> List[Dict[str, Any]]:
+    """Safely invoke refresh_now with backward-compatible argument fallback."""
+    try:
+        return aggregator.refresh_now(force_clear=force_clear, max_age_hours=max_age_hours)
+    except TypeError:
+        try:
+            return aggregator.refresh_now(force_clear)
+        except TypeError:
+            return aggregator.refresh_now()
+
 from model_pipeline import (
     global_pipeline,
     run_leakage_free_benchmark,
@@ -203,7 +222,7 @@ global_aggregator.start_background_loop()
 # Session State for articles
 if "articles" not in st.session_state or not st.session_state["articles"]:
     with st.spinner("Connecting to live global breaking news feeds (Google News, BBC, NYT, Al Jazeera, TechCrunch)..."):
-        raw_fresh = global_aggregator.refresh_now(force_clear=True, max_age_hours=48)
+        raw_fresh = safe_refresh_news(global_aggregator, force_clear=True, max_age_hours=48)
         st.session_state["articles"] = pipeline.predict_articles(raw_fresh)
 
 
@@ -235,7 +254,7 @@ with st.sidebar:
 
     if do_refresh or do_force:
         with st.spinner("Fetching latest breaking headlines across live global feeds..."):
-            raw_fresh = global_aggregator.refresh_now(force_clear=True, max_age_hours=max_age_hours)
+            raw_fresh = safe_refresh_news(global_aggregator, force_clear=True, max_age_hours=max_age_hours)
             st.session_state["articles"] = pipeline.predict_articles(raw_fresh)
             newest_rel = st.session_state["articles"][0].get("relative_time", "Just now") if st.session_state["articles"] else "N/A"
             st.success(f"Updated with {len(st.session_state['articles'])} fresh headlines! (Newest: {newest_rel})")

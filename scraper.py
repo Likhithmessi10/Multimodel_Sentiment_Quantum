@@ -186,7 +186,7 @@ class DynamicNewsAggregator:
         self._thread: Optional[threading.Thread] = None
         self.last_refresh_time: Optional[str] = None
 
-    def refresh_now(self, force_clear: bool = False, max_age_hours: int = 72) -> List[Dict[str, Any]]:
+    def refresh_now(self, force_clear: bool = False, max_age_hours: int = 72, *args, **kwargs) -> List[Dict[str, Any]]:
         """Perform an immediate refresh of all live sources with strict chronological sorting."""
         threads = []
         collected_articles = []
