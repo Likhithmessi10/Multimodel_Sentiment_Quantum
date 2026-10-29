@@ -546,6 +546,64 @@ class HybridQSVMPipeline:
         probs = self.qsvm.predict_proba(K_test)
         return preds, probs
 
+    def predict_articles(self, articles: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+        """Batch-predict sentiment for a list of article dicts efficiently."""
+        if not self.is_fitted:
+            self.load_or_train()
+
+        unscored_indices = [i for i, a in enumerate(articles) if "sentiment_analysis" not in a]
+        if not unscored_indices:
+            return articles
+
+        unscored_texts = [articles[i]["title"] for i in unscored_indices]
+        t0 = time.time()
+
+        # Batch extract embeddings on GPU
+        embs = self.extractor.extract_batch(unscored_texts, batch_size=64)
+        distil_time = (time.time() - t0) * 1000.0 / max(1, len(unscored_texts))
+
+        # PCA and Scaler (.transform ONLY)
+        pca_vecs = self.pca.transform(embs)
+        x_quantums = self.scaler.transform(pca_vecs)
+
+        # Batch Gram matrix
+        t_q = time.time()
+        K_batch = self.kernel_estimator.compute_gram_matrix(x_quantums, self.support_X_quantum, fast_statevector=True)
+        quantum_time = (time.time() - t_q) * 1000.0 / max(1, len(unscored_texts))
+
+        # Probabilities
+        probs_matrix = self.qsvm.predict_proba(K_batch)
+        total_time = (time.time() - t0) * 1000.0 / max(1, len(unscored_texts))
+
+        for k, idx in enumerate(unscored_indices):
+            probs = probs_matrix[k]
+            pred_class = int(np.argmax(probs))
+            confidence = float(np.max(probs))
+            prob_dict = {
+                LABEL_NAMES[c]: round(float(probs[j]) * 100.0, 1)
+                for j, c in enumerate(self.qsvm.classes_)
+            }
+            qubit_angles = [
+                {"qubit": q, "angle_radians": round(float(a), 4), "angle_degrees": round(float(np.degrees(a)), 1)}
+                for q, a in enumerate(x_quantums[k])
+            ]
+            articles[idx]["sentiment_analysis"] = {
+                "headline": unscored_texts[k],
+                "sentiment": LABEL_NAMES[pred_class],
+                "emoji": LABEL_EMOJIS[pred_class],
+                "confidence": round(confidence * 100.0, 1),
+                "probabilities": prob_dict,
+                "pca_angles": qubit_angles,
+                "latency": {
+                    "total_ms": round(total_time, 2),
+                    "distilbert_ms": round(distil_time, 2),
+                    "quantum_kernel_ms": round(quantum_time, 2)
+                },
+                "quantum_hardware": "PennyLane default.qubit (CPU Statevector Simulator)",
+                "qubits": self.n_components
+            }
+        return articles
+
     def predict_single(self, text: str) -> Dict[str, Any]:
         """Real-time single-headline inference."""
         if not self.is_fitted:

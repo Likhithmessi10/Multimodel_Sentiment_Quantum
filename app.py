@@ -115,6 +115,17 @@ st.markdown("""
         margin-right: 8px;
     }
 
+    .time-badge {
+        font-size: 0.75rem;
+        font-weight: 700;
+        padding: 3px 8px;
+        border-radius: 6px;
+        background: rgba(16, 185, 129, 0.15);
+        color: #34d399;
+        border: 1px solid rgba(16, 185, 129, 0.3);
+        margin-right: 8px;
+    }
+
     .sentiment-pill-pos {
         background: rgba(16, 185, 129, 0.15);
         color: #10b981;
@@ -191,12 +202,9 @@ global_aggregator.start_background_loop()
 
 # Session State for articles
 if "articles" not in st.session_state or not st.session_state["articles"]:
-    with st.spinner("Connecting to global news feeds (BBC, CNN, Al Jazeera, TechCrunch, NPR)..."):
-        st.session_state["articles"] = global_aggregator.refresh_now()
-        # Analyze initial batch of headlines
-        for art in st.session_state["articles"]:
-            if "sentiment_analysis" not in art:
-                art["sentiment_analysis"] = pipeline.predict_single(art["title"])
+    with st.spinner("Connecting to live global breaking news feeds (Google News, BBC, NYT, Al Jazeera, TechCrunch)..."):
+        raw_fresh = global_aggregator.refresh_now(force_clear=True, max_age_hours=48)
+        st.session_state["articles"] = pipeline.predict_articles(raw_fresh)
 
 
 # ===========================================================================
@@ -209,18 +217,32 @@ with st.sidebar:
     st.markdown("---")
     
     # Refresh Actions
-    if st.button("🔄 **Refresh News Feeds Now**", use_container_width=True):
-        with st.spinner("Fetching latest breaking headlines..."):
-            new_articles = global_aggregator.refresh_now()
-            st.session_state["articles"] = new_articles
-            for art in st.session_state["articles"]:
-                if "sentiment_analysis" not in art:
-                    art["sentiment_analysis"] = pipeline.predict_single(art["title"])
-            st.success(f"Updated with {len(new_articles)} headlines!")
+    col_ref1, col_ref2 = st.columns([1, 1])
+    with col_ref1:
+        do_refresh = st.button("🔄 **Refresh Now**", use_container_width=True, type="primary")
+    with col_ref2:
+        do_force = st.button("⚡ **Live Fetch**", use_container_width=True, help="Flush all cache and re-scrape all active RSS networks")
+
+    # Freshness / Age Filter
+    age_filter_map = {
+        "Past 12 Hours (Breaking)": 12,
+        "Past 24 Hours (Today)": 24,
+        "Past 48 Hours": 48,
+        "Past 7 Days": 168
+    }
+    selected_age_label = st.selectbox("Max Story Age", list(age_filter_map.keys()), index=1)
+    max_age_hours = age_filter_map[selected_age_label]
+
+    if do_refresh or do_force:
+        with st.spinner("Fetching latest breaking headlines across live global feeds..."):
+            raw_fresh = global_aggregator.refresh_now(force_clear=True, max_age_hours=max_age_hours)
+            st.session_state["articles"] = pipeline.predict_articles(raw_fresh)
+            newest_rel = st.session_state["articles"][0].get("relative_time", "Just now") if st.session_state["articles"] else "N/A"
+            st.success(f"Updated with {len(st.session_state['articles'])} fresh headlines! (Newest: {newest_rel})")
             st.rerun()
 
     last_time = global_aggregator.last_refresh_time or datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    st.caption(f"🕒 Last Polled: `{last_time}`")
+    st.caption(f"🕒 Last Polled: `{last_time}` (Sorted Newest First)")
 
     st.markdown("---")
     st.markdown("### 🎯 **Feed Filtering**")
@@ -344,6 +366,7 @@ with tab_feed:
                         <div>
                             <span class="source-badge">{art['source']}</span>
                             <span class="category-badge">{art['category']}</span>
+                            <span class="time-badge">🕒 {art.get('relative_time', 'Just now')}</span>
                             <span style="font-size: 0.8rem; color: #9ca3af;">{art['published']}</span>
                         </div>
                         <div>
